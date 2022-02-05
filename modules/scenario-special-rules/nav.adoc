@@ -1,0 +1,7 @@
+* xref:scenario-special-rules.adoc[]
+ ** xref:army-morale.adoc[]
+ ** xref:drop-pods.adoc[]
+ ** xref:fortifications.adoc[]
+ ** xref:hidden-set-up.adoc[]
+ ** xref:objectives.adoc[]
+ ** xref:reserves.adoc[]

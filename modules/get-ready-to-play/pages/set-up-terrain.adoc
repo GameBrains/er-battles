@@ -1,0 +1,4 @@
+= Set up terrain
+
+.Related information
+* xref:more:random-terrain-generators.adoc[]

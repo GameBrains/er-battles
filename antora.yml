@@ -4,4 +4,10 @@ version: master
 
 nav:
 - modules/ROOT/nav.adoc
-- modules/battles/nav.adoc
+- modules/get-ready-to-play/nav.adoc
+- modules/scenario-special-rules/nav.adoc
+- modules/scenarios/nav.adoc
+- modules/fate-cards/nav.adoc
+- modules/campaigns/nav.adoc
+- modules/more/nav.adoc
+- modules/experimental/nav.adoc

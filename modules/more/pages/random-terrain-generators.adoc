@@ -1,0 +1,4 @@
+= Random terrain generators
+
+.Related information
+* xref:get-ready-to-play:set-up-terrain.adoc[]

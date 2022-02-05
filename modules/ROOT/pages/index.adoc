@@ -1,1 +1,13 @@
 = Battles
+
+Here you'll find guidance and ideas on how to set up a game of {project-name}.
+You'll also find scenario special rules; these are particular to some scenarios, so we detail them here rather than in the Core component.
+
+Topics that we cover here include:
+
+* How to select a scenario and decide what forces to use.
+* How to set up a scenario and terrain for the playing area.
+* Fate cards -- what they are and how to use them in your games.
+* How to deploy your forces and how to begin and end the game.
+* Scenario special rules and how to apply them to your games.
+* How to play through multiple scenarios as a campaign.

@@ -1,0 +1,4 @@
+= Fate card texts
+
+.Related information
+* xref:get-ready-to-play:draw-fate-cards.adoc[]

@@ -1,0 +1,94 @@
+= Fate cards -- Orks
+
+== Dur/Counter Attack
+
+|===
+|Original |New
+
+|*DUR*
+
+Each Ork detachment that has its HQ within 15cm of a Gargant becomes stubborn for the rest of the turn.
+
+*Play this card at any time.*
+
+|*Dur*
+
+*You may play this card at any time.*
+
+Each Ork detachment that has its HQ unit within 15 cm of a Gargant gains the {stubborn} ability until the end of the turn.
+
+include::partial$use-one-only.adoc[]
+
+include::partial$counter-attack.adoc[]
+
+|===
+
+== Dakka/Counter Attack
+
+|===
+|Original |New
+
+|*Dakka*
+
+This card allows you to double the firepower of any Boyz units (not Shooty Boyz) in an Ork detachment for one turn.
+If the Ork detachment is shot at later in the shooting phase your opponent use the Marching column on the  firepower chart.
+
+*Play this card at the start of the Shooting phase.*
+
+a|*Dakka*
+
+You may play this card at the start of the Shooting phase.
+#{blank}[TODO: Before the first determination of Initiative?]#
+
+Choose an Ork detachment.
+Then:
+
+* Double the Firepower value of all Boyz^+*+^ units in this detachment until the end of the turn.
++
+_^+*+^Not Shooty Boyz_.
+
+* If this detachment becomes a target later in this Shooting phase, your opponent must use the Marching column on the Firepower table.
+
+include::partial$use-one-only.adoc[]
+
+include::partial$counter-attack.adoc[]
+
+|===
+
+== Grub/Counter Attack
+
+|===
+|Original |New
+
+|*Grub*
+
+Play on an Ork detachment.
+Hiding Grotz return to play.
+You may bring back 1D6 Gretchin stands which have already been removed as casualties.
+
+*Play this card at any time.*
+
+|*Grub*
+
+*You may play this card at any time.*
+
+Choose an Ork detachment that has suffered Gretchin unit casualties.
+Roll D6 and return up to this many of those casualties to play.
+#{blank}[TODO: How/where to place? Base-to-base contact allowed?]#
+
+include::partial$use-one-only.adoc[]
+
+include::partial$counter-attack.adoc[]
+
+|===
+
+==
+
+|===
+|Original |New
+
+|
+
+|
+
+|===

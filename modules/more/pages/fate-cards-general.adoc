@@ -1,0 +1,144 @@
+= Fate cards -- general
+
+== Brilliant Strategy
+
+|===
+|Original |New
+
+|_The threads of your plan come together now, outwitting your opponent at every turn and foiling his desperate attempts to outmanoeuvre your army._
+
+Your army automatically wins the Initiative in this phase, do not draw an initiative counter.
+
+*Play this card at the start of any phase before initiative is decided.*
+
+|_Now the threads of your plan come together. You outwit your opponent at a crucial moment._
+
+*You may play this card immediately before any 'Determine the Initiative' step in the turn sequence.*
+
+You automatically gain the Initiative in this phase; do not draw an Initiative counter.
+
+|===
+
+== Curses, Foiled Again
+
+|===
+|Original |New
+
+|_By some amazing means, you have managed to turn the tables on your opponent._
+
+This card cancels a Fate card played by your opponent and allows you to  immediately use it yourself. If you do not or cannot use the card straightaway, it is discarded.
+
+*Play this card after your opponent plays a Fate card.*
+
+|_Through some extraordinary foresight or gift of fortune, you turn your opponent's own plans against them._
+
+*You may play this card immediately after your opponent plays a Fate card.*
+
+Cancel that card, and then immediately use it yourself as if it were your own.
+If you can't use it immediately, or you prefer not to, then discard it.
+
+|===
+
+== Forced March
+
+|===
+|Original |New
+
+|_Speed is vital and your troops push themselves and their vehicles to the limit to reach their objective._
+
+You may add 10cm to the Speed of all units in a single detachment for the rest of the
+turn.
+
+*Play this card at any time.*
+
+|_Through an extreme effort, some of your units push themselves to the limit to reach a vital objective._
+
+*You may play this card at any time.*
+
+Choose one of your detachments — for the rest of this turn, add 10 cm to the Speed value of every unit in this detachment.
+
+|===
+
+== Divine Inspiration
+
+|===
+|Original |New
+
+|_Your troops are filled with heroic courage and throw themselves into the fray with no regard for their own lives._
+
+You may immediately remove D3 Blast markers from a single detachment in your army.
+
+*Play this card at any time.*
+
+|_Some of your units are filled with the determination to succeed in spite of stiff opposition._
+
+*You may play this card at any time.*
+
+Choose one of your detachments and immediately remove D3 Blast markers from it.
+
+|===
+
+== Orbital Barrage
+
+|===
+|Original |New
+
+|_Vessels orbiting the planet rain down a salvo of fire against the enemy._
+
+You may make a single attack against one enemy detachment anywhere on the table. Roll 3D6 to determine the firepower of the attack.
+
+Any hits are allocated by your opponent.
+
+*Play this card in the shooting phase, instead of nominating a detachment to fire.*
+
+|_Friendly spacecraft in orbit around the planet rain ordnance upon the enemy._
+
+*You may play this card in the shooting phase, when it is your turn to nominate a detachment to shoot with.*
+
+Choose one enemy detachment, anywhere in the playing area.
+Make a single attack against it, with a Firepower total of 3D6.
+
+In this special case, your opponent should allocate the hits.
+
+#{blank}[TODO: Hmmm. Do we need to say something more about how this should work? I guess this special case came about largely because there is no direction for the attack to decide 'nearest' units for allocation -- so in this case the target player gets to allocate as they prefer without regard to 'nearest', though still subject to the other restrictions (like no second hit on units until they've allocated a first hit to every unit).]#
+
+|===
+
+== Counter Attack / Psychic Blast (X)
+
+{blank}[Where there are two cards with X=1, three cards with X=2 and one card with X=3.]
+
+|===
+|Original |New
+
+|*COUNTER ATTACK*
+
+This card allows you to re-roll a single firefight or close combat dice
+roll.
+No dice may be re-rolled more than once.
+
+*Play this card after the dice roll in a close combat or firefight.*
+
+|*Counter Attack*
+
+*You may play this card after you roll for Assault resolution in a close combat or firefight.*
+
+Re-roll the die for Assault resolution.
+You must abide by the new result.
+
+include::partial$use-one-only.adoc[]
+
+|*PSYCHIC BLAST (X)*
+
+Pick any unit within 30cm of one of your psykers.
+The unit takes a hit unless the opposing player nullifies the attack by playing a Psychic Blast with a higher value.
+
+*Play this card at any time.*
+
+|*Psychic Blast (X)*
+
+*You may play this card at any time.*
+
+Choose any unit that is within 30 cm of one of your {psyker} units -- the target unit takes a hit, unless your opponent plays a Psychic Blast card with a higher value, to nullify your attack.
+
+|===

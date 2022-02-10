@@ -1,2 +1,4 @@
 = Draw Fate cards
 
+.Related information
+* xref:more:fate-card-texts.adoc[]

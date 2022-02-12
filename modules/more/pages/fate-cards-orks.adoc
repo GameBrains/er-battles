@@ -133,9 +133,7 @@ The unit takes a hit unless the opposing player nullifies the attack by playing 
 
 *Play this card at any time.*
 
-|*Psychic Attack (1)*
-
-*_Stomp_*
+|*Psychic Attack (1) -- Stomp*
 
 #[TODO: As far as I can tell, 'Stomp' operates just like 'Psychic Blast'-- but should the effect be open for use with a non-Ork psyker in an allied force? If not then the 'Stomp' version of 'Psychic Blast' should specify '*Ork* {psyker} units'.]#
 
@@ -171,9 +169,7 @@ The unit takes a hit unless the opposing player nullifies the attack by playing 
 
 *Play this card at any time.*
 
-|*Psychic Attack (3)*
-
-*_Stomp_*
+|*Psychic Attack (3) -- Stomp*
 
 include::partial$psychic-blast.adoc[]
 
@@ -205,9 +201,7 @@ The unit takes a hit unless the opposing player nullifies the attack by playing 
 
 *Play this card at any time.*
 
-|*Psychic Attack (2)*
-
-*_Stomp_*
+|*Psychic Attack (2) -- Stomp*
 
 include::partial$psychic-blast.adoc[]
 
@@ -241,9 +235,7 @@ The unit takes a hit unless the opposing player nullifies the attack by playing 
 
 *Play this card at any time.*
 
-|*Psychic Attack (2)*
-
-*_Stomp_*
+|*Psychic Attack (2) -- Stomp*
 
 include::partial$psychic-blast.adoc[]
 

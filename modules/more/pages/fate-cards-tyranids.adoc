@@ -13,9 +13,7 @@ include::partial$use-one-only.adoc[]
 
 |*PSYCHIC SCREAM (2)*
 
-|*Psychic Attack (2)*
-
-*_Psychic Scream_*
+|*Psychic Attack (2) -- Psychic Scream*
 
 |===
 
@@ -32,9 +30,7 @@ include::partial$use-one-only.adoc[]
 
 |*PSYCHIC SCREAM (1)*
 
-|*Psychic Attack (1)*
-
-*_Psychic Scream_*
+|*Psychic Attack (1) -- Psychic Scream*
 
 |===
 
@@ -51,9 +47,7 @@ include::partial$use-one-only.adoc[]
 
 |*PSYCHIC SCREAM (2)*
 
-|*Psychic Attack (2)*
-
-*_Psychic Scream_*
+|*Psychic Attack (2) -- Psychic Scream*
 
 |===
 
@@ -70,9 +64,7 @@ include::partial$use-one-only.adoc[]
 
 |*PSYCHIC SCREAM (3)*
 
-|*Psychic Attack (3)*
-
-*_Psychic Scream_*
+|*Psychic Attack (3) -- Psychic Scream*
 
 |===
 

@@ -124,7 +124,7 @@ In this special case, your opponent should allocate the hits.
 
 |===
 
-== Counter Attack / Psychic Blast (X)
+== Counter Attack/Psychic Blast (X)
 
 {blank}[Where there are two cards with X=1, three cards with X=2 and one card with X=3.]
 
@@ -142,9 +142,7 @@ The unit takes a hit unless the opposing player nullifies the attack by playing 
 
 *Play this card at any time.*
 
-|*Psychic Attack (X)*
-
-*_Psychic Blast_*
+|*Psychic Attack (X) -- Psychic Blast*
 
 include::partial$psychic-blast.adoc[]
 

@@ -133,9 +133,11 @@ The unit takes a hit unless the opposing player nullifies the attack by playing 
 
 *Play this card at any time.*
 
-|*Stomp (1)*
+|*Psychic Attack (1)*
 
-#[TODO: Is there any reason *not* to rename 'Stomp' to 'Psychic Blast'? As far as I can tell, the intent seems to have been for 'Stomp' to operate in exactly the same way as 'Psychic Blast' in all respects. However, should *every* faction-specific Fate card work *only* for that faction, even in an allied force? If so then perhaps  the 'Stomp' version of 'Psychic Blast' should specify '*Ork* {psyker} units'?]#
+*_Stomp_*
+
+#[TODO: As far as I can tell, 'Stomp' operates just like 'Psychic Blast'-- but should the effect be open for use with a non-Ork psyker in an allied force? If not then the 'Stomp' version of 'Psychic Blast' should specify '*Ork* {psyker} units'.]#
 
 include::partial$psychic-blast.adoc[]
 
@@ -169,7 +171,9 @@ The unit takes a hit unless the opposing player nullifies the attack by playing 
 
 *Play this card at any time.*
 
-|*Stomp (3)*
+|*Psychic Attack (3)*
+
+*_Stomp_*
 
 include::partial$psychic-blast.adoc[]
 
@@ -201,7 +205,9 @@ The unit takes a hit unless the opposing player nullifies the attack by playing 
 
 *Play this card at any time.*
 
-|*Stomp (2)*
+|*Psychic Attack (2)*
+
+*_Stomp_*
 
 include::partial$psychic-blast.adoc[]
 
@@ -235,7 +241,9 @@ The unit takes a hit unless the opposing player nullifies the attack by playing 
 
 *Play this card at any time.*
 
-|*Stomp (2)*
+|*Psychic Attack (2)*
+
+*_Stomp_*
 
 include::partial$psychic-blast.adoc[]
 

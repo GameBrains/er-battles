@@ -1,12 +1,145 @@
 = Fate cards -- Tyranids
 
-==
+== Terrorise/Psychic Scream (2)
 
 |===
 |Original |New
 
-|
+|*TERRORISE*
 
-|
+|*Terrorise*
+
+include::partial$use-one-only.adoc[]
+
+|*PSYCHIC SCREAM (2)*
+
+|*Psychic Attack (2)*
+
+*_Psychic Scream_*
+
+|===
+
+== Catalyst/Psychic Scream (1)
+
+|===
+|Original |New
+
+|*CATALYST*
+
+|*Catalyst*
+
+include::partial$use-one-only.adoc[]
+
+|*PSYCHIC SCREAM (1)*
+
+|*Psychic Attack (1)*
+
+*_Psychic Scream_*
+
+|===
+
+== Regeneration/Psychic Scream (2)
+
+|===
+|Original |New
+
+|*REGENERATION*
+
+|*Regeneration*
+
+include::partial$use-one-only.adoc[]
+
+|*PSYCHIC SCREAM (2)*
+
+|*Psychic Attack (2)*
+
+*_Psychic Scream_*
+
+|===
+
+== Drifting Spore Mines/Psychic Scream (3)
+
+|===
+|Original |New
+
+|*DRIFITNG SPORE MINES*
+
+|*Drifting Spore Mines*
+
+include::partial$use-one-only.adoc[]
+
+|*PSYCHIC SCREAM (3)*
+
+|*Psychic Attack (3)*
+
+*_Psychic Scream_*
+
+|===
+
+== Adrenaline Sacs/Destroy the Weak Flesh
+
+|===
+|Original |New
+
+|*ADRENALINE SACS*
+
+|*Adrenaline Sacs*
+
+include::partial$use-one-only.adoc[]
+
+|*DESTROY THE WEAK FLESH*
+
+|*Destroy the Weak Flesh*
+
+|===
+
+== Drifting Spore Mines/Destroy the Weak Flesh
+
+|===
+|Original |New
+
+|*DRIFITNG SPORE MINES*
+
+|*Drifting Spore Mines*
+
+include::partial$use-one-only.adoc[]
+
+|*DESTROY THE WEAK FLESH*
+
+|*Destroy the Weak Flesh*
+
+|===
+
+== Infestation/Destroy the Weak Flesh
+
+|===
+|Original |New
+
+|*INFESTATION*
+
+|*Infestation*
+
+include::partial$use-one-only.adoc[]
+
+|*DESTROY THE WEAK FLESH*
+
+|*Destroy the Weak Flesh*
+
+|===
+
+== Orbital Bio-Barrage/Destroy the Weak Flesh
+
+|===
+|Original |New
+
+|*ORBITAL BIO-BARRAGE*
+
+|*Orbital Bio-Barrage*
+
+include::partial$use-one-only.adoc[]
+
+|*DESTROY THE WEAK FLESH*
+
+|*Destroy the Weak Flesh*
 
 |===

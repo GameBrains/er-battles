@@ -131,20 +131,7 @@ In this special case, your opponent should allocate the hits.
 |===
 |Original |New
 
-|*COUNTER ATTACK*
-
-This card allows you to re-roll a single firefight or close combat dice
-roll.
-No dice may be re-rolled more than once.
-
-*Play this card after the dice roll in a close combat or firefight.*
-
-|*Counter Attack*
-
-*You may play this card after you roll for Assault resolution in a close combat or firefight.*
-
-Re-roll the die for Assault resolution.
-You must abide by the new result.
+include::partial$counter-attack.adoc[]
 
 include::partial$use-one-only.adoc[]
 
@@ -155,7 +142,9 @@ The unit takes a hit unless the opposing player nullifies the attack by playing 
 
 *Play this card at any time.*
 
-|*Psychic Blast (X)*
+|*Psychic Attack (X)*
+
+*_Psychic Blast_*
 
 include::partial$psychic-blast.adoc[]
 

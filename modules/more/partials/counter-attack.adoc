@@ -1,7 +1,14 @@
 |*COUNTER ATTACK*
 
-{blank}[As for general Fate cards]
+This card allows you to re-roll a single firefight or close combat dice
+roll.
+No dice may be re-rolled more than once.
+
+*Play this card after the dice roll in a close combat or firefight.*
 
 |*Counter Attack*
 
-{blank}[As for general Fate cards]
+*You may play this card after you roll for Assault resolution in a close combat or firefight.*
+
+Re-roll the die for Assault resolution.
+You must abide by the new result.

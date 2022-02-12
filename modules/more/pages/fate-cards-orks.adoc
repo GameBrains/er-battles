@@ -28,7 +28,7 @@ include::partial$counter-attack.adoc[]
 |===
 |Original |New
 
-|*Dakka*
+|*DAKKA*
 
 This card allows you to double the firepower of any Boyz units (not Shooty Boyz) in an Ork detachment for one turn.
 If the Ork detachment is shot at later in the shooting phase your opponent use the Marching column on the  firepower chart.
@@ -60,7 +60,7 @@ include::partial$counter-attack.adoc[]
 |===
 |Original |New
 
-|*Grub*
+|*GRUB*
 
 Play on an Ork detachment.
 Hiding Grotz return to play.
@@ -82,13 +82,161 @@ include::partial$counter-attack.adoc[]
 
 |===
 
-==
+== Zag It!/Counter Attack
 
 |===
 |Original |New
 
-|
+|*ZAG IT!*
 
-|
+This card allows you to add 10cm to the speed of one Ork detachment for the rest of the turn.
+
+*Play this card at any time.*
+
+|*Zag It!*
+
+*You may play this card at any time.*
+
+Add 10 cm to the Speed value of one Ork detachment for the rest of the turn.
+#[TODO: 'speed' in the original is ambiguous -- should it be +10 cm to the *Speed value*, or to the overall *movement* in a phase...?]#
+
+include::partial$use-one-only.adoc[]
+
+include::partial$counter-attack.adoc[]
+
+|===
+
+== Blitz/Stomp (1)
+
+|===
+|Original |New
+
+|*BLITZ*
+
+This card allows you to re-roll failed reserve rolls for any Ork detachments for one turn.
+
+*Play this card before rolling for your reserves.*
+
+|*Blitz*
+
+*You may play this card at the start of the turn, before you roll for Reserves.*
+
+During this turn, you may re-roll any and all Reserves rolls that you fail for Ork detachments.
+#[TODO: Might be worth a little more thought terminology related to success and failure in general -- while 'test' and 'fail' pair well, 'roll' and 'fail' is a bit odd. We might want to tighten this up in the project and/or add further clarification at xref:core:main-rules:use-of-dice.adoc[].]#
+
+include::partial$use-one-only.adoc[]
+
+|*STOMP (1)*
+
+Pick any unit within 30cm of one of your psykers.
+The unit takes a hit unless the opposing player nullifies the attack by playing a Psychic Blast with a higher value.
+
+*Play this card at any time.*
+
+|*Stomp (1)*
+
+#[TODO: Is there any reason *not* to rename 'Stomp' to 'Psychic Blast'? As far as I can tell, the intent seems to have been for 'Stomp' to operate in exactly the same way as 'Psychic Blast' in all respects. However, should *every* faction-specific Fate card work *only* for that faction, even in an allied force? If so then perhaps  the 'Stomp' version of 'Psychic Blast' should specify '*Ork* {psyker} units'?]#
+
+include::partial$psychic-blast.adoc[]
+
+|===
+
+== Waaagh!/Stomp (3)
+
+|===
+|Original |New
+
+|*WAAAGH!*
+
+This card allows you to re-roll a single firefight or close combat dice roll.
+No dice may be re-rolled more than once.
+
+*Play this card at any time on an Ork detachment on assault orders.*
+
+|*Waaagh!*
+
+*You may play this card at any time, on an Ork detachment that is on Assault orders.*
+
+You may re-roll a single Assault resolution roll for this detachment.
+#[TODO: Ambiguous. Presumably, you can play this car immediately *after* the roll -- in which case, we ought to rationalise in line with the similar Counter Attack text.]#
+
+include::partial$use-one-only.adoc[]
+
+|*STOMP (3)*
+
+Pick any unit within 30cm of one of your psykers.
+The unit takes a hit unless the opposing player nullifies the attack by playing a Psychic Blast with a higher value.
+
+*Play this card at any time.*
+
+|*Stomp (3)*
+
+include::partial$psychic-blast.adoc[]
+
+|===
+
+== Dur/Stomp (2)
+
+|===
+|Original |New
+
+|*DUR*
+
+Each Ork detachment that has its HQ within 15cm of a Gargant becomes stubborn for the rest of the turn.
+
+*Play this card at any time.*
+
+|*Dur*
+
+*You may play this card at any time.*
+
+Each Ork detachment that has its HQ unit within 15 cm of a Gargant gains the {stubborn} ability until the end of the turn.
+
+include::partial$use-one-only.adoc[]
+
+|*STOMP (2)*
+
+Pick any unit within 30cm of one of your psykers.
+The unit takes a hit unless the opposing player nullifies the attack by playing a Psychic Blast with a higher value.
+
+*Play this card at any time.*
+
+|*Stomp (2)*
+
+include::partial$psychic-blast.adoc[]
+
+|===
+
+== Boss/Stomp (2)
+
+|===
+|Original |New
+
+|*BOSS*
+
+Play this card on any single Ork detachment.
+The detachment automatically passes the next leadership test they take.
+
+*Play this card at any time.*
+
+|*Boss*
+
+*You may play this card at any time.*
+
+Choose an Ork detachment.
+You automatically pass the next Leadership test that you are required to make for this detachment.
+
+include::partial$use-one-only.adoc[]
+
+|*STOMP (2)*
+
+Pick any unit within 30cm of one of your psykers.
+The unit takes a hit unless the opposing player nullifies the attack by playing a Psychic Blast with a higher value.
+
+*Play this card at any time.*
+
+|*Stomp (2)*
+
+include::partial$psychic-blast.adoc[]
 
 |===

@@ -1,1 +1,1 @@
-|*USE ONE ONLY* | *Use one only*
+^|*USE ONE ONLY* ^| *OR*

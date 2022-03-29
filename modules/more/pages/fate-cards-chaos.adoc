@@ -1,6 +1,118 @@
 = Fate cards -- Chaos
 
-==
+== Changing of Ways
+
+|===
+|Original |New
+
+|*CHANGING OF WAYS*
+
+_Tzeentch, the master of Fates, laughs at the puny attempts to thwart his designs._
+
+Roll a dice for each fate card in your opponent's hand.
+On a roll of 5 or 6 the card must be discarded immediately.
+
+*Play this card at the start of the battle, after dealing fate cards.*
+
+|*Changing of Ways*
+
+
+
+|===
+
+== Plague Wind/Psychic Blast (1)
+
+|===
+|Original |New
+
+|*PLAGUE WIND*
+
+Nominate an enemy unit and roll one dice to hit.
+If this hits nominate another unit in the same detachment and roll to hit again.
+Continue to nominate units and roll to hit until you roll a miss.
+A hit cannot cause critical damage on war engines (even Eldar Titans).
+
+*Play this card at any time.*
+
+|*Plague Wind*
+
+
+
+|*PSYCHIC BLAST (1)*
+
+include::partial$psychic-blast-original.adoc[]
+
+|*Psychic Attack (1) — Psychic Blast*
+
+include::partial$psychic-blast.adoc[]
+
+|===
+
+== Warp Frenzy/Psychic Blast (3)
+
+|===
+|Original |New
+
+|*WARP FRENZY*
+
+The affected detachment may roll two dice for its close combat score and choose the best.
+If the detachment re-rolls its dice, it may re-roll both dice.
+
+*Play this card on a Chaos detachment before rolling the dice to resolve an assault.*
+
+|*Warp Frenzy*
+
+|*PSYCHIC BLAST (3)*
+
+include::partial$psychic-blast-original.adoc[]
+
+|*Psychic Attack (3) — Psychic Blast*
+
+include::partial$psychic-blast.adoc[]
+
+|===
+
+== Withering Gaze (2)/Psychic Blast (2)
+
+|===
+|Original |New
+
+|*WITHERING GAZE (2)*
+
+include::partial$withering-gaze-original.adoc[]
+
+|*Withering Gaze (2)*
+
+include::partial$withering-gaze.adoc[]
+
+|*PSYCHIC BLAST (2)*
+
+include::partial$psychic-blast-original.adoc[]
+
+|*Psychic Attack (2) — Psychic Blast*
+
+include::partial$psychic-blast.adoc[]
+
+|===
+
+== Withering Gaze (2)/Counter Attack
+
+|===
+|Original |New
+
+|*WITHERING GAZE (2)*
+
+include::partial$withering-gaze-original.adoc[]
+
+|*Withering Gaze (2)*
+
+include::partial$withering-gaze.adoc[]
+
+include::partial$counter-attack.adoc[]
+
+|===
+
+== 
 
 |===
 |Original |New

@@ -7,13 +7,29 @@
 
 |*TERRORISE*
 
+_Such is the domination of the Hive Mind over the battlefield that it weakens the resolve of even the hardiest foe._
+
+*Play this card on an enemy detachment.
+The detachment must pass an immediate leadership test or become broken.*
+
 |*Terrorise*
+
+_The Hive Mind dominates the battlefield and weakens the resolve of even its strongest foes._
+
+*You may play this card at any time.*
+
+Choose an enemy detachment.
+Your opponent must take and pass a Leadership test for this detachment, or else it becomes Broken.
 
 include::partial$use-one-only.adoc[]
 
 |*PSYCHIC SCREAM (2)*
 
+include::partial$psychic-scream-original.adoc[]
+
 |*Psychic Attack (2) -- Psychic Scream*
+
+include::partial$psychic-scream.adoc[]
 
 |===
 
@@ -24,13 +40,25 @@ include::partial$use-one-only.adoc[]
 
 |*CATALYST*
 
+Play on a single Tyranid detachment at the start of the movement phase.
+Each unit in the detachment may double it's speed for this movement phase.
+
 |*Catalyst*
+
+*You may play this card at the start of the Movement phase.*
+
+Choose a single Tyranid detachment.
+For this phase only, double the Speed value of each unit in this detachment.
 
 include::partial$use-one-only.adoc[]
 
 |*PSYCHIC SCREAM (1)*
 
+include::partial$psychic-scream-original.adoc[]
+
 |*Psychic Attack (1) -- Psychic Scream*
+
+include::partial$psychic-scream.adoc[]
 
 |===
 
@@ -41,13 +69,28 @@ include::partial$use-one-only.adoc[]
 
 |*REGENERATION*
 
+Play on a single Tyranid war engine.
+Roll a dice for each point of damage it has taken.
+On a 4+ the damage is regained.
+
+*Play this card in the rally phase.*
+
 |*Regeneration*
+
+*You may play this card in the Rally phase.*
+
+Choose a single Tyranid War Engine unit.
+Roll a die for each point of Damage Capacity it has lost: For each result of 4+, restore one point to the unit.
 
 include::partial$use-one-only.adoc[]
 
 |*PSYCHIC SCREAM (2)*
 
+include::partial$psychic-scream-original.adoc[]
+
 |*Psychic Attack (2) -- Psychic Scream*
+
+include::partial$psychic-scream.adoc[]
 
 |===
 
@@ -56,15 +99,26 @@ include::partial$use-one-only.adoc[]
 |===
 |Original |New
 
-|*DRIFITNG SPORE MINES*
+|*DRIFTING SPORE MINES*
+
+An enemy detachment has run into a swarm of drifting spore mines.
+The detachment takes 1D3 blast markers as Spore mines begin to detonate.
+
+*Play this card on an enemy detachment at any time.*
 
 |*Drifting Spore Mines*
+
+include::partial$drifting-spore-mines.adoc[]
 
 include::partial$use-one-only.adoc[]
 
 |*PSYCHIC SCREAM (3)*
 
+include::partial$psychic-scream-original.adoc[]
+
 |*Psychic Attack (3) -- Psychic Scream*
+
+include::partial$psychic-scream.adoc[]
 
 |===
 
@@ -75,13 +129,26 @@ include::partial$use-one-only.adoc[]
 
 |*ADRENALINE SACS*
 
+A Tyranid detachment on Assault orders may fire in the shooting phase using their full firepower value.
+
+*Play this card in the movement phase.*
+
 |*Adrenaline Sacs*
+
+*You may play this card in the Movement phase.*
+
+Choose a Tyranid detachment that is on Assault orders.
+When you shoot with this detachment in the Shooting phase, do not halve its Firepower total as you usually would.
 
 include::partial$use-one-only.adoc[]
 
 |*DESTROY THE WEAK FLESH*
 
+include::partial$destroy-the-weak-flesh-original.adoc[]
+
 |*Destroy the Weak Flesh*
+
+include::partial$destroy-the-weak-flesh.adoc[]
 
 |===
 
@@ -90,15 +157,26 @@ include::partial$use-one-only.adoc[]
 |===
 |Original |New
 
-|*DRIFITNG SPORE MINES*
+|*DRIFTING SPORE MINES*
+
+An enemy detachment has run into a swarm of drifting spore mines.
+The detachment takes 1D3 blast markers as Spore mines begin to detonate.
+
+*Play this card on an enemy detachment at any time.*
 
 |*Drifting Spore Mines*
+
+include::partial$drifting-spore-mines.adoc[]
 
 include::partial$use-one-only.adoc[]
 
 |*DESTROY THE WEAK FLESH*
 
+include::partial$destroy-the-weak-flesh-original.adoc[]
+
 |*Destroy the Weak Flesh*
+
+include::partial$destroy-the-weak-flesh.adoc[]
 
 |===
 
@@ -109,13 +187,29 @@ include::partial$use-one-only.adoc[]
 
 |*INFESTATION*
 
+Play on an area of dangerous terrain anywhere on the table.
+All dangerous terrain tests for that area become rolls of 1 or 2 for the rest of the battle.
+So a unit entering it must halt on a 1 or 2, and takes a hit on a 1 or 2.
+
+*Play this card at any time.*
+
 |*Infestation*
+
+*You may play this card at any time.*
+
+Choose an area of dangerous terrain anywhere in the playing area.
+For the rest of the battle, *all* Dangerous Terrain tests for this area fail on a roll of 1 or 2.
+So, a unit that enters the terrain must halt on a result of 1 or 2, and take a hit on a further result of 1 or 2.
 
 include::partial$use-one-only.adoc[]
 
 |*DESTROY THE WEAK FLESH*
 
+include::partial$destroy-the-weak-flesh-original.adoc[]
+
 |*Destroy the Weak Flesh*
+
+include::partial$destroy-the-weak-flesh.adoc[]
 
 |===
 
@@ -126,12 +220,29 @@ include::partial$use-one-only.adoc[]
 
 |*ORBITAL BIO-BARRAGE*
 
+An enemy detachment is hit by fire from orbiting bio-ships.
+The detachment is hit by 3D6 firepower.
+Work out blast markers and damage normally.
+
+*Play this card on an enemy detachment at any time.*
+
 |*Orbital Bio-Barrage*
+
+*You may play this card at any time.*
+
+Choose an enemy detachment.
+Orbiting bio-ships hit this detachment with their munitions.
+Resolve shooting against this unit with 3D6 Firepower.
+Place Blast markers and resolve hits in the usual way.
 
 include::partial$use-one-only.adoc[]
 
 |*DESTROY THE WEAK FLESH*
 
+include::partial$destroy-the-weak-flesh-original.adoc[]
+
 |*Destroy the Weak Flesh*
+
+include::partial$destroy-the-weak-flesh.adoc[]
 
 |===

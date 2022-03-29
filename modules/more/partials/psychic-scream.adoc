@@ -1,0 +1,5 @@
+_A Tyranid psyker channels the full might of the Hive Mind to assail all nearby enemy psykers._
+
+*You may play this card at any time.*
+
+Each enemy {psyker} unit that is within 45 cm of one of your Tyranid {psyker} units takes a hit, unless your opponent plays a Psychic Attack card of equal or higher value, to nullify your attack.

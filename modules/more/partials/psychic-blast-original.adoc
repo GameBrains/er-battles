@@ -1,0 +1,4 @@
+Pick any unit within 30cm of one of your psykers.
+The unit takes a hit unless the opposing player nullifies the attack by playing a Psychic Blast with a higher value.
+
+*Play this card at any time.*

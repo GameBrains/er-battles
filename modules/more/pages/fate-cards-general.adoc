@@ -137,10 +137,7 @@ include::partial$use-one-only.adoc[]
 
 |*PSYCHIC BLAST (X)*
 
-Pick any unit within 30cm of one of your psykers.
-The unit takes a hit unless the opposing player nullifies the attack by playing a Psychic Blast with a higher value.
-
-*Play this card at any time.*
+include::partial$psychic-blast-original.adoc[]
 
 |*Psychic Attack (X) -- Psychic Blast*
 

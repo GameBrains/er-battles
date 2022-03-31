@@ -1,12 +1,473 @@
 = Emperor's Tarot
 
-==
+== The Astropath/Psychic Blast (3)
 
 |===
 |Original |New
 
-|
+|*EXCUTERIA ARCANA: THE ASTROPATH*
 
-|
+_"The eyes of the blind lead you."_
+
+You may make an attack on an enemy detachment anywhere on the table.
+Roll 3D6 to determine the firepower of the attack.
+Any hits are allocated by your opponent.
+
+*Play this card in the shooting phase instead of nominating a detachment to fire.*
+
+|*Excuteria Arcana: The Astropath*
+
+
+
+include::partial$use-one-only.adoc[]
+
+|*PSYCHIC BLAST (3)*
+
+include::partial$psychic-blast-original.adoc[]
+
+|*Psychic Attack (3) — Psychic Blast*
+
+include::partial$psychic-blast.adoc[]
+
+|===
+
+== The Magus/Psychic Blast (2)
+
+|===
+|Original |New
+
+|*EXCUTERIA ARCANA: THE MAGUS*
+
+_"Serve with an unconquerable mind."_
+
+Play on an enemy detachment.
+The detachment has its firepower halved this phase.
+
+*Play this card at the start of any phase.*
+
+|*Excuteria Arcana: The Magus*
+
+
+
+include::partial$use-one-only.adoc[]
+
+|*PSYCHIC BLAST (2)*
+
+include::partial$psychic-blast-original.adoc[]
+
+|*Psychic Attack (2) — Psychic Blast*
+
+include::partial$psychic-blast.adoc[]
+
+|===
+
+== The Hulk/Psychic Blast (2)
+
+|===
+|Original |New
+
+|*EXCUTERIA ARCANA: THE HULK*
+
+_"Endure the fell of the dark unknown."_
+
+You may reroll any failed dice for the availability of reserves this turn.
+
+*Play this card before rolling for reserves.*
+
+|*Excuteria Arcana: The Hulk*
+
+
+
+include::partial$use-one-only.adoc[]
+
+|*PSYCHIC BLAST (2)*
+
+include::partial$psychic-blast-original.adoc[]
+
+|*Psychic Attack (2) — Psychic Blast*
+
+include::partial$psychic-blast.adoc[]
+
+|===
+
+== The Fabricator/Psychic Blast (1)
+
+|===
+|Original |New
+
+|*EXCUTERIA ARCANA: THE FABRICATOR*
+
+_"The Machine God empowers thee."_
+
+A single war engine passes all its rolls to repair critical damage this turn.
+This does not repair void shields or recover lost damage points.
+
+*Play this card in the rally phase.*
+
+|*Excuteria Arcana: The Fabricator*
+
+
+
+include::partial$use-one-only.adoc[]
+
+|*PSYCHIC BLAST (1)*
+
+include::partial$psychic-blast-original.adoc[]
+
+|*Psychic Attack (1) — Psychic Blast*
+
+include::partial$psychic-blast.adoc[]
+
+|===
+
+== The Inquisitor/Psychic Blast (2)
+
+|===
+|Original |New
+
+|*MANDATIO ARCANA: THE INQUISITOR*
+
+_"See the truth and seek redemption."_
+
+Automatically cancels the effect of an enemy Fate card.
+
+*Play this card when your opponent uses a Fate card.*
+
+|*Mandatio Arcana: The Inquisitor*
+
+
+
+include::partial$use-one-only.adoc[]
+
+|*PSYCHIC BLAST (2)*
+
+include::partial$psychic-blast-original.adoc[]
+
+|*Psychic Attack (2) — Psychic Blast*
+
+include::partial$psychic-blast.adoc[]
+
+|===
+
+== The Judge/Psychic Blast (1)
+
+|===
+|Original |New
+
+|*MANDATIO ARCANA: THE JUDGE*
+
+_"Judice nemo nocens absolvitur."_
+
+A single Imperial detachment may re-roll the dice for removing blast markers this
+turn.
+
+*Play this card after rolling to remove blast markers.*
+
+|*Mandatio Arcana: The Judge*
+
+
+
+include::partial$use-one-only.adoc[]
+
+|*PSYCHIC BLAST (1)*
+
+include::partial$psychic-blast-original.adoc[]
+
+|*Psychic Attack (1) — Psychic Blast*
+
+include::partial$psychic-blast.adoc[]
+
+|===
+
+== The Emperor/Psychic Blast (3)
+
+|===
+|Original |New
+
+|*MANDATIO ARCANA: THE EMPEROR*
+
+_"Know the Emperor's almighty purpose."_
+
+An Imperial detachment immediately loses D6 blast markers.
+
+*Play this card at any time.*
+
+|*Mandatio Arcana: The Emperor*
+
+
+
+include::partial$use-one-only.adoc[]
+
+|*PSYCHIC BLAST (3)*
+
+include::partial$psychic-blast-original.adoc[]
+
+|*Psychic Attack (3) — Psychic Blast*
+
+include::partial$psychic-blast.adoc[]
+
+|===
+
+== The High Priest/Psychic Blast (1)
+
+|===
+|Original |New
+
+|*MANDATIO ARCANA: THE HIGH PRIEST*
+
+_"Faith is our shield."_
+
+A single Imperial detachment passes any leadership tests for the rest of the turn.
+
+*Play this card at the start of the turn.*
+
+|*Mandatio Arcana: The High Priest*
+
+#{blank}[TODO: What should happen when this card effect comes into conflict with 'auto-fail' effects such as the Allure of Slaanesh Fate card? How should we clarify this?]#
+
+include::partial$use-one-only.adoc[]
+
+|*PSYCHIC BLAST (1)*
+
+include::partial$psychic-blast-original.adoc[]
+
+|*Psychic Attack (1) — Psychic Blast*
+
+include::partial$psychic-blast.adoc[]
+
+|===
+
+== The Daemon/?
+
+|===
+|Original |New
+
+|*DISCORDIA ARCANA: THE DAEMON*
+
+_"For the Daemon begets despair."_
+
+Play on a Chaos daemon detachment.
+The entire detachment has its Save ability reduced to the roll of a 6 for the
+rest of the turn.
+
+*Play this card at any time.*
+
+|*Discordia Arcana: The Daemon*
+
+include::partial$use-one-only.adoc[]
+
+|*DISCORDIA ARCANA*
+
+This card allows you to re-roll a single firefight or close combat dice roll.
+No dice may be re-rolled more than once.
+
+*Play this card after the dice roll in a close combat or firefight.*
+
+|*Discordia Arcana*
+
+
+
+|===
+
+== The Kraken/?
+
+|===
+|Original |New
+
+|*DISCORDIA ARCANA: THE KRAKEN*
+
+_"Fierce rages the Kraken o' the deep."_
+
+A Tyranid detachment must take leadership tests as normal for the rest of
+the turn.
+
+*Play this card at the start of the turn.*
+
+|*Discordia Arcana: The Kraken*
+
+include::partial$use-one-only.adoc[]
+
+|*DISCORDIA ARCANA*
+
+
+
+|*Discordia Arcana*
+
+
+
+|===
+
+== The Harlequin/Special Wild Card
+
+|===
+|Original |New
+
+|*DISCORDIA ARCANA: THE HARLEQUIN*
+
+_"Fates fortune that favours the fool."_
+
+An Eldar detachment automatically fails a leadership test it is required to take.
+
+*Play this card before a leadership test is rolled.*
+
+|*Discordia Arcana: The Harlequin*
+
+include::partial$use-one-only.adoc[]
+
+|*SPECIAL WILD CARD*
+
+The Imperial player is allowed to take a random card from the unused Tarot deck.
+He must play this new card immediately.
+It can be used as the face card or the Arcana.
+
+*Play this card at any time.*
+
+|*Special Wild Card*
+
+
+
+|===
+
+== The Savage/?
+
+|===
+|Original |New
+
+|*DISCORDIA ARCANA: THE SAVAGE*
+
+_"The untamed comes forth to war."_
+
+An Ork detachment must be given assault orders this turn.
+
+*Play this card at the start of the turn.*
+
+|*Discordia Arcana: The Savage*
+
+include::partial$use-one-only.adoc[]
+
+|*DISCORDIA ARCANA*
+
+|*Discordia Arcana*
+
+|===
+
+== The Assassin/?
+
+|===
+|Original |New
+
+|*ADEPTIO ARCANA: THE ASSASSIN*
+
+_"The unexpected death, silent, swift."_
+
+Play on an enemy detachment commander or psyker.
+The unit takes a hit, place a blast marker on the detachment.
+
+*Play this card at any time.*
+
+|*Adeptio Arcana: The Assassin*
+
+
+
+include::partial$use-one-only.adoc[]
+
+|*ADEPTIO ARCANA*
+
+This card allows you to re-roll a single firefight or close combat dice roll.
+No dice may be re-rolled more than once.
+
+*Play this card after the dice roll in a close combat or firefight.*
+
+|*Adeptio Arcana*
+
+
+
+|===
+
+== The Commander/?
+
+|===
+|Original |New
+
+|*ADEPTIO ARCANA: THE COMMANDER*
+
+_"Trust in your leaders."_
+
+Your army automatically wins the initiative in this phase, do not draw an initiative counter.
+
+*Play this card at the start of any phase, before initiative is decided.*
+
+|*Adeptio Arcana: The Commander*
+
+
+
+include::partial$use-one-only.adoc[]
+
+|*ADEPTIO ARCANA*
+
+
+
+|*Adeptio Arcana*
+
+
+
+|===
+
+== The Space Marine/?
+
+|===
+|Original |New
+
+|*ADEPTIO ARCANA: THE SPACE MARINE*
+
+_"Forget nothing, forgive no-one."_
+
+A single detachment gets a +1 bonus to their dice roll in an assault.
+
+*Play this card before rolling the dice for an assault.*
+
+|*Adeptio Arcana: The Space Marine*
+
+
+
+include::partial$use-one-only.adoc[]
+
+|*ADEPTIO ARCANA*
+
+
+
+|*Adeptio Arcana*
+
+
+
+|===
+
+== The Warrior/?
+
+|===
+|Original |New
+
+|*ADEPTIO ARCANA: THE WARRIOR*
+
+_"Attack without mercy."_
+
+This card allows you to force march one detachment.
+Every unit in the detachment may add 10cm to their Speed for the rest of the turn.
+
+*Play this card at any time*
+
+|*Adeptio Arcana: The Warrior*
+
+
+
+include::partial$use-one-only.adoc[]
+
+|*ADEPTIO ARCANA*
+
+
+
+|*Adeptio Arcana*
+
+
 
 |===

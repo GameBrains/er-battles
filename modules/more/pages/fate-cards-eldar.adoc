@@ -1,12 +1,217 @@
 = Fate cards -- Eldar
 
-==
+== Battle Fortune/Psychic Blast (1)
 
 |===
 |Original |New
 
-|
+|*BATTLE FORTUNE*
 
-|
+This card may be played when your opponent declares he is shooting at an Eldar detachment.
+The target Eldar detachment shifts a column to the right on the firepower table for the rest of the turn.
+
+|*Battle Fortune*
+
+
+
+include::partial$use-one-only.adoc[]
+
+|*PSYCHIC BLAST (1)*
+
+include::partial$psychic-blast-original.adoc[]
+
+|*Psychic Attack (1) — Psychic Blast*
+
+include::partial$psychic-blast.adoc[]
+
+|===
+
+== The Runes of Truth/Psychic Blast (3)
+
+|===
+|Original |New
+
+|*THE RUNES OF TRUTH*
+
+This card forces your opponent to keep his hand of fate cards visible to you throughout the game.
+
+*This card must be played at the start of the battle.*
+
+|*The Runes of Truth*
+
+
+
+include::partial$use-one-only.adoc[]
+
+|*PSYCHIC BLAST (3)*
+
+include::partial$psychic-blast-original.adoc[]
+
+|*Psychic Attack (3) — Psychic Blast*
+
+include::partial$psychic-blast.adoc[]
+
+|===
+
+== Confuse/Psychic Blast (2)
+
+|===
+|Original |New
+
+|*CONFUSE*
+
+This card may be played at any time.
+One enemy detachment takes D3 blast markers.
+
+|*Confuse*
+
+
+
+include::partial$use-one-only.adoc[]
+
+|*PSYCHIC BLAST (2)*
+
+include::partial$psychic-blast-original.adoc[]
+
+|*Psychic Attack (2) — Psychic Blast*
+
+include::partial$psychic-blast.adoc[]
+
+|===
+
+== Guide/Psychic Blast (2)
+
+|===
+|Original |New
+
+|*GUIDE*
+
+Play on a war engine within 30cm of one of your psykers.
+One weapon system or battery on the war engine counts as being on Overwatch orders for its next shot.
+
+*Play this card at any time.*
+
+|*Guide*
+
+
+
+include::partial$use-one-only.adoc[]
+
+|*PSYCHIC BLAST (2)*
+
+include::partial$psychic-blast-original.adoc[]
+
+|*Psychic Attack (2) — Psychic Blast*
+
+include::partial$psychic-blast.adoc[]
+
+|===
+
+== Battle Fortune/Sustain Attack
+
+|===
+|Original |New
+
+|*BATTLE FORTUNE*
+
+This card may be played when your opponent declares he is shooting at an Eldar detachment.
+The target Eldar detachment shifts a column to the right on the firepower table for the rest of the turn.
+
+|*Battle Fortune*
+
+
+
+include::partial$use-one-only.adoc[]
+
+|*SUSTAIN ATTACK*
+
+This card allows you to re-roll a single firefight or close combat dice roll.
+No dice may be re-rolled more than once.
+
+*Play this card after the dice roll in a close combat or firefight.*
+
+|*Sustain Attack*
+
+
+
+|===
+
+== Confuse/Sustain Attack
+
+|===
+|Original |New
+
+|*CONFUSE*
+
+This card may be played at any time.
+One enemy detachment takes D3 blast markers.
+
+|*Confuse*
+
+
+
+include::partial$use-one-only.adoc[]
+
+|*SUSTAIN ATTACK*
+
+
+
+|*Sustain Attack*
+
+
+
+|===
+
+== Temporal Distort/Sustain Attack
+
+|===
+|Original |New
+
+|*TEMPORAL DISTORT*
+
+When this card is played the Eldar player may choose to re-draw the initiative in each phase for the remainder of the turn.
+Initiative counters are put back into the cup and re-drawn again.
+Initiative counters may only be re-drawn once per phase.
+
+*Play this card before rolling for reserves.*
+
+|*Temporal Distort*
+
+include::partial$use-one-only.adoc[]
+
+|*SUSTAIN ATTACK*
+
+
+
+|*Sustain Attack*
+
+
+
+|===
+
+== Webway/Sustain Attack
+
+|===
+|Original |New
+
+|*WEBWAY*
+
+All rolls for reserves this turn are successful on a score of 2+ regardless of the detachment's speed and the turn count.
+
+*Play this card before rolling for reserves.*
+
+|*Webway*
+
+
+
+include::partial$use-one-only.adoc[]
+
+|*SUSTAIN ATTACK*
+
+
+
+|*Sustain Attack*
+
+
 
 |===

@@ -1,0 +1,5 @@
+*You may play this card at any time.*
+
+Choose one of your {psyker} units.
+From this unit, make D3 {macro-weapon} shots with Range `30 cm`.
+Your opponent can cancel this if they play a Psychic Attack Fate card that has a higher value.

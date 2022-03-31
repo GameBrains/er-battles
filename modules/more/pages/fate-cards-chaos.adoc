@@ -16,7 +16,11 @@ On a roll of 5 or 6 the card must be discarded immediately.
 
 |*Changing of Ways*
 
+_The enemy's best-laid plans mean little in the face of Tzeentch, god of change, master of schemes..._
 
+*Play this card immediately after players receive their Fate cards, before the start of the battle.*
+
+For each Fate card in your opponent's hand, roll a die: On a 5 or 6, your opponent must discard that card. 
 
 |===
 
@@ -36,7 +40,14 @@ A hit cannot cause critical damage on war engines (even Eldar Titans).
 
 |*Plague Wind*
 
+*You may play this card at any time.*
 
+Choose an enemy unit and roll one die to hit.
+If you hit, choose another enemy unit in the same detachment and roll to hit again.
+Repeat this process until you roll a miss.
+Hits cannot cause critical damage -- not even on Eldar titans.
+
+include::partial$use-one-only.adoc[]
 
 |*PSYCHIC BLAST (1)*
 
@@ -62,6 +73,13 @@ If the detachment re-rolls its dice, it may re-roll both dice.
 
 |*Warp Frenzy*
 
+*You may play this card immediately before you roll for assault resolution.*
+
+Roll an extra die and choose the best result to determine your score for the assault.
+If you have the opportunity to re-roll your assault resolution for any reason, you may also re-roll this additional die.
+
+include::partial$use-one-only.adoc[]
+
 |*PSYCHIC BLAST (3)*
 
 include::partial$psychic-blast-original.adoc[]
@@ -81,9 +99,11 @@ include::partial$psychic-blast.adoc[]
 
 include::partial$withering-gaze-original.adoc[]
 
-|*Withering Gaze (2)*
+|*Psychic Attack (2) -- Withering Gaze*
 
 include::partial$withering-gaze.adoc[]
+
+include::partial$use-one-only.adoc[]
 
 |*PSYCHIC BLAST (2)*
 
@@ -104,21 +124,88 @@ include::partial$psychic-blast.adoc[]
 
 include::partial$withering-gaze-original.adoc[]
 
-|*Withering Gaze (2)*
+|*Psychic Attack (2) -- Withering Gaze*
 
 include::partial$withering-gaze.adoc[]
+
+include::partial$use-one-only.adoc[]
 
 include::partial$counter-attack.adoc[]
 
 |===
 
-== 
+== Hand of War/Counter Attack
 
 |===
 |Original |New
 
-|
+|*HAND OF WAR*
 
-|
+This card automatically nullifies a psychic Fate card such as Psychic Blast and inflicts a hit on the Psyker using the card. 
+
+*Play when your opponent plays a psychic Fate card.*
+
+|*Hand of War*
+
+*You may play this card immediately after your opponent plays a Psychic Attack Fate card.*
+
+Your opponent's Psychic Attack Fate card has no effect, and their {psyker} unit suffers a hit.
+
+include::partial$use-one-only.adoc[]
+
+include::partial$counter-attack.adoc[]
+
+|===
+
+== Chaos Spawn/Counter Attack
+
+|===
+|Original |New
+
+|*CHAOS SPAWN*
+
+Nominate a friendly infantry unit.
+The unit adds +1D6 to its assault value and gains the Rampage skill.
+However the unit is automatically destroyed in the next rally phase.
+
+*Play this card at any time.*
+
+|*Chaos Spawn*
+
+*You may play this card at any time.*
+
+Choose a friendly Infantry unit.
+Add +1D6 to its Assault value and add the {rampage} ability.
+But, remove the unit as a casualty in the next Rally phase if it is not already destroyed.
+
+include::partial$use-one-only.adoc[]
+
+include::partial$counter-attack.adoc[]
+
+|===
+
+== Allure of Slaanesh/Counter Attack
+
+|===
+|Original |New
+
+|*ALLURE OF SLAANESH*
+
+The affected enemy detachment fails the leadership test it was attempting.
+Stubborn units may use their re-roll to all them to test once.
+
+*Play this card when an enemy detachment takes a Leadership test.*
+
+|*Allure of Slaanesh*
+
+*You may play this card when your opponent is about to make a Leadership test.*
+#{blank}[TODO: It seems unclear whether the original text was supposed to mean that you must play this card before your opponent rolls, or if you can decide to play this card after your opponent succeeds. It is a significant difference, and I think we should make it unambiguous -- so, which way should we go with this?]#
+
+Your opponent automatically fails the Leadership test.
+However, if the affected detachment has the {stubborn} ability then your opponent may still attempt the re-roll. 
+
+include::partial$use-one-only.adoc[]
+
+include::partial$counter-attack.adoc[]
 
 |===

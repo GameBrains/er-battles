@@ -5,14 +5,7 @@
 |===
 |Original |New
 
-|*BATTLE FORTUNE*
-
-This card may be played when your opponent declares he is shooting at an Eldar detachment.
-The target Eldar detachment shifts a column to the right on the firepower table for the rest of the turn.
-
-|*Battle Fortune*
-
-
+include::partial$battle-fortune.adoc[]
 
 include::partial$use-one-only.adoc[]
 
@@ -39,7 +32,9 @@ This card forces your opponent to keep his hand of fate cards visible to you thr
 
 |*The Runes of Truth*
 
+*Play this card at the start of the battle.*
 
+Your opponent must keep their hand of Fate cards visible to you throughout the game.
 
 include::partial$use-one-only.adoc[]
 
@@ -58,14 +53,7 @@ include::partial$psychic-blast.adoc[]
 |===
 |Original |New
 
-|*CONFUSE*
-
-This card may be played at any time.
-One enemy detachment takes D3 blast markers.
-
-|*Confuse*
-
-
+include::partial$confuse.adoc[]
 
 include::partial$use-one-only.adoc[]
 
@@ -93,6 +81,13 @@ One weapon system or battery on the war engine counts as being on Overwatch orde
 
 |*Guide*
 
+*You may play this card at any time.*
+
+Choose one of your War Engine units that is within 30 cm of one of your {psyker} units.
+Declare a weapon system on this war engine.
+For your next shooting attack with this weapon system, re-roll any misses you roll with the hit dice.
+
+#{blank}[TODO: The original references Overwatch. Are there any edge cases where thi is actually important? If not then a think that a straightforward statement about the re-rolls for shooting is better.]#
 
 
 include::partial$use-one-only.adoc[]
@@ -112,27 +107,11 @@ include::partial$psychic-blast.adoc[]
 |===
 |Original |New
 
-|*BATTLE FORTUNE*
-
-This card may be played when your opponent declares he is shooting at an Eldar detachment.
-The target Eldar detachment shifts a column to the right on the firepower table for the rest of the turn.
-
-|*Battle Fortune*
-
-
+include::partial$battle-fortune.adoc[]
 
 include::partial$use-one-only.adoc[]
 
-|*SUSTAIN ATTACK*
-
-This card allows you to re-roll a single firefight or close combat dice roll.
-No dice may be re-rolled more than once.
-
-*Play this card after the dice roll in a close combat or firefight.*
-
-|*Sustain Attack*
-
-
+include::partial$sustain-attack.adoc[]
 
 |===
 
@@ -141,24 +120,11 @@ No dice may be re-rolled more than once.
 |===
 |Original |New
 
-|*CONFUSE*
-
-This card may be played at any time.
-One enemy detachment takes D3 blast markers.
-
-|*Confuse*
-
-
+include::partial$confuse.adoc[]
 
 include::partial$use-one-only.adoc[]
 
-|*SUSTAIN ATTACK*
-
-
-
-|*Sustain Attack*
-
-
+include::partial$sustain-attack.adoc[]
 
 |===
 
@@ -177,15 +143,17 @@ Initiative counters may only be re-drawn once per phase.
 
 |*Temporal Distort*
 
+*Play this card in the Start phase, before the _Roll for Reserves_ step.*
+
+For the rest of this turn, at each _Determine the Initiative_ step, you may choose to re-draw the Initiative counter.
+If you do this, put all of the Initiative counters back into the mug and then re-draw.
+You must accept the new result, and no effect can force a counter to be redrawn more than once.
+
+#{blank}[TODO: The original text phrases this ability on the bases of phases. I've assumed that the real intent was to allow redraw at each _Determine the Initiative_ step -- of which there are two in the Shooting phase.]#
+
 include::partial$use-one-only.adoc[]
 
-|*SUSTAIN ATTACK*
-
-
-
-|*Sustain Attack*
-
-
+include::partial$sustain-attack.adoc[]
 
 |===
 
@@ -202,16 +170,14 @@ All rolls for reserves this turn are successful on a score of 2+ regardless of t
 
 |*Webway*
 
+*Play this card in the Start phase, before the _Roll for Reserves_ step.*
 
+This turn, each of your rolls for Reserves are successful on a score of 2+, regardless of the detachment's speed and the turn count.
+
+#{blank}[TODO: The original text was ambiguous -- it could be read to imply that BOTH sides get the same advantage from this card. That can't have been intended as it wouldn't fit the context, so I've made it plain that only the card-holder benefits. However, in the event of a mixed force, shouldn't this effect apply only to Eldar detachments?]#
 
 include::partial$use-one-only.adoc[]
 
-|*SUSTAIN ATTACK*
-
-
-
-|*Sustain Attack*
-
-
+include::partial$sustain-attack.adoc[]
 
 |===

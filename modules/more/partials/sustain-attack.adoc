@@ -1,0 +1,13 @@
+|*SUSTAIN ATTACK*
+
+This card allows you to re-roll a single firefight or close combat dice roll.
+No dice may be re-rolled more than once.
+
+*Play this card after the dice roll in a close combat or firefight.*
+
+|*Sustain Attack*
+
+*You may play this card immediately after you roll for assault resolution.*
+
+Re-roll the assault resolution die.
+You must accept the new result.

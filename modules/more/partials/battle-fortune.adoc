@@ -1,0 +1,10 @@
+|*BATTLE FORTUNE*
+
+This card may be played when your opponent declares he is shooting at an Eldar detachment.
+The target Eldar detachment shifts a column to the right on the firepower table for the rest of the turn.
+
+|*Battle Fortune*
+
+*You may play this card when your opponent declares their intent to shoot at an Eldar detachment.*
+
+For the rest of this turn, all shooting at this detachment must shift one column to the right on the Firepower table.

@@ -113,7 +113,7 @@ Any hits are allocated by your opponent.
 
 _Friendly spacecraft in orbit around the planet rain ordnance upon the enemy._
 
-*You may play this card in the shooting phase, when it is your turn to nominate a detachment to shoot with.*
+*You may play this card in the Shooting phase, when it is your turn to choose a detachment to shoot with.*
 
 Choose one enemy detachment, anywhere in the playing area.
 Make a single attack against it, with a Firepower total of 3D6.

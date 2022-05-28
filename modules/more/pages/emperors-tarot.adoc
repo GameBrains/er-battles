@@ -17,7 +17,16 @@ Any hits are allocated by your opponent.
 
 |*Excuteria Arcana: The Astropath*
 
+_"The eyes of the blind lead you."_
 
+*You may play this card in the Shooting phase, when it is your turn to choose a detachment to shoot with.*
+
+#TODO: The Shooting phase has two parts, 'Shoot with vehicles and infantry' and 'Shoot with war engines' — we probably ought to make it explicit whether or not the player can use this card in either part or only in the first part.#
+
+Choose an enemy detachment anywhere in the area of play.
+Resolve an attack with Firepower 3D6 -- like a shooting attack, except that your opponent allocates your hits.
+
+#Is there room for argument here? I mean, given how the hit allocation rules changed and how this allocation is necessarily different to directed shooting, do we need to make it explicit that the opponent may not 'waste' hits by allocating high scores to low Armour value units and vice-versa? Do we need to add to the hit allocation rules to explain this 'opponent allocates un-directed hits' situation which comes up with a couple of Fate cards?#
 
 include::partial$use-one-only.adoc[]
 
@@ -47,7 +56,14 @@ The detachment has its firepower halved this phase.
 
 |*Excuteria Arcana: The Magus*
 
+_"Serve with an unconquerable mind."_
 
+*You may play this card at the start of any phase.*
+
+Choose an enemy detachment.
+Halve the Firepower total of this detachment until the end of this phase.
+
+#I'm not 100% sure how best to phrase this, but I think that any _total_ the detachment would make is the real point here, and this would also force rolls to lock on with any super-heavy weapons it has. (Although, what if they are already being halved and now we're halving again?)#
 
 include::partial$use-one-only.adoc[]
 
@@ -70,13 +86,17 @@ include::partial$psychic-blast.adoc[]
 
 _"Endure the fell of the dark unknown."_
 
-You may reroll any failed dice for the availability of reserves this turn.
+You may re-roll any failed dice for the availability of reserves this turn.
 
 *Play this card before rolling for reserves.*
 
 |*Excuteria Arcana: The Hulk*
 
+_"Endure the fell of the dark unknown."_
 
+*You may play this card in the Start phase, before you roll for Reserves.*
+
+For this turn only, you may re-roll any unsuccessful rolls for the arrival of Reserve detachments.
 
 include::partial$use-one-only.adoc[]
 
@@ -106,7 +126,13 @@ This does not repair void shields or recover lost damage points.
 
 |*Excuteria Arcana: The Fabricator*
 
+_"The Machine God empowers thee."_
 
+*You may play this card in the Rally phase.*
+
+Choose a war Engine unit.
+For this turn only, you automatically pass all tests to repair critical damage to this unit.
+This does not repair shields or recover lost damage capacity.
 
 include::partial$use-one-only.adoc[]
 
@@ -135,7 +161,11 @@ Automatically cancels the effect of an enemy Fate card.
 
 |*Mandatio Arcana: The Inquisitor*
 
+_"See the truth and seek redemption."_
 
+*You may play this card when your opponent uses a Fate card.*
+
+This card automatically cancels the effects of your opponent's Fate card.
 
 include::partial$use-one-only.adoc[]
 
@@ -165,7 +195,12 @@ turn.
 
 |*Mandatio Arcana: The Judge*
 
+_"Judice nemo nocens absolvitur."_
 
+*You may play this card after you roll to remove Blast markers from an Imperial army detachment.*
+
+You may re-roll the die.
+You must abide by the new result.
 
 include::partial$use-one-only.adoc[]
 
@@ -194,7 +229,11 @@ An Imperial detachment immediately loses D6 blast markers.
 
 |*Mandatio Arcana: The Emperor*
 
+_"Know the Emperor's almighty purpose."_
 
+*You may play this card at any time, on an Imperial army detachment.*
+
+Remove D6 Blast markers from the detachment.
 
 include::partial$use-one-only.adoc[]
 
@@ -225,6 +264,12 @@ A single Imperial detachment passes any leadership tests for the rest of the tur
 
 #{blank}[TODO: What should happen when this card effect comes into conflict with 'auto-fail' effects such as the Allure of Slaanesh Fate card? How should we clarify this?]#
 
+_"Faith is our shield."_
+
+*You may play this card at the start of the turn, on an Imperial army detachment.*
+
+You automatically pass all Leadership tests that you are required to make for this detachment during this turn.
+
 include::partial$use-one-only.adoc[]
 
 |*PSYCHIC BLAST (1)*
@@ -254,6 +299,14 @@ rest of the turn.
 
 |*Discordia Arcana: The Daemon*
 
+_"For the Daemon begets despair."_
+
+*Play this card at any time, on a Chaos Daemon detachment.*
+
+For the rest of this turn, the {save} ability of every Daemon unit in the detachment requires a roll of 6 to ignore a hit, rather than the usual 4+.
+
+#TODO: I think we need to be more precise. I assume we really mean any unit in the Chaos Daemon infantry data sheets table, rather than only units that we derive from the Daemon unit data sheet -- but at present it is ambiguous. Was there talk of a distinct _Daemon_ ability, to incorporate {Save} and something else? If so then it'd be easy to tweak the text above to reference this ability specifically.#
+
 include::partial$use-one-only.adoc[]
 
 |*DISCORDIA ARCANA*
@@ -265,7 +318,10 @@ No dice may be re-rolled more than once.
 
 |*Discordia Arcana*
 
+*You may play this card immediately after you roll for assault resolution in a close combat or firefight.*
 
+Re-roll your die for assault resolution.
+You must abide by the new result.
 
 |===
 
@@ -284,6 +340,14 @@ the turn.
 *Play this card at the start of the turn.*
 
 |*Discordia Arcana: The Kraken*
+
+_"Fierce rages the Kraken o' the deep."_
+
+*You may play this card at the start of the turn, on a Tyranid army detachment.*
+
+For the rest of this turn, this Tyranid detachment cannot benefit from the {unbreakable} ability rules, so your opponent must take Leadership tests as normal.
+
+#I'm not sure about how best to word this. In part because one might argue that it should cancel {synapse}, but I've assumed that the {dauntless} part of {synapse} should still apply.#
 
 include::partial$use-one-only.adoc[]
 

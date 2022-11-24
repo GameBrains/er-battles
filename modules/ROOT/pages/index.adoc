@@ -1,7 +1,7 @@
 = Battles
 
 Here you'll find guidance and ideas on how to set up a game of {project-name}.
-You'll also find scenario special rules; these are particular to some scenarios, so we detail them here rather than in the Core component.
+You'll also find scenario special rules; these are particular to some scenarios, so we detail them here rather than in the _Core_ component.
 
 Topics that we cover here include:
 

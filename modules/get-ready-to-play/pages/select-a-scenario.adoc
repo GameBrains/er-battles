@@ -1,2 +1,48 @@
 = Select a scenario
 
+How to select the scenario that you will play.
+Each scenario offers a different combination of rules for setup and play, to model different narratives, types of confrontation and victory conditions.
+
+We detail a range of scenarios at xref:scenarios:scenarios.adoc[].
+Of course, you and your opponent can simply agree on a scenario to play, invent a new one, or plan several to play in a sequence as a mini-campaign.
+Or, you may prefer to let fate select one of the standard scenarios for you.
+
+We have two broad categories of scenario:
+
+* *Refight* scenarios: These outline confrontations that are 'historical' in the _Warhammer 40,000_ universe.
+They offer ready-made detachments that use the contents of the original {e40k} boxed set to model the 'historical' forces.
+You can 're-fight' these scenarios, or you can adapt them for your own army choices and narrative.
+* *Battle* scenarios: These are more generic, and model different types of confrontation that are common on battlefields across the galaxy.
+
+Some of the scenarios use special rules that model the effects of fortifications, morale, and so on (xref:scenario-special-rules:scenario-special-rules.adoc[]).
+
+TIP: If you're new to the game, 'Refight 1: Gogard's Last Stand!' and 'Refight 4: The Sulphur River' are good scenarios to start with as they are the simplest.
+
+
+If you'd like to use the random method, consult this table:
+
+.Scenario generator table (roll a D6)
+[%header,cols="2,2,1"]
+|===
+|1 |2 to 5 |6
+s|Refight: Roll another D6 s|Battle: Roll another D6 .7+|xref:scenarios:the-fog-of-war.adoc[]
+
+|1. xref:scenarios:refight-1-gogards-last-stand.adoc[]
+|1. xref:scenarios:battle-1-meeting-engagement.adoc[]
+
+|2. xref:scenarios:refight-2-rescue.adoc[]
+|2. xref:scenarios:battle-2-escalating-engagement.adoc[]
+
+|3. xref:scenarios:refight-3-the-hellblade-mountains.adoc[]
+|3. xref:scenarios:battle-3-dawn-assault.adoc[]
+
+|4. xref:scenarios:refight-4-the-sulphur-river.adoc[]
+|4. xref:scenarios:battle-4-blitzkrieg.adoc[]
+
+|5. xref:scenarios:refight-5-breakout.adoc[]
+|5. xref:scenarios:battle-5-ambush.adoc[]
+
+|6. Re-roll, or opt for xref:scenarios:the-fog-of-war.adoc[]
+|6. xref:scenarios:battle-6-planetary-assault.adoc[]
+
+|===

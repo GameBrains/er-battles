@@ -1,3 +1,8 @@
 = Refight 1: Gogard's Last Stand!
 
 {blank}[TODO: In the meantime, see link:https://thehobby.zone/resources/e40k-compendium/Content/Battles/TheScenarios/Refight1GogardsLastStand.htm[^] (external URL)]
+
+## Forces
+
+* link:https://builder.epicremastered.com/print.lc?listname=Ork+army+detachments+for+Refight+1&listurl=https%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_Ork_Gargants%26force%3DKorps+Grinda%7E503&submitbuttonname=Submit[Ork army detachments for Refight 1^]
+* link:https://builder.epicremastered.com/print.lc?listname=Imperium+army+detachments+for+Refight+1&listurl=https%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_SM_Armoured%26force%3DForce+Citus%7E501%7E512%7E112x3%7E512%7E112x1%0D%0Ahttps%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_SM_Detachment%26force%3DForce+Adonis%7E501%7E502%7E130x1%7E511%7E116x1%7E511%7E116x1%0D%0Ahttps%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_SM_Detachment%26force%3DIncompertus%7E501%7E502%7E130x1%7E100x1%7E511%7E114x1%7E100x1%7E511%7E114x1%7E100x1%7E511%7E114x1%7E100x1%0D%0A[Imperium army detachments for Refight 1^]

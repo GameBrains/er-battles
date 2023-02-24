@@ -2,7 +2,7 @@
  ** xref:standard-refight-scenarios.adoc[]
   *** xref:refight-1-gogards-last-stand.adoc[]
   *** xref:refight-2-rescue.adoc[]
-  *** xref:refight-3-the-hellbade-mountains.adoc[]
+  *** xref:refight-3-the-hellblade-mountains.adoc[]
   *** xref:refight-4-the-sulphur-river.adoc[]
   *** xref:refight-5-breakout.adoc[]
  ** xref:standard-battle-scenarios.adoc[]

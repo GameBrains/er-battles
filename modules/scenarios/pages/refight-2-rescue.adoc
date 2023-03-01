@@ -2,7 +2,34 @@
 
 {blank}[TODO: In the meantime, see link:https://thehobby.zone/resources/e40k-compendium/Content/Battles/TheScenarios/Refight2Rescue.htm[^] (external URL)]
 
-## Forces
+## Historical forces
 
-* link:https://builder.epicremastered.com/print.lc?listname=Ork+army+detachments+for+Refight+2&listurl=https%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_Ork_Warband%26force%3DBadruk%60s+Speedas%7E501%7E503%7E510%7E110x1%7E510%7E110x1%7E510%7E110x1%7E510%7E110x1%7E510%7E110x1%7E510%7E110x1%7E520%7E520%7E520%7E520%7E520%7E520%0D%0Ahttps%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_Ork_Warband%26force%3DUrglag%2560s%2520Blastas%7E501%7E503%7E512%7E112x3%7E523%7E123x3%0D%0Ahttps%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_Ork_Warband%26force%3DGrizzard+da+Magnifisunt+%28an%60+der+Ladz%29%7E501%7E503%7E513%7E113x3%7E515%7E115x3%7E516%7E116x3%7E522%7E122x3%7E520%7E520%0D%0A[Ork army detachments for Refight 2^]
-* link:https://builder.epicremastered.com/print.lc?listname=Imperium+army+detachments+for+Refight+2&listurl=https%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_SM_Detachment%26force%3DForce+Hachiman%7E501%7E502%7E130x1%7E511%7E115x1%7E511%7E115x1%7E513%7E513%0D%0Ahttps%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_SM_Armoured%26force%3DForce+Kharira%7E501%7E512%7E112x3%7E512%7E112x2%7E514%7E114x3%7E514%7E114x2%0D%0Ahttps%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_SM_Detachment%26force%3DForce%2520Krysha%7E501%7E502%7E130x1%7E100x1%7E511%7E114x1%7E100x1%7E511%7E114x1%7E100x1%7E511%7E114x1%7E100x1%0D%0A&submitbuttonname=Submit[Imperium army detachments for Refight 2^]
+### Orks
+
+*Builder*: link:https://builder.epicremastered.com/print.lc?listname=Ork+army+detachments+for+Refight+4&listurl=https%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_Ork_Warband%26force%3DGazbold%60s+Speed+Boyz%7E501%7E502%7E109x1%7E516%7E116x3%7E511%7E111x1%7E511%7E111x1%7E511%7E111x1%7E511%7E111x1%7E511%7E111x1%7E511%7E111x1%7E513%7E113x4%7E522%7E122x3%7E506%7E528%7E128x3%7E528%7E128x3%7E528%7E128x1%0D%0Ahttps%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_Ork_Warband%26force%3DWaaa-Dreg%2560s%2520Stompas%7E501%7E503%7E520%7E512%7E112x1%7E512%7E112x1%7E512%7E112x1%7E524%7E524%7E517%7E117x4%7E510%7E110x4%7E510%7E110x4%7E510%7E110x4%7E506%0D%0A[Ork army detachments for Refight 2^]
+
+Ork Warband detachment, _Badruk's Speedas_::
+1 x Warboss in Stompa; 6 x Ork unit; 6 x Gunwagon.
+
+Ork Warband detachment, _Urglag's Blastas_::
+1 x Warboss in Stompa; 3 x Shooty Boyz unit; 3 x Big Gunz.
+
+Ork Warband detachment, _Grizzard da Magnifisunt (an' der Ladz)_::
+1 x Warboss in Stompa; 3 x Boarboyz unit; 3 x Stormboyz unit; 3 x Kommandos unit; 3 x Bikeboyz unit; 2 x Gunwagon.
+
+### Space Marines
+
+*Builder*: link:https://builder.epicremastered.com/print.lc?listname=Imperium+army+detachments+for+Refight+2&listurl=https%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_SM_Detachment%26force%3DForce+Hachiman%7E501%7E502%7E130x1%7E511%7E115x1%7E511%7E115x1%7E513%7E513%0D%0Ahttps%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_SM_Armoured%26force%3DForce+Kharira%7E501%7E512%7E112x3%7E512%7E112x2%7E514%7E114x3%7E514%7E114x2%0D%0Ahttps%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_SM_Detachment%26force%3DForce%2520Krysha%7E501%7E502%7E130x1%7E100x1%7E511%7E114x1%7E100x1%7E511%7E114x1%7E100x1%7E511%7E114x1%7E100x1%0D%0A&submitbuttonname=Submit[Imperium army detachments for Refight 2^]
+
+Space Marine detachment, _Force Hachiman_::
+1 x Space Marine Captain; 4 x Space Marine unit, with Assault option; 2 x Scout unit.
++
+****
+Historically, _Force Hachiman_ defended the assassin.
+****
+
+Space Marine Armoured detachment, _Force Kharira_::
+5 x Land Raider; 5 x Whirlwind.
+
+Space Marine detachment, _Force Krysha_::
+1 x Space Marine Captain, with Rhino option; 6 x Space Marine unit, with 3 x Rhino option.

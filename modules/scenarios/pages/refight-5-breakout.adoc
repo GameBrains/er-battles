@@ -2,7 +2,33 @@
 
 {blank}[TODO: In the meantime, see link:https://thehobby.zone/resources/e40k-compendium/Content/Battles/TheScenarios/Refight5Breakout.htm[^] (external URL)]
 
-## Forces
+## Historical forces
 
-* link:https://builder.epicremastered.com/print.lc?listname=Ork+army+detachments+for+Refight+5&listurl=https%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_Ork_Warlord%26force%3DWarlord+Nah-Badun+an%60+der+Retinue%7E502%7E109x1%7E505%7E520%7E511%7E111x1%7E517%7E117x2%0D%0Ahttps%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_Ork_Kult%26force%3DDa+Chargerz%7E501%7E502%7E520%7E520%7E520%7E520%7E520%7E520%7E522%7E122x3%0D%0Ahttps%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_Ork_Warband%26force%3DNaffgul%2560s%2520Shooty%2520Boyz%7E501%7E503%7E512%7E112x3%7E517%7E117x4%7E524%7E524%7E510%7E110x4%7E510%7E110x4%7E510%7E110x4%0D%0A[Ork army detachments for Refight 5^] {blank}[TODO: Builder doesn't allow an exact match for the original force composition, especially in the Ork Warlord detachment. (In fact, even the original army list doesn't allow an exact match in some cases.) Will need to update this army list once Ian has tweaked the builder -- or create a new composition that diverges from the original.]
-* link:https://builder.epicremastered.com/print.lc?listname=Imperium+army+detachments+for+Refight+5&listurl=https%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_SM_Detachment%26force%3DForce+Specula%7E501%7E502%7E130x1%7E511%7E116x1%7E511%7E116x1%7E511%7E116x1%0D%0Ahttps%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_SM_Detachment%26force%3DForce+Ceptio%7E501%7E502%7E130x1%7E101x1%7E511%7E115x1%7E511%7E115x1%7E511%7E115x1%0D%0Ahttps%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_SM_Detachment%26force%3DForce%2520Odium%7E501%7E526%7E511%7E114x1%7E100x1%7E511%7E114x1%7E100x1%7E511%7E114x1%7E100x1%7E511%7E114x1%7E100x1%7E511%7E114x1%7E100x1%7E511%7E114x1%7E100x1%7E524%7E524%0D%0A[Imperium army detachments for Refight 5^]
+### Orks
+
+*Builder*: link:https://builder.epicremastered.com/print.lc?listname=Ork+army+detachments+for+Refight+5&listurl=https%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_Ork_Warlord%26force%3DWarlord+Nah-Badun+an%60+der+Retinue%7E502%7E109x1%7E506%7E511%7E111x1%7E517%7E117x2%7E528%7E128x2%0D%0Ahttps%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_Ork_Kult%26force%3DDa%2520Chargerz%7E501%7E502%7E522%7E122x3%7E528%7E128x3%7E528%7E128x3%0D%0Ahttps%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_Ork_Warband%26force%3DNaffgul%60s+Shooty+Boyz%7E501%7E503%7E512%7E112x3%7E517%7E117x4%7E524%7E524%7E510%7E110x4%7E510%7E110x4%7E510%7E110x4%0D%0A[Ork army detachments for Refight 5^]
+
+Ork Warlord detachment, _Warlord Nah-Badun an' der Retinue_::
+1 x Warlord, with Battlewagon option; 1 x Weirdboy Battle Tower; 1 x Nobz unit; 1 x Gretchin unit; 2 x Battlewagon.
+
+Ork Kult of Speed detachment, _Da Chargerz_::
+1 x Warboss; 6 x Battlewagon; 3 x Bikeboyz.
+
+Ork Warband detachment, _Naffgul's Shooty Boyz_::
+1 x Warboss in Stompa; 3 x Shooty Boyz unit; 2 x Stompa; 4 x Gretchin unit; 12 x Ork unit.
+
+### Space Marines
+
+*Builder*: link:https://builder.epicremastered.com/print.lc?listname=Imperium+army+detachments+for+Refight+5&listurl=https%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_SM_Detachment%26force%3DForce+Specula%7E501%7E502%7E130x1%7E511%7E116x1%7E511%7E116x1%7E511%7E116x1%0D%0Ahttps%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_SM_Detachment%26force%3DForce+Ceptio%7E501%7E502%7E130x1%7E101x1%7E511%7E115x1%7E511%7E115x1%7E511%7E115x1%0D%0Ahttps%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_SM_Detachment%26force%3DForce%2520Odium%7E501%7E526%7E511%7E114x1%7E100x1%7E511%7E114x1%7E100x1%7E511%7E114x1%7E100x1%7E511%7E114x1%7E100x1%7E511%7E114x1%7E100x1%7E511%7E114x1%7E100x1%7E524%7E524%0D%0A[Imperium army detachments for Refight 5^]
+
+Space Marine detachment, _Force Specula_::
+1 x Space Marine Captain;  6 x Space Marine unit, with Devastator option. 
+
+Space Marine detachment, _Force Ceptio_::
+1 x Space Marine Captain, with Land Raider option; 6 x Space Marine unit, with Assault option. 
++
+****
+Historically it was _Force Specula_ and _Force Ceptio_ that formed the Imperial line where the Orks planned to break out.
+****
+Space Marine detachment, _Force Odium_::
+1 x Land Raider; 12 x Space Marine unit, with 6 x Rhino option; 2 x Whirlwind.

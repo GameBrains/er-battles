@@ -1,2 +1,98 @@
-= Drop pods
+= Drop Pods
 
+Drop pods are single-use planetary landing craft which afford commanders the means to send units from ships in orbit and straight into battle -- without the need for transport aircraft.
+
+NOTE: We also use the Drop Pods rules to represent some other technologies that perform a similar function.
+
+[NOTE.option]
+.Drop pods miniatures
+====
+You do not need to have any miniatures to represent drop pods.
+But, if you have some and you enjoy the spectacle, it can be fun to use them -- and if your opponent agrees, you could allow infantry to use them as cover.
+====
+
+---
+
+There are two main ways that we determine when you may use the Drop Pods rules -- either by the scenario that you intend to play, or by the composition of detachments in your army.
+
+== Scenarios that let you use the Drop Pods rules
+
+Some scenarios state conditions under which you may use the Drop Pods rules for some detachments.
+
+.Scenarios that let you use the Drop Pods rules
+====
+The xref:scenarios:battle-6-planetary-assault.adoc[] scenario lets the attacker use Drop Pods to bring some of their first wave of troops into play.
+====
+
+== Detachments that let you use the Drop Pods rules
+
+Some army lists let you build specific detachments that can use the Drop Pods rules in *any scenario* that does not explicitly forbid them.
+
+You can do this where:
+
+* The notes for the detachment state that you may use the Drop Pods rules -- so long as you also meet any extra restrictions that these notes specify.
+* You build a detachment that contains *only* units that have the {deep-strike} ability, or that are embarked in units that have both the {transport-x} *and* {deep-strike} abilities.
+* You build a detachment that contains *only* units that have the {tunneller} ability, or that are embarked in units that have both the {transport-x} and {tunneller} abilities.
+
+NOTE: Unless a scenario says otherwise, you don't have to use the Drop Pods rules with such detachments -- you can still deploy them in the usual way, if you prefer.
+
+.Detachments that let you use the Drop Pods rules
+====
+In the Imperial army list:
+
+* The Space Marine detachment specifies criteria that allow you to build detachments with which you can use the Drop Pods rules.
+* The Imperial Tunneller Company detachment offers units that have both the {transport-x} *and* {tunneller} abilities.
+This means that you may use the Drop Pods rules with this detachment -- and, if you have another detachment that is comprised solely of suitable 'cargo' units, you may have the tunnellers carry that detachment into battle too.
+
+In the Craftworld Eldar army list:
+
+* The Eldar Warhost detachment includes Swooping Hawk Aspect Warriors, among the choices you can make.
+For any Eldar Warhost detachment you build that includes only Swooping Hawk Aspect Warriors units, their {deep-strike} ability lets you use the Drop Pods rules with that detachment.
+====
+
+== How to use the Drop Pods rules
+
+When you intend to use the Drop Pods rules in a game, act as follows.
+
+NOTE: For convenience, we refer to any valid detachment that you intend to use with the Drop Pods rules as a 'Drop Pods detachment'.
+
+=== 1. Setup: Place drop pods detachments in Reserves
+
+Place all Drop Pods detachments in Reserves.
+Drop Pods detachments must always start the game in Reserves.
+
+=== 2. Start phase: Arrival of drop pods from Reserves
+
+No matter what units they contain, all Drop Pods detachments have a Reserve Speed of 30 cm.
+
+When a Drop Pods detachment arrives from Reserves during a Start phase, choose any point in the play area and place a suitable marker there to act as a reminder; this is the landing zone target point for the incoming drop pods of that detachment.
+
+=== 3. Movement phase: Put incoming drop pods into play
+
+After a given Drop Pods detachment arrives, you must put it into play in the following Movement Phase.
+
+When you are ready to put it into play, proceed as follows:
+
+. Decide what orders to give to the detachment: You may choose only Assault orders or Advance orders.
+. Gather your Drop Pods tokens -- you need one token for each unit in the detachment.
+. Use pen and paper to record which individual unit corresponds to each specific numbered token.
+. Place all of the tokens on a Barrage template.
+Hold the template 30 cm (12 inches) directly above the target point marker that you placed earlier.
+. Invert the template sharply, so that the tokens fall and distribute themselves across the surface of the play area below.
+Hopefully they'll all land in a random spread that is fairly close to the target point marker.
+. Remove the target point marker -- you no longer need it.
+. Identify all units that correspond to tokens that landed outside of the play area or in terrain that is Impassable to Vehicle units.
+These units are destroyed.
+. Your opponent may resolve Snap Fire against all tokens that are within 10 cm of any of their units.
+If your opponent has {flak} units that are on Flak special orders then they may resolve shots as if the tokens are Flyer units (use the Armour value of the unit that corresponds to the token).
+Remove tokens that suffer a hit and identify the corresponding units -- these units are destroyed.
+. For each token that remains in the play area, replace it with its corresponding unit.
+. You may now move the units of this detachment in the usual way, as appropriate to the orders you chose for them.
+Place the appropriate Order marker, if you haven't already.
+
+.Related information
+* xref:core:special-rules:deep-strike.adoc[]
+* xref:scenario-special-rules:reserves.adoc[]
+* xref:core:ROOT:what-you-will-need-to-play.adoc#drop-pods-tokens[Drop Pods tokens]
+* xref:core:ROOT:what-you-will-need-to-play.adoc#barrage-templates[Barrage templates]
+* xref:core:main-rules:terrain-effects-on-movement.adoc[]

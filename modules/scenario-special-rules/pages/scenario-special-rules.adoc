@@ -1,2 +1,10 @@
 = Scenario special rules
 
+These rules cover unusual situations that apply in some scenarios and not in others.
+
+Like the special rules in the Core rules component, you don't need to learn all of the scenario special rules at once.
+Just familiarise yourself with the rules that apply in the specific scenario that you intend to play.
+
+TIP: If you like to invent your own scenarios, don't be afraid to modify or add to these rules.
+This can be a great way to bring the theme of your scenario to life and to create interesting new challenges.
+Just remember that it's best to keep it simple -- a little can go a long way, and you don't want complexity to spoil the fun.

@@ -1,2 +1,49 @@
 = Fortifications
 
+Some scenarios allow one or both sides to make use of fortified positions.
+
+Hastily dug trenches and emplacements, foxholes, formidable reinforced bunkers, and the like, give troops effective cover.
+Razorwire is a simple but effective menace to infantry, and even to vehicles.
+Well-placed razorwire can slow down enemy forces at a critical point, or funnel them into a crossfire.
+
+Forces in fortified positions are harder to destroy with shooting, and more difficult to reach with assaults too.
+
+---
+
+Where a scenario tells you that you may use fortifications, use them as follows.
+
+== Trenches, emplacements and bunkers
+
+=== Setup
+
+. Place these fortifications before the start of the game, in your deployment zone, at the same time as you deploy your detachments.
+Note that you may deploy only Infantry units within these fortifications, as fortifications are Impassable to Vehicle and War Engine units.
+. To the extent that you have suitable scenic items, you may set up any amount of these fortifications.
++
+TIP: Keep in mind that the more of these fortifications you put into play, the greater the risk that your opponent will use them against when they overrun part of your position!
+
+{blank}[TODO: Shouldn't War Engine units be able to cross trenches...? Perhaps it'd be good to expand these rules a bit to differentiate between hasty entrenchments and the likes of hardened bunkers and redoubts...? And perhaps to allow Vehicle units to use emplacements? Also, it'd be good to disambiguate the term 'Fortifications' so it is clearer when we mean all fortifications including razorwire, and when me mean specific cover-giving fortifications as in this section and in the terrain tables.]
+
+=== Play
+
+* These fortifications offer excellent cover to Infantry units, and are Impassable to Vehicle and War Engine units.
+See xref:core:more:quick-reference.adoc#_terrain_effects[Terrain effects].
+
+== Razorwire
+
+=== Setup
+
+. Place razorwire before the start of the game, after you have deployed your detachments.
+. To the extent that you have suitable scenic items to represent razorwire, you may set up any amount you like.
+. You may place each section of razorwire anywhere that is within 15 cm of either:
+* The units you deployed.
+* xref:battles:scenario-special-rules:hidden-set-up.adoc[] markers that you placed instead of units.
+
+=== Play
+
+* No player may move Vehicle or Infantry units over razorwire while those units are subject to March or Assault orders -- unless those units have either the {skimmer} or {jump-packs} ability.
+* Players may move War Engine and Flyer units over razorwire without penalty.
+
+.Related information
+* xref:core:main-rules:terrain-effects-on-movement.adoc[]
+* xref:core:main-rules:terrain-effects-on-shooting.adoc[]

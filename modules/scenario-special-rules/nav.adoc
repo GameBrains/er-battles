@@ -2,6 +2,6 @@
  ** xref:army-morale.adoc[]
  ** xref:drop-pods.adoc[]
  ** xref:fortifications.adoc[]
- ** xref:hidden-set-up.adoc[]
+ ** xref:hidden-setup.adoc[]
  ** xref:objectives.adoc[]
  ** xref:reserves.adoc[]

@@ -1,0 +1,95 @@
+= Hidden Setup
+
+Sometimes a defending force has had time to conceal forces on the battlefield, lay minefields, and set up other nasty surprises.
+
+---
+
+Where a scenario tells you that you that the Defender uses the Hidden Setup rules, act as follows.
+
+== Setup (Defender)
+
+. Gather your Hidden Setup markers.
+You need one for each detachment of Infantry and/or Vehicle units in your army -- regardless of whether or not any of these detachments will be in Reserves or otherwise not deployed at the start of the game.
+You do not need markers for War Engine units -- they're simply too big to hide!
+. Use pen and paper to record which numbered Hidden Setup marker corresponds to each specific Infantry and/or Vehicle detachment.
+. During deployment for the scenario, place your Hidden Setup markers instead of the detachments they represent.
+You may place a given marker within terrain, as long the corresponding detachment includes at least one unit that can move into that terrain.
+(See xref:core:main-rules:terrain-effects-on-movement.adoc[].)
+
+== Play
+
+=== Shooting at Hidden Setup markers (Attacker)
+
+You can shoot your detachments at the Defender's Hidden Setup markers.
+Although your forces can't see where the enemy units are, they can shoot at likely locations in the hope that they achieve a useful amount of suppression.
+
+Each time you shoot with one of your detachments at a Hidden Setup marker, resolve the shooting much as if the Hidden Setup marker were a detachment, but with these differences:
+
+{blank}[TODO: How, *exactly* do we resolve shooting at these markers? For example, if the marker is in cover, do we use the 'Vehicle or Infantry in cover' column on the Firepower table, and apply the Infantry Armour bonus for cover?]
+
+. The target detachment that corresponds to the marker does not suffer any casualties from hits.
+. Calculate Blast markers as normal, but place these next to the Hidden Setup marker -- they might affect the Defender later.
+
+IMPORTANT: For the purposes of Army Morale totals, *ignore* Blast markers that are on Hidden Setup markers.
+
+=== Revealing hidden detachments (Defender)
+
+You cannot move or shoot with a hidden detachment until you reveal it.
+
+* You *may* reveal any hidden detachment at any time during the game turn -- even if this interrupts your opponent's movement actions.
+When you reveal a detachment, proceed to deploy it as at <<deploy-a-revealed-detachment>>.
+* As soon as an enemy ground unit moves within 15 cm of a Hidden Setup marker, you *must* reveal the nature of that marker and act as follows:
+footnote:[
+Flyer units cannot reveal hidden detachments.
+]
+** If the marker corresponds to a detachment that is in Reserves, or that you may not deploy yet for any other reason, then this marker is a 'dummy' -- it represents an area that might contain mere decoys, or that may also contain booby-traps or a minefield!
+Do not place any units, and instead go to <<dummy-markers>>.
+** Otherwise, proceed to <<deploy-a-revealed-detachment>>.
+
+[[deploy-a-revealed-detachment]]
+=== Deploy a revealed detachment (Defender)
+
+. Choose one of your units from the corresponding detachment and put it in the place of the Hidden Setup marker.
+Then place all the rest of the units from that detachment within 15 cm of this unit -- but not within 15 cm of any enemy unit.
+. Transfer any Blast markers that the Hidden Setup marker has to the detachment, and then remove the Hidden Setup marker.
+. Decide what orders you want for the detachment, and place an Order marker as appropriate.
+Apply the effects of Blast markers as normal; for example, if you want to place Overwatch orders then you must first pass a Leadership test.
+
+{blank}[TODO: Resolve inconsistency: The original text here is inconsistent with the usual rules, because it implies that *all* 'special' orders require a Leadership test just to *set* them, like Overwatch does:
+"When a hidden detachment is revealed the owning player may place it on special orders if he wants to (eg, Overwatch or Assault), but if there are any Blast markers on the detachment it must pass a Leadership test first."]
+
+[[dummy-markers]]
+== Dummy markers, booby-traps and minefields
+
+When the approach of an enemy unit forces you to reveal a dummy Hidden Setup marker, roll a D6:
+footnote:[
+Only dummy markers that are revealed by enemy movement can be booby-traps or a minefield.
+If for any reason you voluntarily reveal a marker that does not correlate to a detachment that you will deploy immediately, then that dummy marker automatically has no further effect.
+]
+
+* *1 to 3*: The marker represents decoys only -- discard it with no further effect (along with any Blast markers it has).
+* *4 to 6*: The marker represents not only decoys but also an area of either booby-traps or a minefield; as the controlling player, you may choose which it is.
+
+=== Booby-traps
+
+Roll a D6: On a result of 2+, the enemy unit that forced the reveal of the dummy marker takes a hit.
+Then discard the marker (along with any Blast markers it has).
+
+=== Minefields
+
+If you have a suitable scenic item then you may replace the dummy marker with a minefield in the same position.
+Minefield items can be up to 15 cm long by 5 cm wide.
+
+Any time an enemy unit enters a minefield, make an attack with a Firepower value of `1` -- that is, always roll one die to hit.
+This minefield attack affects the target unit directly -- it bypasses any void shields and power fields that might otherwise protect the target unit.
+
+A given minefield can attack any number of different units in a turn, but can only attack the same unit once in a turn.
+Units that start a turn within a given minefield suffer an attack from that minefield only if they move.
+{skimmer} and {jump-packs} units *do* suffer the effects of minefields, but Flyer units do not.
+footnote:[{e40k-diff}
+The original rules are ambiguous on this point, but we think it makes sense that a unit that crosses multiple *different* minefields in a single phase will be subject to multiple attacks.
+So, we phrased the text in a way that makes this clear.
+]
+
+.Related information
+* xref:core:ROOT:what-you-will-need-to-play.adoc#hidden-setup-markers[Hidden Setup markers]

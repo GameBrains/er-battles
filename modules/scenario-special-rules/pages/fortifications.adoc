@@ -37,7 +37,7 @@ See xref:core:more:quick-reference.adoc#_terrain_effects[Terrain effects].
 . To the extent that you have suitable scenic items to represent razorwire, you may set up any amount you like.
 . You may place each section of razorwire anywhere that is within 15 cm of either:
 * The units you deployed.
-* xref:battles:scenario-special-rules:hidden-set-up.adoc[] markers that you placed instead of units.
+* xref:battles:scenario-special-rules:hidden-setup.adoc[] markers that you placed instead of units.
 
 === Play
 

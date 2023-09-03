@@ -1,7 +1,8 @@
 = Select a scenario
 
-How to select the scenario that you will play.
-Each scenario offers a different combination of rules for setup and play, to model different narratives, types of confrontation and victory conditions.
+The scenario that you select determines the overall nature of the battle that you intend to play.
+
+Each scenario offers a unique combination of rules for setup and play, to model different types of confrontation and victory conditions.
 
 We detail a range of scenarios at xref:scenarios:scenarios.adoc[].
 Of course, you and your opponent can simply agree on a scenario to play, invent a new one, or plan several to play in a sequence as a mini-campaign.

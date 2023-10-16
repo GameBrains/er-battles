@@ -1,2 +1,148 @@
 = Objectives
 
+Some scenarios specify that you must set up markers to represent battlefield objectives that the opposing forces seek to attain or to deny to their enemy.
+
+Such scenarios explain what objective markers to place.
+They may also include special instructions that add to or over-ride the default rules that we explain here.
+
+## General rules for objectives and objective markers
+
+### Placement
+
+There are various <<objective-types, types of objective>>, and each type has specific restrictions on where you can place corresponding markers.
+However, you must also observe these general restrictions by default:
+
+* You may not place any objective marker within 15 cm of any of your other objective markers.
+* You may not place any objective marker within 15 cm of the edge of the playing area -- unless the scenario specifies that your forces enter from that edge.
+(In effect, that table edge is the leading edge of your deployment zone.)
+
+TIP: We recommend that you base all objective-related measurements on the centres of the markers rather than on their edges.
+This gives you a bit more room to place them and means that it doesn't really matter exactly how big or small each marker is.
+
+### Control
+
+For the most part, you can only benefit from your own objectives.
+Except where the rules say otherwise, you gain nothing from control of your opponent's objectives.
+
+Of course, it is in your interests to prevent your opponent from getting the benefits of their objectives.
+
+[[objective-types]]
+## Types of objective/objective marker
+
+The standard objective types and their default rules are as follows.
+
+{blank}[TODO: We should tweak the 'R4. Check the game end conditions' topic and the 'End of turn' part of the turn sequence, and rationalise how we refer to objectives and Morale effects that we check or apply 'in the Rally phase' or 'at the end of the turn'. At present, the arrangement incorrectly implies that some Morale effects happen *after* we check for the game end conditions in the turn sequence.]
+
+### Take & Hold
+This objective represents a location on the battlefield that is vital or highly advantageous to hold for as long as possible in the face of the enemy.
+
+[none]
+* *Placement*:
+You must place the objective marker either in your opponent's deployment zone or more than 90 cm away from your deployment zone.
+* *Game effects and control*:
+At the end of the Rally phase, if you have a unit that is within 15 cm of this objective marker *and* closer to it than any enemy units, then you are in control of this objective this turn.
++
+Only you can control your Take & Hold objectives.
+Your opponent can only attempt to prevent your control.
+* *Morale effect*:
+At the end of each turn:
+For each Take & Hold objective that you control, add D3 points to your Army Morale total.
+
+### Rescue
+This objective represents something that is of immense interest to both sides in the conflict -- some kind of prize that both sides wish to control, to the exclusion of the other.
+Vital plans perhaps, or an important hostage.
+
+[none]
+* *Placement*:
+You must place the objective marker more than 90 cm away from your deployment zone *and* within a terrain feature that offers an Infantry Armour bonus for cover.
+* *Game effects and control*:
+When a player moves a unit they control onto the objective marker, they may use that unit to 'pick up' the objective.
+We call this the 'escort unit'.
++
+{blank}[TODO: Might it be best to make it crystal clear that the escort unit cannot be a flyer...? Or at the very least, not a flyer unless it is a transport flyer that is on an Air Transport mission, and even then perhaps a ground unit should still pick up and escort the objective to the aircraft?]
++
+** The player can then continue to use the escort unit entirely as normal for its type -- it's just that the objective travels with it.
+** If the escort unit is destroyed, leave the objective marker at that point on the playing surface -- leave the marker there until *either* player moves a unit they control over it and picks it up.
+** If the escort unit is destroyed in *close combat* then, if there is a surviving enemy unit that was in base contact with the escort unit, the opposing player may declare this unit as the new escort unit and pick up the objective immediately.
+
++
+NOTE: To be clear, only you can make the initial pick up of a Rescue objective that you placed.
+However, it is possible for your opponent to destroy your escort unit and then have one of their own units pick up this Rescue objective and become an escort unit, as we explain above.  
+* *Morale effect*:
+At the end of each turn:
+For each of your units that has a Rescue objective (that is, for each of your units that currently count as an escort unit), apply *both* of these effects:
+** Add 1 point to your Army Morale total.
+** Your opponent must deduct 1 point from their Army Morale total.
+
+### Bunker
+This objective represents something of particular value to the enemy that you want to destroy to hinder them in some way -- a site of strategic or tactical value such as a command bunker, communications relay or missile silo.
+
+[none]
+* *Placement*:
+You must place this objective marker inside your opponent's deployment zone.
+* *Game effects and control*:
+The bunker objective marker represents a static unit that has these characteristics:
++
+[cols="2,6*^,3"]
+.Bunker data sheet
+|===
+|Unit |Type |Speed |Range |Firepower |Assault |Armour |Notes
+
+|Bunker
+|WE
+|0 cm
+|0 cm
+|0
+|2
+|6+
+|Damage Capacity 3
+
+|===
++
+You must attack the bunker objective with shooting and or assaults.
++
+** Treat it as if it were an enemy War Engine unit that is in the Immobilised condition.
+** If it suffers critical damage, it is destroyed.
+** In an assault, any enemy units within 15 cm of the bunker objective can lend it support during the Assault phase.
+* *Morale effect*:
+Once only, per Bunker objective:
+When you destroy a bunker objective that you placed, roll a D6: your opponent must immediately deduct the score from their Army Morale total.
+
+### Capture
+This objective represents something of particular one-time value to your forces -- such as a fuel dump or an ammunition store.
+When your forces capture it they exploit it immediately and continue with the battle.
+
+[none]
+* *Placement*:
+You must place this objective in your opponent's deployment zone.
+* *Game effects and control*:
+If, at the end of any turn, you have a unit in base contact with the objective marker, then you control this objective.
++
+Only you can control a Capture objective that you placed.
+Your opponent can only attempt to prevent your control.
+* *Morale effect*:
+Once only, per Capture objective:
+For each Capture objective you control at the end of a turn, choose and apply *one* of these effects:
+** *Capture*: Add D6 points to your Army Morale total.
+** *Destroy*: Your opponent must subtract D6 points from their Army Morale total.
+
++
+Then remove the objective marker from the playing area.
+
+### Cleanse
+This objective represents an area that you want to keep out of the enemy's hands.
+
+[none]
+* *Placement*:
+You must place this objective marker inside your own deployment zone.
+* *Game effects and control*:
+At the end of the turn, if a player has a unit within 15 cm of the objective *and* closer to the objective than any enemy units, then they control the objective.
+* *Morale effect (at the end of every turn)*:
+At the end of each turn:
+For each Cleanse objective that you control, add 1 point to your Army Morale total.
+
+---
+
+.Related information
+* xref:core:ROOT:what-you-will-need-to-play.adoc#objective-markers[Objective markers]
+* xref:core:main-rules:terrain-effects-on-shooting.adoc#infantry-armour-bonus[Armour bonus for infantry that are in cover]

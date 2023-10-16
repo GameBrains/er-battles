@@ -1,0 +1,30 @@
+.Reserves detachment arrival table
+[%header, cols="2,^1,^1,^1,^1,^1,^1"]
+|===
+|Detachment's Reserve Speed |Turn #1 |#2 |#3 |#4 |#5 |#6
+
+|Up to `30 cm`
+|-
+|4+
+|4+
+|3+
+|3+
+|2+
+
+|Over `30 cm`
+|-
+|3+
+|3+
+|2+
+|2+
+|2+
+
+|`Flyer`
+|-
+|3+
+|2+
+|2+
+|2+
+|2+
+
+|===

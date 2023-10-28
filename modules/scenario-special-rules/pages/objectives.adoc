@@ -102,8 +102,9 @@ Your goal with this objective is to use shooting and/or assaults to attack and d
 +
 {blank}[TODO: Clarify. My guess is that the intent is for such units to lend support, but not for this alone to cause their detachment to count as engaged in the assault... but I'm not sure.]
 * *Morale effect*:
-Once only, per Bunker objective: 
 When you destroy your bunker objective, roll a D6 -- your opponent must immediately deduct the score from their Army Morale total.
++
+Then remove the objective marker from the playing area.
 
 ### Capture
 This objective represents something of particular one-time value to your forces -- such as a fuel dump or an ammunition store.
@@ -133,7 +134,7 @@ You must place this objective marker inside your own deployment zone.
 * *Game effects and control*:
 At the end of the Rally phase:
 If you have a unit that is within 15 cm of your Cleanse objective marker *and* closer to it than any enemy units, then you control the objective.
-* *Morale effect (at the end of every turn)*:
+* *Morale effect*:
 At the end of each Rally phase:
 For each of your Cleanse objectives that you control, add 1 point to your Army Morale total.
 

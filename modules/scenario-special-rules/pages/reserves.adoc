@@ -1,2 +1,55 @@
 = Reserves
 
+Commanders rarely commit the entirety of their available forces at the start of a battle.
+Rather, they hold some elements in reserve, at some distance from the battlefront.
+This gives them the flexibility to adapt as the battle progresses, to reinforce areas that are weak or to capitalise on a breakthrough.
+
+Or sometimes, elements of the available forces may be ready to join a vanguard when it encounters the enemy.  
+
+---
+
+Some special rules or scenarios state that you may or must place some of your detachments in Reserves.
+This means that you will not deploy these detachments before the start of the game.
+Instead, you will put them into play when they arrive at some point after the start of the game, as we explain below.
+
+For convenience, we refer to a detachment that is currently subject to the Reserves rules as a 'Reserves detachment'.
+
+== Setup
+
+During the scenario setup, leave all Reserves detachments out of play.
+That is, do not deploy them before the game, but instead keep them close at hand to bring into play later.
+
+== Play
+
+Unless the rules say otherwise, Reserves detachments arrive and go into play as we explain here.
+
+=== Arrival of Reserves detachments
+
+We determine the arrival of each Reserves detachment as a function of the Reserve Speed of the detachment, the number of turns you've already played, and the roll of a die.
+
+* A detachment's Reserve Speed is equal to the Speed value of the slowest unit in the detachment, ignoring units that are embarked in transport units.
+footnote:[
+To be clear, where you have a detachment that is transporting another detachment, treat them as a single detachment for the sake of arrival -- and ignore the cargo units when you determine the Reserve Speed.
+]
+* In the Start phase of each turn, use the Reserves Detachment Arrival table to determine whether or not each Reserves detachment arrives:
+Roll a D6 for each of your  Reserves detachments -- the table shows the score you need to trigger the arrival of a given Reserves detachment.
+
+include::partial$reserves-detachment-arrival-table.adoc[]
+
+[IMPORTANT]
+====
+By default, no Reserves detachment can arrive in the first turn.
+After that, while you have Reserves detachments that have not entered play, at least one *must* arrive and enter play each turn.
+
+If you roll for all of your detachments and fail to get any die result that would trigger the arrival of a detachment, then your Reserves detachment with the highest Reserve Speed will arrive.
+If you have multiple detachments that tie for the highest Reserve Speed, then select one of these at random.
+====
+
+=== Putting arrived Reserves detachments into play
+
+When your Reserves detachments arrive, they enter play anywhere along the table edge that lies inside your deployment zone.
+
+. Place the detachment's HQ unit on this table edge.
+This shows the point at which units from that detachment will enter play.
+If you want multiple arrived Reserves detachments to enter play at the same point -- along a road, perhaps -- simply place their HQ units in a column at that point.
+. In the Movement phase, measure movement for all units from the point on the table edge that the HQ unit identifies -- not from the HQ unit itself!

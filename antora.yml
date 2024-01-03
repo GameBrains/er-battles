@@ -1,6 +1,6 @@
 name: battles
 title: Battles
-version: master
+version: ~
 
 nav:
 - modules/ROOT/nav.adoc

@@ -1,6 +1,6 @@
 = Hidden Setup
 
-Sometimes a defending force has had time to conceal forces on the battlefield, lay minefields, and set up other nasty surprises.
+Sometimes a defending force has had time to conceal units on the battlefield, lay minefields, and set up other nasty surprises.
 
 ---
 

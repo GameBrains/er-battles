@@ -44,7 +44,7 @@ At the end of the Rally phase:
 If you have a unit that is within 15 cm of your Take & Hold objective marker *and* closer to it than any enemy units, then you are in control of this objective this turn.
 * *Morale effect*:
 At the end of each Rally phase:
-For each Take & Hold objective that you control, add D3 points to your Army Morale total.
+For each Take & Hold objective that you control, add D3 points to your Army Morale value.
 
 === Rescue
 This objective represents something that is significant to both sides in the conflict -- something that both sides wish to control, to the exclusion of the other.
@@ -66,8 +66,8 @@ However, once you have done this, it is possible for your opponent to destroy yo
 * *Morale effect*:
 At the end of each Rally phase:
 For each of your units that has a Rescue objective (that is, for each of your units that currently count as an escort unit), apply *both* of these effects:
-** Add 1 point to your Army Morale total.
-** Your opponent must deduct 1 point from their Army Morale total.
+** Add 1 point to your Army Morale value.
+** Your opponent must deduct 1 point from their Army Morale value.
 
 === Bunker
 This objective represents something of particular value to the enemy that you want to destroy to hinder them in some way -- a site of strategic or tactical value such as a command bunker, communications relay or missile silo.
@@ -102,7 +102,7 @@ Your goal with this objective is to use shooting and/or assaults to attack and d
 +
 {blank}[TODO: Clarify. My guess is that the intent is for such units to lend support, but not for this alone to cause their detachment to count as engaged in the assault... but I'm not sure.]
 * *Morale effect*:
-When you destroy your bunker objective, roll a D6 -- your opponent must immediately deduct the score from their Army Morale total.
+When you destroy your bunker objective, roll a D6 -- your opponent must immediately deduct the score from their Army Morale value.
 +
 Then remove the objective marker from the playing area.
 
@@ -119,8 +119,8 @@ If you have a unit in base contact with your Capture objective marker, then you 
 * *Morale effect*:
 At the end of the Rally phase:
 For each of your Capture objectives that you control at the end of a turn, choose and apply *one* of these effects:
-** *Capture*: Add D6 points to your Army Morale total.
-** *Destroy*: Your opponent must subtract D6 points from their Army Morale total.
+** *Capture*: Add D6 points to your Army Morale value.
+** *Destroy*: Your opponent must subtract D6 points from their Army Morale value.
 
 +
 Then remove the objective marker from the playing area.
@@ -136,7 +136,7 @@ At the end of the Rally phase:
 If you have a unit that is within 15 cm of your Cleanse objective marker *and* closer to it than any enemy units, then you control the objective.
 * *Morale effect*:
 At the end of each Rally phase:
-For each of your Cleanse objectives that you control, add 1 point to your Army Morale total.
+For each of your Cleanse objectives that you control, add 1 point to your Army Morale value.
 
 ---
 

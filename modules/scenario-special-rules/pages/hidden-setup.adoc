@@ -30,7 +30,7 @@ Each time you shoot with one of your detachments at a Hidden Setup marker, resol
 . The target detachment that corresponds to the marker does not suffer any casualties from hits.
 . Calculate Blast markers as normal, but place these next to the Hidden Setup marker -- they might affect the Defender later.
 
-IMPORTANT: For the purposes of Army Morale totals, *ignore* Blast markers that are on Hidden Setup markers.
+IMPORTANT: For the purposes of Army Morale values, *ignore* Blast markers that are on Hidden Setup markers.
 
 === Revealing hidden detachments (Defender)
 

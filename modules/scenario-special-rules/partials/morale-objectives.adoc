@@ -34,7 +34,7 @@ _One-time effect: Check at the end of each Rally phase._
 
 For each of your Capture objectives that you control, choose and apply one of these modifiers:
 
-* *Capture*: Add D6 points to your Army Morale total.
+* *Capture*: Add D6 points to your Army Morale value.
 * *Destroy*: Your opponent must subtract D6 points from their Army Morale value.
 ====
 

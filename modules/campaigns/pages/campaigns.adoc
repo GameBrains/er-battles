@@ -1,2 +1,13 @@
 = Campaigns
 
+////
+[TIP]
+====
+Custom Army Morale modifiers can be particularly useful in a campaign.
+For example:
+
+* An army that faces an enemy that has defeated it many times before might suffer a penalty to its Army Morale value at the start of the game, or at the end of each turn.
+* A desperate army that has rallied behind a legendary hero might have benefit from a boost to its Army Morale value.
+* Particular detachments or objectives might afford a larger modifier than usual, to represent their special importance.
+====
+////

@@ -1,2 +1,155 @@
 = Army Morale
 
+An army can only take so much punishment before it becomes ineffective and unable to undertake offensive actions, or loses its will to fight altogether.
+
+---
+
+These rules represent the fighting spirit and operational readiness of the opposing armies, as they wear each other down or get a boost from some spectacular success on the battlefield.
+
+NOTE: To be clear, when we refer to the end of the Rally phase in this topic, we mean specifically during step xref:core:main-rules:check-the-game-end-conditions.adoc[].
+
+== The Army Morale value
+
+In scenarios that use Army Morale:
+
+* The opposing armies each have an Army Morale value.
+** At the start of the game, your Army Morale value is simply the total of all <<Detachment Morale values>> in your army.
+** Each player's Army Morale value will change throughout the course of the game as your armies clash, and as you vie for control of objectives.
+* The goal is to reduce your opponent's Army Morale value to zero or less before they do the same to you.
+* At the end of the Rally phase, after you've applied all modifiers that have triggered:
+** If a player has an Army Morale value of zero or less then the game ends and the other player is the winner.
+(We assume that the player's army is no longer effective and disengages from the enemy.)
+** If both players' Army Morale values are zero or less then the game ends and the player whose value is highest is the winner.
+(A link:https://en.wikipedia.org/wiki/Pyrrhic_victory[Pyrrhic victory^], perhaps!)
+
+== Detachment Morale values
+
+When you build your army in the standard way, you calculate the Morale value of each detachment and record this alongside other features of the detachment.
+The formula for the Morale value of a detachment is as follows:
+
+****
+Detachment Morale value = points value total of the detachment, divided by 50 (round up)
+footnote:[
+As we round up to get each Detachment Morale value, two armies of the same points value may nevertheless have slightly different initial Army Morale values.
+This does not imply any advantage or disadvantage to either player.
+]
+****
+ 
+.Detachment Morale values
+====
+A detachment that has a points value total anywhere in the range of 201 to 250 points has a Morale value of 5.
+====
+
+== Army Morale effects and modifiers
+
+There are lots of effects that can modify your Army Morale value.
+We list the main ones here.
+
+Morale effects can be either *ongoing* or *one-time*:
+
+Ongoing morale effects::
+These effects can repeat in a given context, such that we apply their modifiers multiple times throughout the course of a game.
++
+We check for ongoing morale effects every turn, at the end of the Rally phase.
+We apply the appropriate modifiers for any ongoing morale effects that are applicable at that time.
+One-time morale effects::
+These effects do not repeat -- we apply their modifiers only once for a given context.
++
+In general, one-time morale effects can become applicable at almost any time -- although there are some that we check at the end of the Rally phase.
+(This is also a good time to double-check for any that we might've forgotten to apply during the heat of battle!)
+We apply the appropriate modifier immediately whenever a one-time effect becomes applicable.
+
+=== Morale: Blast markers on your detachments
+
+_Ongoing effect: Check at the end of each Rally phase._
+
+For *each* Blast marker that remains on any of your detachments, deduct 1 point from your current Army Morale value.
+
+=== Morale: Detachment reduced to half-strength
+
+_One-time effect: This can apply no more than once per detachment._
+
+When a detachment in your army is reduced to half of its initial strength, subtract its Morale value from your current Army Morale value.
+
+{blank}[TODO: It'd probably be best to define a term such as 'Detachment Strength' -- perhaps in the 'Common rules' section -- and then use this term throughout the project wherever it is relevant for Leadership tests, assaults, Army Morale, and so on.]
+
+.Infantry/Vehicle detachment at half strength
+====
+Before the start of the game, your Imperial Guard Infantry detachment had 20 units.
+It suffers losses to the extent that only 10 or fewer units remain.
+When this happens, you deduct the Morale value of this detachment from your Army Morale value.
+====
+
+.War Engine detachment at half strength
+====
+Before the start of the game, your Imperial Guard Super-heavy Tanks detachment had three Baneblades, each with a Damage Capacity value of `4` -- a total Damage Capacity of 12.
+It suffers damage to the extent that the remaining Baneblades have only 6 or fewer points of current Damage Capacity left between them.
+When this happens, you deduct the Morale value of this detachment from your Army Morale value.
+====
+
+=== Morale: Enemy War Engine unit destroyed
+
+_One-time effect: This can apply no more than once per War Engine unit._
+
+Where an *enemy* War Engine unit suffers a Catastrophic Damage result of *Destroyed* -- not merely *Wrecked* -- add *half* of that unit's Morale value to your own Army Morale value.
+footnote:[
+This represents the boost to morale that troops get when they see an imposing enemy war engine destroyed in spectacular fashion!
+]
+
+Note that this applies even in detachments that include two or more War Engine units -- add half the value of the individual War Engine unit, not half the value of the detachment as a whole.
+
+=== Morale: Blast markers on a destroyed detachment
+
+_One-time effect: This can apply no more than once per detachment._
+
+When one of your detachments is completely destroyed, immediately deduct 1 point from your Army Morale value for *each* Blast marker that was on the detachment at the time!
+
+=== Morale: Objectives
+
+This is just a summary of the morale effects of the standard objectives  -- for full detail see xref:objectives.adoc[].
+
+[%collapsible]
+.Take & Hold
+====
+_Ongoing effect: Check at the end of each Rally phase._
+
+For each of your Take & Hold objectives that you control, add D3 points to your Army Morale value.
+====
+
+[%collapsible]
+.Rescue
+====
+_Ongoing effect: Check at the end of each Rally phase._
+
+For each of your units that has a Rescue objective (that is, for each of your units that currently count as an escort unit), apply both of these modifiers:
+
+* Add 1 point to your Army Morale value.
+* Your opponent must deduct 1 point from their Army Morale value.
+====
+
+[%collapsible]
+.Bunker
+====
+_One-time effect: Each time you destroy one of your bunker objectives._
+
+Roll a D6 -- your opponent must immediately deduct the score from their Army Morale value.
+====
+
+[%collapsible]
+.Capture
+====
+_One-time effect: Check at the end of each Rally phase._
+
+For each of your Capture objectives that you control, choose and apply one of these modifiers:
+
+* *Capture*: Add D6 points to your Army Morale total.
+* *Destroy*: Your opponent must subtract D6 points from their Army Morale value.
+====
+
+[%collapsible]
+.Cleanse
+====
+_Ongoing effect: Check at the end of each Rally phase._
+
+For each of your Cleanse objectives that you control, add 1 point to your Army Morale value.
+====

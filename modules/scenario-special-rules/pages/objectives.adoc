@@ -1,13 +1,13 @@
 = Objectives
 
-Some scenarios specify that you must set up markers to represent battlefield objectives that the opposing forces seek to attain or to deny to their enemy.
+Some scenarios specify that you must set up markers to represent battlefield objectives that the opposing armies seek to attain or to deny to their enemy.
 
 Such scenarios explain what objective markers to place.
 They may also include special instructions that add to or over-ride the default rules that we explain here.
 
-## General rules for objectives and objective markers
+== General rules for objectives and objective markers
 
-### Placement
+=== Placement
 
 There are various <<objective-types, types of objective>>, and each type has specific restrictions on where you can place corresponding markers.
 However, you must also observe these general restrictions by default:
@@ -19,7 +19,7 @@ However, you must also observe these general restrictions by default:
 TIP: We recommend that you base all objective-related measurements on the centres of the markers rather than on their edges.
 This gives you a bit more room to place them and means that it doesn't really matter exactly how big or small each marker is.
 
-### Control
+=== Control
 
 For the most part, you can only benefit from your own objectives.
 Except where the rules say otherwise, you gain nothing from control of your opponent's objectives.
@@ -27,13 +27,13 @@ Except where the rules say otherwise, you gain nothing from control of your oppo
 Of course, it is in your interests to prevent your opponent from getting the benefits of their objectives.
 
 [[objective-types]]
-## Types of objective/objective marker
+== Types of objective/objective marker
 
 The standard objective types and their default rules are as follows.
 
 {blank}[TODO: We should tweak the 'R4. Check the game end conditions' topic and the 'End of turn' part of the turn sequence, and rationalise how we refer to objectives and Morale effects that we check or apply 'in the Rally phase' or 'at the end of the turn'. At present, the arrangement incorrectly implies that some Morale effects happen *after* we check for the game end conditions in the turn sequence.]
 
-### Take & Hold
+=== Take & Hold
 This objective represents a location on the battlefield that is vital or highly advantageous to hold for as long as possible in the face of the enemy.
 
 [none]
@@ -46,7 +46,7 @@ If you have a unit that is within 15 cm of your Take & Hold objective marker *an
 At the end of each Rally phase:
 For each Take & Hold objective that you control, add D3 points to your Army Morale total.
 
-### Rescue
+=== Rescue
 This objective represents something that is significant to both sides in the conflict -- something that both sides wish to control, to the exclusion of the other.
 Vital plans perhaps, or an important hostage.
 
@@ -69,7 +69,7 @@ For each of your units that has a Rescue objective (that is, for each of your un
 ** Add 1 point to your Army Morale total.
 ** Your opponent must deduct 1 point from their Army Morale total.
 
-### Bunker
+=== Bunker
 This objective represents something of particular value to the enemy that you want to destroy to hinder them in some way -- a site of strategic or tactical value such as a command bunker, communications relay or missile silo.
 
 [none]
@@ -106,8 +106,8 @@ When you destroy your bunker objective, roll a D6 -- your opponent must immediat
 +
 Then remove the objective marker from the playing area.
 
-### Capture
-This objective represents something of particular one-time value to your forces -- such as a fuel dump or an ammunition store.
+=== Capture
+This objective represents something of particular one-time value to your army -- such as a fuel dump or an ammunition store.
 When your forces capture it they exploit it immediately and continue with the battle.
 
 [none]
@@ -125,7 +125,7 @@ For each of your Capture objectives that you control at the end of a turn, choos
 +
 Then remove the objective marker from the playing area.
 
-### Cleanse
+=== Cleanse
 This objective represents an area that you want to keep out of the enemy's hands.
 
 [none]

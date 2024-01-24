@@ -56,12 +56,12 @@ When you intend to use the Drop Pods rules in a game, act as follows.
 
 NOTE: For convenience, we refer to any valid detachment that you intend to use with the Drop Pods rules as a 'Drop Pods detachment'.
 
-=== 1. Setup: Place drop pods detachments in Reserves
+=== 1. Setup: Place Drop Pods detachments in Reserves
 
 Place all Drop Pods detachments in Reserves.
 Drop Pods detachments must always start the game in Reserves.
 
-=== 2. Start phase: Arrival of drop pods from Reserves
+=== 2. Start phase: Arrival of Drop Pods detachments from Reserves
 
 No matter what units they contain, all Drop Pods detachments have a Reserve Speed of 30 cm.
 

@@ -1,3 +1,63 @@
 = Battle 1: Meeting Engagement
 
-{blank}[TODO: In the meantime, see link:https://thehobby.zone/resources/e40k-compendium/Content/Battles/TheScenarios/Battle1MeetingEngagement.htm[^]]
+Two opposing armies rush to secure a strategically important area; and they arrive at the same time.
+As they meet, each army seeks to gain the advantage as it scrambles to deploy from its column of march as effectively as it can.
+
+== Scenario special rules
+
+xref:scenario-special-rules:army-morale.adoc[]; xref:scenario-special-rules:objectives.adoc[]
+
+== Armies
+
+With your opponent, agree a maximum points value limit for the battle.
+Then build your army within this maximum.
+
+== Setup
+
+. Set up terrain in the standard way.
+. Determine which player gets which table edge in the standard way.
+. Place your objective markers in the standard way.
+Choose your objectives as follows:
+* Each player must have one objective per 500 points in their army (round fractions up).
+For example, if you have an army of 1,800 points then you need four objectives.
+* Each player may choose up to one _Rescue_ objective -- the rest must all be _Take & Hold_.
+. Do not deploy any detachments yet.
+Instead, place HQ units to show where your detachments will enter play during the game, as follows.
++
+NOTE: Don't place HQ units for Reserves detachments -- apply the Reserves rules as normal.
++
+Start with the player whose army has the lower Strategy Rating and alternate between you until there are no more HQ units to place:
++
+.. Pick an HQ unit to be first, and place it to identify any point along your table edge.
+.. Every other HQ unit you place must identify a point that is on your table edge *and* within 15 cm of the point that your first HQ unit identifies.
+.. You may 'stack' multiple HQ units in a column, to indicate the same point on the table edge -- you might want to do this where a road crosses the table edge, for example.
+(Note that you'll measure all movement from the points that you identify on the table edge, not from the HQ units themselves.)
+.. Each player may choose one detachment per 1,000 points of their army total (or part thereof) to be a *flanking* detachment.
+You may place the HQ units of your flanking detachments to identify any point along your table edge, rather than only within 15 cm of the point you identified with the first HQ unit you placed.
+. Start the game in the usual way, as per the Turn Sequence.
+When you reach the first Movement phase and it is your turn to complete your moves, put into play the detachments that correspond to the HQ units you placed.
+Each time you put a detachment into play, measure the movement of its units -- including its HQ unit -- from the point that its HQ unit identifies on the table edge.
++
+IMPORTANT: Aside from Reserves detachments, any detachment that does not enter play in the first turn counts as destroyed -- deduct the detachment's Morale value from your Army Morale total, as normal for a destroyed detachment.
+footnote:[
+We consider the detachment to be 'destroyed' for the sake of the battle, but not for the war.
+That is, treat the detachment as destroyed for all rules purposes in the current game -- but not for future games, if you're playing a campaign.
+]
+footnote:[{e40k-diff}
+The link:https://thehobby.zone/resources/e40k-compendium/Content/Battles/TheScenarios/Battle1MeetingEngagement.htm[original text for this scenario^] is ambiguous as it merely states that such detachments 'are lost'.
+We've defined some definite consequences that are consistent with other unusual but similar situations that we've defined elsewhere.
+]
+
+== Game length and victory conditions
+
+Standard Army Morale win conditions apply: At the end of the Rally phase, if a player has an Army Morale value of zero or less then the game ends and the other player is the winner.
+footnote:[{e40k-diff}
+In a strict interpretation of the link:https://thehobby.zone/resources/e40k-compendium/Content/Battles/TheScenarios/Battle1MeetingEngagement.htm[original text for this scenario^], you might end the game as soon as a player's Army Morale value reaches 0, whenever that happens during a game turn.
+However, we think it is more consistent with other rules, more fair, and probably the original intent, to complete the turn sequence and determine the overall game state only at step xref:core:main-rules:check-the-game-end-conditions.adoc[], as usual.
+So, we've made the text clear in this respect.
+]
+
+If this hasn't happened by the end of the 4^th^ turn, or if both players' Army Morale values drop to 0 or less on the same turn, then:
+
+* The player with the higher Army Morale value wins a 'tactical victory'.
+* Or in the former case, if you both agree, you could continue to play for as many turns as it takes until a player's Army Morale value drops to 0.

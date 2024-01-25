@@ -57,7 +57,6 @@ However, we think it is more consistent with other rules, more fair, and probabl
 So, we've made the text clear in this respect.
 ]
 
-If this hasn't happened by the end of the 4^th^ turn, or if both players' Army Morale values drop to 0 or less on the same turn, then:
-
-* The player with the higher Army Morale value wins a 'tactical victory'.
-* Or in the former case, if you both agree, you could continue to play for as many turns as it takes until a player's Army Morale value drops to 0.
+* If this hasn't happened by the end of the 4^th^ turn, then the player with the higher Army Morale value wins a 'tactical victory'.
+* Or, if you both agree, you could play for as many turns as it takes until a player's Army Morale value drops to 0.
+* Either way, if both players' Army Morale values drop to 0 or less on the same turn, then the player with the higher Army Morale value wins a 'tactical victory'.

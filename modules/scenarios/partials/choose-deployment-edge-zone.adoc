@@ -1,0 +1,2 @@
+. Determine which player gets to choose their deployment edge/zone in the standard way.
+That player must then choose the deployment edge/zone that they prefer, and their opponent gets the opposite edge/zone (see <<Maps>>).

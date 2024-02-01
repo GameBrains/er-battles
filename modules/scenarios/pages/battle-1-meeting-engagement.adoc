@@ -9,35 +9,64 @@ xref:scenario-special-rules:army-morale.adoc[]; xref:scenario-special-rules:obje
 
 == Armies
 
-With your opponent, agree a maximum points value limit for the battle.
-Then build your army within this maximum.
+include::partial$agree-a-maximum-points-value-limit.adoc[]
+
+== Maps
+
+* Standard deployment edges.
+* No deployment zones.
+
+[.float-group]
+--
+[.left]
+.Long deployment edge
+image::map-battle-1-meeting-engagement-long.svg[alt="Deployment map for the Meeting Engagement scenario (long deployment edge)",392,294]
+
+[.left]
+.Short deployment edge
+image::map-battle-1-meeting-engagement-short.svg[alt="Deployment map for the Meeting Engagement scenario (short deployment edge)",392,294]
+
+[.left]
+.Corner deployment edge
+image::map-battle-1-meeting-engagement-corner.svg[alt="Deployment map for the Meeting Engagement scenario (corner deployment edge)",392,294]
+--
 
 == Setup
 
-. Set up terrain in the standard way.
-. Determine which player gets which table edge in the standard way.
-. Place your objective markers in the standard way.
-Choose your objectives as follows:
+. xref:get-ready-to-play:set-up-terrain.adoc[Set up terrain] in the standard way.
+include::partial$choose-deployment-edge-zone.adoc[]
+. Choose your xref:scenario-special-rules:objectives.adoc[objectives], as follows:
 * Each player must have one objective per 500 points in their army (round fractions up).
-For example, if you have an army of 1,800 points then you need four objectives.
-* Each player may choose up to one _Rescue_ objective -- the rest must all be _Take & Hold_.
-. Do not deploy any detachments yet.
-Instead, place HQ units to show where your detachments will enter play during the game, as follows.
+You may each choose up to one Rescue objective -- the rest must all be Take & Hold.
 +
+.Number of objectives
+====
+In a game with a limit of 1,800 points for each army, you will each have four objectives.
+====
+. Place your objective markers in the standard way.
+
+== Initial deployment
+
+Do not deploy any detachments yet.
+Instead, place HQ units to indicate where your detachments will enter play during the game.
+
 NOTE: Don't place HQ units for Reserves detachments -- apply the Reserves rules as normal.
-+
+
 Start with the player whose army has the lower Strategy Rating and alternate between you until there are no more HQ units to place:
-+
-.. Pick an HQ unit to be first, and place it to identify any point along your table edge.
-.. Every other HQ unit you place must identify a point that is on your table edge *and* within 15 cm of the point that your first HQ unit identifies.
-.. You may 'stack' multiple HQ units in a column, to indicate the same point on the table edge -- you might want to do this where a road crosses the table edge, for example.
-(Note that you'll measure all movement from the points that you identify on the table edge, not from the HQ units themselves.)
-.. Each player may choose one detachment per 1,000 points of their army total (or part thereof) to be a *flanking* detachment.
-You may place the HQ units of your flanking detachments to identify any point along your table edge, rather than only within 15 cm of the point you identified with the first HQ unit you placed.
-. Start the game in the usual way, as per the Turn Sequence.
+
+. Pick an HQ unit to be first, and place it to indicate any point along your deployment edge.
+. Each other HQ unit you place must indicate a point that is on your deployment edge *and* within 15 cm of the point that your first HQ unit indicates.
+You may 'stack' multiple HQ units in a column, to indicate the same point on your deployment edge -- you might want to do this where a road crosses the table edge, for example.
+. Each player may choose one detachment per 1,000 points of the maximum points value limit (or part thereof -- round up) to be a *flanking* detachment, if they wish.
+You may place the HQ units of your flanking detachments to indicate any point along your deployment edge, rather than only within 15 cm of the point you indicated with the first HQ unit you placed.
+
+== Start the game
+
+Start the game in the usual way: Proceed to the Start phase.
+
 When you reach the first Movement phase and it is your turn to complete your moves, put into play the detachments that correspond to the HQ units you placed.
-Each time you put a detachment into play, measure the movement of its units -- including its HQ unit -- from the point that its HQ unit identifies on the table edge.
-+
+Each time you put a detachment into play, measure the movement of its units -- including its HQ unit -- from the point that its HQ unit indicates on your deployment edge.
+
 IMPORTANT: Aside from Reserves detachments, any detachment that does not enter play in the first turn counts as destroyed -- deduct the detachment's Morale value from your Army Morale total, as normal for a destroyed detachment.
 footnote:[
 We consider the detachment to be 'destroyed' for the sake of the battle, but not for the war.
@@ -50,12 +79,7 @@ We've defined some definite consequences that are consistent with other unusual 
 
 == Game length and victory conditions
 
-Standard Army Morale win conditions apply: At the end of the Rally phase, if a player has an Army Morale value of zero or less then the game ends and the other player is the winner.
-footnote:[{e40k-diff}
-In a strict interpretation of the link:https://thehobby.zone/resources/e40k-compendium/Content/Battles/TheScenarios/Battle1MeetingEngagement.htm[original text for this scenario^], you might end the game as soon as a player's Army Morale value reaches 0, whenever that happens during a game turn.
-However, we think it is more consistent with other rules, more fair, and probably the original intent, to complete the turn sequence and determine the overall game state only at step xref:core:main-rules:check-the-game-end-conditions.adoc[], as usual.
-So, we've made the text clear in this respect.
-]
+include::partial$standard-army-morale-win-conditions.adoc[]
 
 * If this hasn't happened by the end of the 4^th^ turn, then the player with the higher Army Morale value wins a 'tactical victory'.
 * Or, if you both agree, you could play for as many turns as it takes until a player's Army Morale value drops to 0.

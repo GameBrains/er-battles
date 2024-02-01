@@ -1,3 +1,116 @@
 = Battle 5: Ambush
 
-{blank}[TODO: In the meantime, see link:https://thehobby.zone/resources/e40k-compendium/Content/Battles/TheScenarios/Battle5Ambush.htm[^]]
+{blank}[TODO: Complete the description.]
+
+////
+An army on the march is caught in an ambush by an unexpected enemy force. The ambushers must use the advantage of surprise to keep the enemy forces off balance and separated while they bring in reserves to finish them off. The defenders desperately try to amass their strength before they are wiped out.
+////
+
+== Scenario special rules
+
+xref:scenario-special-rules:army-morale.adoc[]; xref:scenario-special-rules:hidden-setup.adoc[]; xref:scenario-special-rules:reserves.adoc[]
+
+== Armies
+
+include::partial$agree-a-maximum-points-value-limit.adoc[]
+
+== Maps
+
+* Non-standard deployment edges -- refer to the map.
+* The Defender's deployment zone is 30 cm deep and extends along adjacent short and long table edges, an L-shaped area.
+* The Attacker's deployment zone extends over the rest of the table that is not within 15 cm of the Defender's deployment zone, a rectangular area. 
+The Attackers Reserves detachments may enter battle from {blank}[TODO: ...from where, exactly?]
+
+image::map-battle-5-ambush.svg[alt="Deployment map for the Ambush scenario",600,450]
+
+[none]
+.Legend
+* [.conum]#A# Attacker's deployment zone.
+* [.conum]#D# Defender's deployment zone.
+* [.conum]#O# Defender's objective marker.
+* [.conum]#1# Route of March.
+* [.conum]#2# Direction of March.
+
+== Setup
+
+. Determine who will be the Attacker (ambusher) and who will be the Defender.
+. xref:get-ready-to-play:set-up-terrain.adoc[Set up terrain] in the standard way.
+include::partial$choose-deployment-edge-zone.adoc[]
+. Choose your xref:scenario-special-rules:objectives.adoc[objectives], as follows:
+* Each player must have one objective per 500 points in their army (round fractions up).
+* *Attacker*: You may use only Capture and/or Bunker objectives.
+Ideally, your markers represent immobilised transport vehicles that we assume to have cargoes of ammunition and other supplies.
+* *Defender*: You may use only Cleanse objectives.
++
+.Number of objectives
+====
+In a game with a limit of 1,800 points for each army, you will each have four objectives.
+====
+. Place your objective markers.
+The Defender must place all of theirs first.
++
+IMPORTANT: Both players must place all objectives in the Defender's deployment zone, along the route of march.
++
+{blank}[TODO: Given that these objectives rules were tacked on as an afterthought for this scenario, via a magazine: Verify -- do these criteria actually make sense in practice, are there any other restrictions or odd edge cases to account for?]
++
+.. *Defender*: The first objective marker that you place must be 15 cm away from the point where the route of march exits the table edge (and 15 cm away from the other table edge, as normal).
+Your second must be 30 cm farther back along the route of march from the first.
+Your third must be 30 cm farther back along the route of march from the second.
+And so on, until you have placed all of your objective markers.
+.. *Attacker*: Place your objective markers along the route of march, subject to the normal restrictions for placing objectives -- that is, not within 15 cm of each other or any table edge.
+Also, place your objectives no farther along the route of march than the most forward defending detachment.
++
+{blank}[TODO: Clarify: Can either player place their objective markers to mark points that are >15<30 cm from the nearest table edge, or must all the points be *exactly* 15 cm from the nearest table edge, in the exact centre of the route of march?]
+
+== Disposition of forces
+
+*Attacker*: Determine the disposition of your forces.
+footnote:[{e40k-diff}
+In the original _Battles_ book, this scenario details a random method by which the Attacker must determine most of their initial ambush force.
+However, the designers found that this tends to put the Attacker at too great a disadvantage.
+So, when they published updates in _Firepower_ magazine, issue #1, they specified that the Attacker "may pick up to half of their detachments instead".
+We've integrated this information into our version of the scenario, and we've clarified some points that were ambiguous.
+]
+
+. Place all of your War Engines detachments in Reserves.
+. From the rest of your army, choose the detachments that will form your initial ambush force.
+* The total points value of this force must be no more than half of the maximum points value limit for this battle.
+* This force must include your Supreme Commander detachment, if you have one -- keep this at hand for initial deployment.
+(They're the brains behind the ambush, and they want the glory!)
+* Where you choose a Flyer detachment, place it aside ready to bring into play in the first turn of the game.
+* Where you choose an Infantry and/or Vehicle detachment, keep it at hand for your initial deployment.
+. Place all of your remaining detachments in Reserves.
+
+*Defender*: Determine the disposition of your forces.
+
+. Place all of your Flyer detachments in Reserves.
+
+== Initial deployment
+
+. *Defender*: You must deploy first.
+Deploy your detachments one after another, within the Defender's deployment zone, as follows:
++
+NOTE: All of your units must face in the direction of march.
++
+.. The first detachment that you place must have at least one unit in contact with the table edge where the column enters the playing area.
+.. You must place the next detachment farther along the column of march, with all of its units ahead of those of the first detachment.
+.. You must place the third detachment ahead of the second, and so on.
+.. Once you have placed all of your non-Reserves detachments, they should form a single long column that runs along the direction of march.
+Defending Flyer detachments are in Reserves at the start of the battle.
+
+. *Attacker*:
+Use the xref:scenario-special-rules:hidden-setup.adoc[] rules to deploy all of the detachments that you kept at hand for your initial deployment.
+Deploy within the Attacker's deployment zone (see <<Maps>>).
++
+{blank}[TODO: Given the earlier bullet points, there should only be Vehicle and Infantry detachment at hand for initial deployment, so I've rationalised the text. But, there's a conundrum that was slightly easier to spot in the original text: What if the Supreme Commander detachment (which must be deployed) is also a War Engine detachment (which must be in Reserves and can't be hidden...?)]
+
+== Start the game
+
+Start the game in the usual way: Proceed to the Start phase.
+
+== Game length and victory conditions
+
+include::partial$standard-army-morale-win-conditions.adoc[]
+
+If this hasn't happened by the end of the 4^th^ turn, or if both players' Army Morale values drop to 0 or less on the same turn, then the player with the higher Army Morale value wins.
+{blank}[TODO: This leaves some unclear edge cases that we could avoid -- use more complete text similar to that in Meeting Engagement instead?]

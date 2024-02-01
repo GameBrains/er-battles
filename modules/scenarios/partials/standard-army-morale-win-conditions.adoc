@@ -1,0 +1,6 @@
+Standard Army Morale win conditions apply: At the end of the Rally phase, if a player has an Army Morale value of zero or less then the game ends and the other player is the winner.
+footnote:[{e40k-diff}
+In a strict interpretation of the original text for this scenario, you might end the game as soon as a player's Army Morale value reaches 0, whenever that happens during a game turn.
+However, we think it is more consistent with other rules, more fair, and probably the original intent, to complete the turn sequence and determine the overall game state only at step xref:core:main-rules:check-the-game-end-conditions.adoc[], as usual.
+So, we've made the text clear in this respect.
+]

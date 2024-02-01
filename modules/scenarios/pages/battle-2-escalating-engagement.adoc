@@ -1,3 +1,82 @@
 = Battle 2: Escalating Engagement
 
-{blank}[TODO: In the meantime, see link:https://thehobby.zone/resources/e40k-compendium/Content/Battles/TheScenarios/Battle2EscalatingEngagement.htm[^]]
+In a less contested sector of the battle front, two patrols from opposing armies run into each other.
+As they clash, both sides call in reinforcements.
+
+== Scenario special rules
+
+xref:scenario-special-rules:army-morale.adoc[]; xref:scenario-special-rules:objectives.adoc[]; xref:scenario-special-rules:reserves.adoc[]
+
+== Armies
+
+include::partial$agree-a-maximum-points-value-limit.adoc[]
+
+== Maps
+
+* Non-standard deployment edges -- refer to the map.
+* The two deployment zones represent the areas that opposing detachments are patrolling at the moment they sight each other.
+Each of the deployment zones is 90 cm deep, in opposite corners of the playing area.
+The two deployment zones are 150 cm apart (each 75 cm from the half-way line) -- so their width will depend on the width of the playing area that you use (15 cm on a standard 180 cm x 120 cm table).
+
+
+image::map-battle-2-escalating-engagement-1.svg[alt="Deployment map for the Escalating Engagement scenario (long deployment edge)",600,450]
+
+[none]
+.Legend
+* [.conum]#A# Deployment zone A.
+* [.conum]#B# Deployment zone B.
+
+////
+[.float-group]
+--
+[.left]
+.Long deployment edge
+image::map-battle-2-escalating-engagement-long.svg[alt="Deployment map for the Escalating Engagement scenario (long deployment edge)",392,294]
+
+[.left]
+.Short deployment edge
+image::map-battle-2-escalating-engagement-short.svg[alt="Deployment map for the Escalating Engagement scenario (short deployment edge)",392,294]
+
+[.left]
+.Corner deployment edge
+image::map-battle-2-escalating-engagement-corner.svg[alt="Deployment map for the Escalating Engagement scenario (corner deployment edge)",392,294]
+--
+////
+
+== Setup
+
+. xref:get-ready-to-play:set-up-terrain.adoc[Set up terrain] in the standard way.
+include::partial$choose-deployment-edge-zone.adoc[]
+. Choose your xref:scenario-special-rules:objectives.adoc[objectives], as follows:
+* Each player must have one objective per 500 points in their army (round fractions up).
+You may each choose or pick at random from any of the standard objectives.
++
+.Number of objectives
+====
+In a game with a limit of 1,800 points for each army, you will each have four objectives.
+====
+. Place your objective markers in the standard way.
+
+== Initial deployment
+
+Each player must deploy a single detachment on the table, to represent their patrol force.
+
+* This must be the Vehicle/Infantry detachment that has the lowest points value in the player's army, and that is not a Supreme commander detachment.
+* Do not use  a War Engine or Flyer detachment; and do not use a Supreme Commander detachment, even if it has the lowest points value.
+
+// -
+
+. The player whose army has the lower Strategy Rating must deploy their detachment first, in their deployment zone.
+Then the opposing player must deploy their detachment in their deployment zone.
+. All other detachments are in Reserves.
+
+== Start the game
+
+Start the game in the usual way: Proceed to the Start phase.
+
+== Game length and victory conditions
+
+include::partial$standard-army-morale-win-conditions.adoc[]
+
+* If this hasn't happened by the end of the 6^th^ turn, then the player with the higher Army Morale value wins a 'tactical victory'.
+* If both players' Army Morale values drop to 0 or less on the same turn, then the player with the higher Army Morale value wins a 'tactical victory'.

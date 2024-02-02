@@ -21,6 +21,7 @@ include::partial$agree-a-maximum-points-value-limit.adoc[]
 * The Attacker's deployment zone extends over the rest of the table that is not within 15 cm of the Defender's deployment zone, a rectangular area. 
 The Attackers Reserves detachments may enter battle from {blank}[TODO: ...from where, exactly?]
 
+.Detailed map
 image::map-battle-5-ambush.svg[alt="Deployment map for the Ambush scenario",600,450]
 
 [none]
@@ -30,6 +31,9 @@ image::map-battle-5-ambush.svg[alt="Deployment map for the Ambush scenario",600,
 * [.conum]#O# Defender's objective marker.
 * [.conum]#1# Route of March.
 * [.conum]#2# Direction of March.
+
+.Variant map orientation diagrams
+image::map-battle-5-ambush-variants.svg[alt="Diagrams to outline variant orientations of the Ambush scenario deployment map",600,450]
 
 == Setup
 

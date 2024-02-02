@@ -20,8 +20,8 @@ include::partial$agree-a-maximum-points-value-limit.adoc[]
 
 == Maps
 
-* Standard deployment edges, but the Defender can also bring Reserves into play along adjacent edges that extend to the half-way line -- refer to the maps.
-* The Defender's deployment zone extends from their deployment edge to half-way across the table.
+* Standard deployment edges, but the Defender can also bring Reserves into play along adjacent edges that extend to the half-way line.
+* The Defender's deployment zone extends from their deployment edge to the half-way line.
 * The Attacker's deployment zone extends from their deployment edge to 20 cm onto the table.
 
 [.float-group]

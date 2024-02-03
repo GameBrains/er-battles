@@ -1,10 +1,8 @@
 = Battle 5: Ambush
 
-{blank}[TODO: Complete the description.]
-
-////
-An army on the march is caught in an ambush by an unexpected enemy force. The ambushers must use the advantage of surprise to keep the enemy forces off balance and separated while they bring in reserves to finish them off. The defenders desperately try to amass their strength before they are wiped out.
-////
+An army has laid a daring ambush to catch an enemy army on the march.
+The first wave of ambushers must exploit the element of surprise to the full while they bring in reinforcements to crush their confused opponents.
+The defenders must scramble to organise an effective resistance so they can survive the ambush. 
 
 == Scenario special rules
 
@@ -15,6 +13,9 @@ xref:scenario-special-rules:army-morale.adoc[]; xref:scenario-special-rules:hidd
 include::partial$agree-a-maximum-points-value-limit.adoc[]
 
 == Maps
+
+NOTE: The original {e40k} texts are ambiguous and it's not clear exactly what 'edges' we should use for Reserves in this scenario.
+We have not yet settled on a particular interpretation, so there's a good chance that we'll change some of the details that you see here.
 
 * Non-standard deployment edges -- refer to the map.
 * The Defender's deployment zone is 30 cm deep and extends along adjacent short and long table edges, an L-shaped area.
@@ -37,7 +38,7 @@ image::map-battle-5-ambush-variants.svg[alt="Diagrams to outline variant orienta
 
 == Setup
 
-. Determine who will be the Attacker (ambusher) and who will be the Defender.
+. Determine who will be the *Attacker* (ambusher) and who will be the *Defender*.
 . xref:get-ready-to-play:set-up-terrain.adoc[Set up terrain] in the standard way.
 include::partial$choose-deployment-edge-zone.adoc[]
 . Choose your xref:scenario-special-rules:objectives.adoc[objectives], as follows:
@@ -54,8 +55,9 @@ In a game with a limit of 1,800 points for each army, you will each have four ob
 The Defender must place all of theirs first.
 +
 IMPORTANT: Both players must place all objectives in the Defender's deployment zone, along the route of march.
+Apply other placement restrictions that don't conflict with this as normal.
 +
-{blank}[TODO: Given that these objectives rules were tacked on as an afterthought for this scenario, via a magazine: Verify -- do these criteria actually make sense in practice, are there any other restrictions or odd edge cases to account for?]
+{blank}[TODO: Given that these objectives rules were tacked on as an afterthought for this scenario, via an update in a magazine: Verify -- do these criteria actually make sense in practice, are there any other restrictions or odd edge cases to account for?]
 +
 .. *Defender*: The first objective marker that you place must be 15 cm away from the point where the route of march exits the table edge (and 15 cm away from the other table edge, as normal).
 Your second must be 30 cm farther back along the route of march from the first.
@@ -76,7 +78,7 @@ So, when they published updates in _Firepower_ magazine, issue #1, they specifie
 We've integrated this information into our version of the scenario, and we've clarified some points that were ambiguous.
 ]
 
-. Place all of your War Engines detachments in Reserves.
+. Place all of your War Engines detachments in xref:scenario-special-rules:reserves.adoc[Reserves].
 . From the rest of your army, choose the detachments that will form your initial ambush force.
 * The total points value of this force must be no more than half of the maximum points value limit for this battle.
 * This force must include your Supreme Commander detachment, if you have one -- keep this at hand for initial deployment.
@@ -87,12 +89,14 @@ We've integrated this information into our version of the scenario, and we've cl
 
 *Defender*: Determine the disposition of your forces.
 
-. Place all of your Flyer detachments in Reserves.
+. Place all of your Flyer detachments in xref:scenario-special-rules:reserves.adoc[Reserves].
+. If you have any detachments that qualify for the Reserves rules on their own merit, place them in Reserves.
+. Keep all of your other detachments at hand for your initial deployment.
 
 == Initial deployment
 
 . *Defender*: You must deploy first.
-Deploy your detachments one after another, within the Defender's deployment zone, as follows:
+Deploy your detachments one after another, within the Defender's deployment zone [.conum]#D#, as follows:
 +
 NOTE: All of your units must face in the direction of march.
 +
@@ -104,11 +108,11 @@ Defending Flyer detachments are in Reserves at the start of the battle.
 
 . *Attacker*:
 Use the xref:scenario-special-rules:hidden-setup.adoc[] rules to deploy all of the detachments that you kept at hand for your initial deployment.
-Deploy within the Attacker's deployment zone (see <<Maps>>).
+Deploy within the Attacker's deployment zone [.conum]#A# (see <<Maps>>).
 +
-{blank}[TODO: Given the earlier bullet points, there should only be Vehicle and Infantry detachment at hand for initial deployment, so I've rationalised the text. But, there's a conundrum that was slightly easier to spot in the original text: What if the Supreme Commander detachment (which must be deployed) is also a War Engine detachment (which must be in Reserves and can't be hidden...?)]
+{blank}[TODO: Given the earlier bullet points, there should only be Vehicle and Infantry detachments at hand for initial deployment, so I've rationalised the text. But, there's a conundrum that was slightly easier to spot in the original text: What if the Supreme Commander detachment (which must be deployed) is also a War Engine detachment (which must be in Reserves and can't be hidden...?)]
 
-== Start the game
+== Play the game
 
 Start the game in the usual way: Proceed to the Start phase.
 

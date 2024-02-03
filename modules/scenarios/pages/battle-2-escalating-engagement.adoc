@@ -13,6 +13,9 @@ include::partial$agree-a-maximum-points-value-limit.adoc[]
 
 == Maps
 
+NOTE: The original {e40k} texts are ambiguous and it's not clear exactly what 'edges' we should use for Reserves in this scenario.
+We have not yet settled on a particular interpretation, so there's a good chance that we'll change some of the details that you see here.
+
 * Non-standard deployment edges -- refer to the map.
 * The two deployment zones represent the areas that opposing detachments are patrolling at the moment they sight each other.
 The deployment zones are in opposite corners of the playing area, 150 cm apart.
@@ -56,20 +59,28 @@ In a game with a limit of 1,800 points for each army, you will each have four ob
 ====
 . Place your objective markers in the standard way.
 
+== Disposition of forces
+
+Determine the disposition of your forces.
+
+. Place all of your Flyer detachments in xref:scenario-special-rules:reserves.adoc[Reserves].
+. If you have any detachments that qualify for the Reserves rules on their own merit, place them in Reserves.
+. You must deploy a single detachment during initial deployment, to represent your patrol force.
+This must be the Infantry/Vehicle detachment that has the lowest points value in the your army, except that it cannot be your Supreme commander detachment.
++
+--
+* To be clear: Even if it is the lowest points value detachment in your army, do not use a War Engine or Flyer or Supreme Commander detachment for your patrol.
+--
++
+Keep your 'patrol detachment' at hand for your initial deployment.
+. Place all of your remaining detachments in Reserves.
+
 == Initial deployment
 
-Each player must deploy a single detachment on the table, to represent their patrol force.
+The player whose army has the lower Strategy Rating must deploy their patrol detachment first, in their deployment zone.
+Then the opposing player must deploy their patrol detachment in their deployment zone.
 
-* This must be the Vehicle/Infantry detachment that has the lowest points value in the player's army, and that is not a Supreme commander detachment.
-* Do not use  a War Engine or Flyer detachment; and do not use a Supreme Commander detachment, even if it has the lowest points value.
-
-// -
-
-. The player whose army has the lower Strategy Rating must deploy their detachment first, in their deployment zone.
-Then the opposing player must deploy their detachment in their deployment zone.
-. All other detachments are in Reserves.
-
-== Start the game
+== Play the game
 
 Start the game in the usual way: Proceed to the Start phase.
 

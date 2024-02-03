@@ -45,12 +45,18 @@ In a game with a limit of 1,800 points for each army, you will each have four ob
 ====
 . Place your objective markers in the standard way.
 
+== Disposition of forces
+
+Determine the disposition of your forces.
+
+. Place all of your Flyer detachments in xref:scenario-special-rules:reserves.adoc[Reserves].
+. If you have any detachments that qualify for the Reserves rules on their own merit, place them in Reserves.
+. Keep all of your other detachments at hand for your initial deployment.
+
 == Initial deployment
 
 Do not deploy any detachments yet.
-Instead, place HQ units to indicate where your detachments will enter play during the game.
-
-NOTE: Don't place HQ units for Reserves detachments -- apply the Reserves rules as normal.
+Instead, place HQ units to indicate where the detachments you kept at hand will enter play during the first turn of the game.
 
 Start with the player whose army has the lower Strategy Rating and alternate between you until there are no more HQ units to place:
 
@@ -60,7 +66,7 @@ You may 'stack' multiple HQ units in a column, to indicate the same point on you
 . Each player may choose one detachment per 1,000 points of the maximum points value limit (or part thereof -- round up) to be a *flanking* detachment, if they wish.
 You may place the HQ units of your flanking detachments to indicate any point along your deployment edge, rather than only within 15 cm of the point you indicated with the first HQ unit you placed.
 
-== Start the game
+== Play the game
 
 Start the game in the usual way: Proceed to the Start phase.
 
@@ -74,7 +80,7 @@ That is, treat the detachment as destroyed for all rules purposes in the current
 ]
 footnote:[{e40k-diff}
 The link:https://thehobby.zone/resources/e40k-compendium/Content/Battles/TheScenarios/Battle1MeetingEngagement.htm[original text for this scenario^] is ambiguous as it merely states that such detachments 'are lost'.
-We've defined some definite consequences that are consistent with other unusual but similar situations that we've defined elsewhere.
+We've defined consequences that are consistent with other unusual but similar situations that we've defined elsewhere.
 ]
 
 == Game length and victory conditions

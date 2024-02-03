@@ -1,11 +1,7 @@
 = Battle 4: Blitzkrieg!
 
-{blank}[TODO: Complete the description.]
-
-////
-A fast moving attacking force has punched through into weakly held enemy territory. The attackers must brush aside the scattered enemy resistance and seize their objectives before fresh defenders arrive.
-
-////
+A rapid offensive has penetrated into lightly defended enemy territory.
+The attackers must swiftly overcome scattered resistance and seize objectives before fresh defenders appear.
 
 == Scenario special rules
 
@@ -42,10 +38,10 @@ image::map-battle-4-blitzkrieg-corner.svg[alt="Deployment map for the Blitzkrieg
 
 == Setup
 
-. Determine who will be the Attacker and who will be the Defender.
+. Determine who will be the *Attacker* and who will be the *Defender*.
 . xref:get-ready-to-play:set-up-terrain.adoc[Set up terrain] in the standard way.
-. The Defender chooses which deployment edge the Attacker will use for deployment.
-You may choose a standard short edge, long edge or corner -- but usually you'll find it more to your advantage to give the Attacker a short deployment edge (refer to <<Maps>> for guidance).
+. *Defender*: Chooses which deployment edge the *Attacker* must use for deployment.
+You may choose a standard short edge, long edge or corner -- but usually you'll find it more to your advantage to give the Attacker a short deployment edge (see <<Maps>>).
 . Choose your xref:scenario-special-rules:objectives.adoc[objectives], as follows:
 * *Attacker*: You must must have one objective per 500 points in your army (round fractions up).
 You may use any objectives, except for Rescue and Cleanse.
@@ -61,35 +57,38 @@ In a 1,500 point game, the Attacker will have three objectives and the Defender 
 The Attacker must be first to place an objective marker, and then the players alternate until they have placed all of their objective markers.
 +
 IMPORTANT: You must place all objectives in the Defender's half of the table.
-This is in addition to any other restrictions that normally apply to them.
+Apply other placement restrictions that don't conflict with this as normal.
 
 == Disposition of forces
+
+*Attacker*: Determine the disposition of your forces.
+
+. Place all of your Flyer detachments in xref:scenario-special-rules:reserves.adoc[Reserves].
+. If you have any detachments that qualify for the Reserves rules on their own merit, place them in Reserves.
+. Keep the rest of your detachments at hand for initial deployment.
+
 
 *Defender*: Determine the disposition of your forces.
 
 . Roll a D6 for each detachment in your army:
 +
 --
-* On a roll of 1–5, this detachment is part of your reinforcements -- place it in xref:scenario-special-rules:reserves.adoc[Reserves].
-* On a roll of 6, this detachment is part of your immediate defences.
+[none]
+* *1 to 5*: This detachment is part of your reinforcements -- place it in xref:scenario-special-rules:reserves.adoc[Reserves].
+* *6*: This detachment is part of your immediate defences.
 If it is a Flyer detachment, place it aside ready to bring into play in the first turn of the game.
 Otherwise, keep it at hand for your initial deployment.
+{blank}[TODO: What if it is a detachment that qualifies for the Reserves rules on it's own merit? Place it aside ready to bring into play in the first turn of the game?]
 --
 +
 You must deploy at least one detachment during initial deployment.
-So, if you did not roll 6 for any of your detachments then you must randomly determine one detachment to deploy during initial deployment.
-
-*Attacker*: Determine the disposition of your forces.
-
-. If you have any detachments that qualify as Reserves detachments, place them in Reserves.
-{blank}[TODO: Should we specifically mention that Flyers are Reserves? Some scenarios mention this others don't -- but it seems like it should be the default, where the text does not state anything else.]
-. Keep the rest of your detachments at hand for initial deployment.
+So, if you did not roll 6 for any of your non-Flyer detachments then you must randomly determine one detachment to keep at hand for this purpose.
 
 == Initial deployment
 
 . *Defender*: You must deploy first.
 * Deploy all of the detachments that you kept at hand for your initial deployment.
-* Deploy within the Defender's deployment zone (see <<Maps>>).
+* Deploy within the Defender's deployment zone [.conum]#D# (see <<Maps>>).
 * For Infantry/Vehicle detachments, use the xref:scenario-special-rules:hidden-setup.adoc[] rules.
 * You may also use xref:scenario-special-rules:fortifications.adoc[] if you wish.
 +
@@ -105,7 +104,7 @@ Instead, place HQ units to indicate where the detachments that you kept at hand 
 .. You may choose one detachment per 1,000 points of the maximum points value limit (or part thereof -- round up) to be a *flanking* detachment, if you wish.
 You may place the HQ units of your flanking detachments to indicate any point along your deployment edge, rather than only within 15 cm of the point you indicated with the first HQ unit you placed.
 
-== Start the game
+== Play the game
 
 Start the game in the usual way: Proceed to the Start phase.
 

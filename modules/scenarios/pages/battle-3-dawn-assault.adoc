@@ -1,14 +1,8 @@
 = Battle 3: Dawn Assault
 
-{blank}[TODO: Complete the description]
-
-A powerful force seeks to overwhelm a defensive position before enemy reinforcements can turn the tide of battle.
-The opposing defensive force is smaller but well-prepared to hold the line until reinforcements arrive.
-The attackers must be bold to navigate minefields and booby-traps and to find the defenders in their concealed positions and overrun them.
-
-////
-A powerful enemy force launches an attack on a smaller defending force in a carefully prepared defensive position. The attackers need to boldly overrun the defenders in their concealed positions, avoiding mine-fields and booby-traps as they go. The defenders must desperately hold their ground and pray that their reinforcements arrive in time to save the day!
-////
+A formidable attacking force means to surprise and overwhelm the enemy's smaller defensive force.
+However, the defensive force is concealed in prepared positions among minefields and booby-traps.
+The attackers must be bold to find the defenders and overrun them before their reinforcements can turn the tide of battle.
 
 == Scenario special rules
 
@@ -46,7 +40,7 @@ image::map-battle-3-dawn-assault-corner.svg[alt="Deployment map for the Dawn Ass
 
 == Setup
 
-. Decide who will be the Attacker and who will be the Defender.
+. Decide who will be the *Attacker* and who will be the *Defender*.
 . xref:get-ready-to-play:set-up-terrain.adoc[Set up terrain] in the standard way.
 include::partial$choose-deployment-edge-zone.adoc[]
 . Choose your xref:scenario-special-rules:objectives.adoc[objectives], as follows:
@@ -69,19 +63,28 @@ The Attacker places the first objective marker and then the players alternate un
 
 == Disposition of forces
 
+*Attacker*: Determine the disposition of your forces.
+
+. Place all of your Flyer detachments in xref:scenario-special-rules:reserves.adoc[Reserves].
+. If you have any detachments that qualify for the Reserves rules on their own merit, place them in Reserves.
+. Keep all of your other detachments at hand for your initial deployment.
+
+
 *Defender*: Determine the disposition of your forces.
 
 . Roll a D6 for each detachment in your army:
 +
 --
-* On a roll of 1–3, this detachment is part of your reinforcements -- place it in xref:scenario-special-rules:reserves.adoc[Reserves].
-* On a roll of 4–6, this detachment is part of your immediate defences.
+[none]
+* *1 to 3*: This detachment is part of your reinforcements -- place it in xref:scenario-special-rules:reserves.adoc[Reserves].
+* *4 to 6*: This detachment is part of your immediate defences.
 If it is a Flyer detachment, place it aside ready to bring into play in the first turn of the game.
 Otherwise, keep it at hand for your initial deployment.
+{blank}[TODO: What if it is a detachment that qualifies for the Reserves rules on it's own merit? Place it aside ready to bring into play in the first turn of the game?]
 --
 +
 You must deploy at least one detachment during initial deployment.
-So, if you did not roll 4–6 for any of your detachments then you must choose which detachment you will deploy during initial deployment.
+So, if you did not roll 4 to 6 for any of your non-Flyer detachments then you must choose which detachment you will keep at hand for this purpose.
 
 == Initial deployment
 
@@ -95,10 +98,10 @@ So, if you did not roll 4–6 for any of your detachments then you must choose w
 +
 You may bring your Reserves detachments into play anywhere along the edges that include the Defender's deployment edge and up to half-way along the two adjacent edges of the table (see <<Maps>>).
 
-. *Attacker*: Deploy in the Attacker's deployment zone [.conum]#A# (see <<Maps>>).
+. *Attacker*: Deploy within the Attacker's deployment zone [.conum]#A# (see <<Maps>>).
 You may bring your Reserves detachments into play anywhere along the Attacker's deployment edge.
 
-== Start the game
+== Play the game
 
 Start the game in the usual way: Proceed to the Start phase.
 

@@ -1,10 +1,7 @@
 = Battle 6: Planetary Assault
 
-{blank}[TODO: Complete the description.]
-
-////
-Landing forces from orbit in order to gain a foothold on a planet has led to some of the bloodiest battles of the 41st millennium. A defending force must fight tenaciously to stem the attacker's advance while the assaulting forces try to expand and protect their landing zone.
-////
+The initial efforts to land forces from orbit and gain a foothold on a planet have led to some of the bloodiest battles in the 41^st^ millennium.
+Here, a defending force must fight with all the ferocity it can muster to repel the attacking force that seeks to secure and expand its landing zone.
 
 == Scenario special rules
 
@@ -50,7 +47,7 @@ image::map-battle-6-planetary-assault-corner.svg[alt="Deployment map for the Pla
 
 == Setup
 
-. Determine who will be the Attacker and who will be the Defender.
+. Determine who will be the *Attacker* and who will be the *Defender*.
 . xref:get-ready-to-play:set-up-terrain.adoc[Set up terrain] in the standard way.
 . Unlike most scenarios, you do not determine deployment edges at this point -- but the Defender automatically gets the Defender's deployment zone as we show at <<Maps>>.
 . Choose your xref:scenario-special-rules:objectives.adoc[objectives], as follows:
@@ -69,38 +66,47 @@ The Attacker must place one of their objective markers first, then alternate unt
 
 == Disposition of forces
 
-*Defender*: Determine the disposition of your forces.
-
-. Place all of your War Engines detachments in Reserves.
-. Aside from the above, roll a D6 for each detachment in your army:
-+
---
-* On a roll of 1–3, this detachment is part of your reinforcements -- place it in xref:scenario-special-rules:reserves.adoc[Reserves].
-* On a roll of 4–6, this detachment is part of your immediate defences.
-If it is a Flyer detachment, place it aside ready to bring into play in the first turn of the game.
-If it is an Infantry and/or Vehicle detachment, keep it at hand for your initial deployment.
---
-+
-You must deploy at least one detachment during initial deployment.
-So, if you did not roll 4–6 for any of your detachments then you must randomly determine one detachment to deploy during initial deployment.
-
 *Attacker*: Determine the disposition of your forces.
 You may do this *after* you see the defender's initial deployment, if you wish.
+footnote:[
+This probably doesn't really matter, but the order of the steps in {e40k} implies that this is the case -- so we provide the option.
+]
 
 . Split your army into two parts, to represent two separate assault waves:
 * The part that represents the first assault wave *must* contain all of your army's Flyer detachments, and *may* contain any other detachments.
 This part is available for you to deploy in the first turn of the game -- but you may only bring troops in this part into play if they are transported by Flyer transport units, or if they are valid Drop Pods detachments.
-{blank}[TODO: Clarify: Does 'troops' here mean Infantry specifically, or Infantry and Vehicles, or Infantry and Vehicles and War Engines (all non-Flyers)?]
++
+{blank}[TODO: Clarify: Exactly what does the term 'troops' mean here? The natural assumption is that it means Infantry units, but it seems like it should actually mean all valid 'cargo' units -- which can include Vehicle units in some cases (and could potentially include specific War Engine units in this project in due course)? What if this part includes units that don't qualify and must be left behind? Should we apply a note like that in Meeting Engagement about counting them as destroyed, or should we reformat the instructions so that this can't happen, or... something else?]
++
+{blank}[TODO: Clarify: What about other detachments that qualify for the Reserves rules on their own merit, aside from Drop Pods? I seem to recall text somewhere that states something to the effect that "Tunnellers don't count as Drop Pods for the Planetary Assault scenario" -- but should any other detachments count, through the {deep-strike} ability or whatever?]
 * The part that represents the second assault wave contains all the rest of detachments in your army.
 (We assume that the attacking army landed these detachments in the nearby landing zone in light orbital transports that they didn't want to risk in a 'hot' landing zone.)
-Place all detachments in this part in Reserves, to enter play under the normal Reserves rules.
+Place all detachments in this part in xref:scenario-special-rules:reserves.adoc[Reserves], to enter play under the normal Reserves rules.
 +
 {blank}[TODO: Clarify: Is there any minimum requirement for the second assault wave, such as at least one detachment? Otherwise there could be just the first assault wave, no second wave -- is this intended/acceptable?]
+
+
+*Defender*: Determine the disposition of your forces.
+
+. Place all of your War Engines detachments in xref:scenario-special-rules:reserves.adoc[Reserves].
+. Aside from the above, roll a D6 for each detachment in your army:
++
+--
+[none]
+* *1 to 3*: This detachment is part of your reinforcements -- place it in xref:scenario-special-rules:reserves.adoc[Reserves].
+* *4 to 6*: This detachment is part of your immediate defences.
+If it is a Flyer detachment, place it aside ready to bring into play in the first turn of the game.
+If it is an Infantry and/or Vehicle detachment, keep it at hand for your initial deployment.
+{blank}[TODO: What if it is a detachment that qualifies for the Reserves rules on it's own merit? Place it aside ready to bring into play in the first turn of the game?]
+--
++
+You must deploy at least one detachment during initial deployment.
+So, if you did not roll 4 to 6 for any of your non-Flyer detachments then you must randomly determine one detachment to keep at hand for this purpose.
 
 == Initial deployment
 
 . *Defender*: You must deploy first.
-* Deploy within the Defender's deployment zone (see <<Maps>>).
+* Deploy within the Defender's deployment zone [.conum]#D# (see <<Maps>>).
 * Use the xref:scenario-special-rules:hidden-setup.adoc[] rules to deploy all of the detachments that you kept at hand for your initial deployment.
 * You may also use xref:scenario-special-rules:fortifications.adoc[] if you wish.
 
@@ -110,16 +116,16 @@ The Defender may use any or all of the other edges to bring their Reserves detac
 
 . *Attacker*: You have no initial deployment -- all your forces arrive in the first turn or later (see <<Disposition of forces>>).
 
-== Start the game
+== Play the game
 
 Start the game in the usual way: Proceed to the Start phase.
 
 *Defender*: In the first turn only, when any of your hidden detachments are revealed, roll a D6:
 
-* On a roll of 1–3, the detachment was surprised and is now in disarray.
+* *1 to 3*: The attackers surprise this detachment, and it is now in disarray.
 Place an Order marker to indicate that it is subject to the Broken condition.
 (The standard rules apply, so you can try to rally the detachment in the Rally phase).
-* On a roll of 4–6, the detachment was not surprised and is ready for battle.
+* *4 to 6*: The detachment is alert and ready for battle.
 You may use it as normal.
 
 == Game length and victory conditions

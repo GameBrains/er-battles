@@ -2,11 +2,39 @@
 
 {blank}[TODO: In the meantime, see link:https://thehobby.zone/resources/e40k-compendium/Content/Battles/TheScenarios/Refight5Breakout.htm[^]]
 
-## Historical forces
+== Narrative background
 
-### Orks
+include::partial$note-narrative-summary.adoc[]
 
-*Builder*: link:https://builder.epicremastered.com/print.lc?listname=Ork+army+detachments+for+Refight+5&listurl=https%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_Ork_Warlord%26force%3DWarlord+Nah-Badun+an%60+der+Retinue%7E502%7E109x1%7E506%7E511%7E111x1%7E517%7E117x2%7E528%7E128x2%0D%0Ahttps%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_Ork_Kult%26force%3DDa%2520Chargerz%7E501%7E502%7E522%7E122x3%7E528%7E128x3%7E528%7E128x3%0D%0Ahttps%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_Ork_Warband%26force%3DNaffgul%60s+Shooty+Boyz%7E501%7E503%7E512%7E112x3%7E517%7E117x4%7E524%7E524%7E510%7E110x4%7E510%7E110x4%7E510%7E110x4%0D%0A[Ork army detachments for Refight 5^]
+== Armies
+
+include::partial$refights-armies.adoc[]
+
+== Maps
+
+== Setup
+
+. xref:get-ready-to-play:set-up-terrain.adoc[Set up terrain] in the standard way.
+. Decide *at random* which player will be the *Attacker* and which the *Defender*.
+. *Defender*: Choose which deployment edge/zone you prefer.
+Your opponent gets the opposite edge/zone (see <<Maps>>).
+
+== Disposition of forces
+
+== Initial deployment
+
+. *Defender*: You must deploy first.
+
+== Play the game
+
+== Game length and victory conditions
+
+== Historical forces
+include::partial$footnote-inaccurate-historical-force-lists.adoc[]
+
+=== Ork army
+
+*Ready-made list in the Detachment Builder*: link:https://builder.epicremastered.com/print.lc?listname=Ork+army+detachments+for+Refight+5&listurl=https%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_Ork_Warlord%26force%3DWarlord+Nah-Badun+an%60+der+Retinue%7E502%7E109x1%7E506%7E511%7E111x1%7E517%7E117x2%7E528%7E128x2%0D%0Ahttps%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_Ork_Kult%26force%3DDa%2520Chargerz%7E501%7E502%7E522%7E122x3%7E528%7E128x3%7E528%7E128x3%0D%0Ahttps%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_Ork_Warband%26force%3DNaffgul%60s+Shooty+Boyz%7E501%7E503%7E512%7E112x3%7E517%7E117x4%7E524%7E524%7E510%7E110x4%7E510%7E110x4%7E510%7E110x4%0D%0A[Ork army detachments for Refight 5^]
 
 Ork Warlord detachment, _Warlord Nah-Badun an' der Retinue_::
 1 x Warlord, with Battlewagon option; 1 x Weirdboy Battle Tower; 1 x Nobz unit; 1 x Gretchin unit; 2 x Battlewagon.
@@ -17,9 +45,9 @@ Ork Kult of Speed detachment, _Da Chargerz_::
 Ork Warband detachment, _Naffgul's Shooty Boyz_::
 1 x Warboss in Stompa; 3 x Shooty Boyz unit; 2 x Stompa; 4 x Gretchin unit; 12 x Ork unit.
 
-### Space Marines
+=== Space Marine army
 
-*Builder*: link:https://builder.epicremastered.com/print.lc?listname=Imperium+army+detachments+for+Refight+5&listurl=https%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_SM_Detachment%26force%3DForce+Specula%7E501%7E502%7E130x1%7E511%7E116x1%7E511%7E116x1%7E511%7E116x1%0D%0Ahttps%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_SM_Detachment%26force%3DForce+Ceptio%7E501%7E502%7E130x1%7E101x1%7E511%7E115x1%7E511%7E115x1%7E511%7E115x1%0D%0Ahttps%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_SM_Detachment%26force%3DForce%2520Odium%7E501%7E526%7E511%7E114x1%7E100x1%7E511%7E114x1%7E100x1%7E511%7E114x1%7E100x1%7E511%7E114x1%7E100x1%7E511%7E114x1%7E100x1%7E511%7E114x1%7E100x1%7E524%7E524%0D%0A[Imperium army detachments for Refight 5^]
+*Ready-made list in the Detachment Builder*: link:https://builder.epicremastered.com/print.lc?listname=Imperium+army+detachments+for+Refight+5&listurl=https%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_SM_Detachment%26force%3DForce+Specula%7E501%7E502%7E130x1%7E511%7E116x1%7E511%7E116x1%7E511%7E116x1%0D%0Ahttps%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_SM_Detachment%26force%3DForce+Ceptio%7E501%7E502%7E130x1%7E101x1%7E511%7E115x1%7E511%7E115x1%7E511%7E115x1%0D%0Ahttps%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_SM_Detachment%26force%3DForce%2520Odium%7E501%7E526%7E511%7E114x1%7E100x1%7E511%7E114x1%7E100x1%7E511%7E114x1%7E100x1%7E511%7E114x1%7E100x1%7E511%7E114x1%7E100x1%7E511%7E114x1%7E100x1%7E524%7E524%0D%0A[Imperium army detachments for Refight 5^]
 
 Space Marine detachment, _Force Specula_::
 1 x Space Marine Captain;  6 x Space Marine unit, with Devastator option. 

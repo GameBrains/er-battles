@@ -2,11 +2,32 @@
 
 {blank}[TODO: In the meantime, see link:https://thehobby.zone/resources/e40k-compendium/Content/Battles/TheScenarios/Refight2Rescue.htm[^]]
 
-## Historical forces
+== Narrative background
 
-### Orks
+include::partial$note-narrative-summary.adoc[]
 
-*Builder*: link:https://builder.epicremastered.com/print.lc?listname=Ork+army+detachments+for+Refight+4&listurl=https%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_Ork_Warband%26force%3DGazbold%60s+Speed+Boyz%7E501%7E502%7E109x1%7E516%7E116x3%7E511%7E111x1%7E511%7E111x1%7E511%7E111x1%7E511%7E111x1%7E511%7E111x1%7E511%7E111x1%7E513%7E113x4%7E522%7E122x3%7E506%7E528%7E128x3%7E528%7E128x3%7E528%7E128x1%0D%0Ahttps%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_Ork_Warband%26force%3DWaaa-Dreg%2560s%2520Stompas%7E501%7E503%7E520%7E512%7E112x1%7E512%7E112x1%7E512%7E112x1%7E524%7E524%7E517%7E117x4%7E510%7E110x4%7E510%7E110x4%7E510%7E110x4%7E506%0D%0A[Ork army detachments for Refight 2^]
+== Armies
+
+include::partial$refights-armies.adoc[]
+
+== Maps
+
+== Setup
+
+== Disposition of forces
+
+== Initial deployment
+
+== Play the game
+
+== Game length and victory conditions
+
+== Historical forces
+include::partial$footnote-inaccurate-historical-force-lists.adoc[]
+
+=== Orks army
+
+*Ready-made list in the Detachment Builder*: link:https://builder.epicremastered.com/print.lc?listname=Ork+army+detachments+for+Refight+4&listurl=https%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_Ork_Warband%26force%3DGazbold%60s+Speed+Boyz%7E501%7E502%7E109x1%7E516%7E116x3%7E511%7E111x1%7E511%7E111x1%7E511%7E111x1%7E511%7E111x1%7E511%7E111x1%7E511%7E111x1%7E513%7E113x4%7E522%7E122x3%7E506%7E528%7E128x3%7E528%7E128x3%7E528%7E128x1%0D%0Ahttps%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_Ork_Warband%26force%3DWaaa-Dreg%2560s%2520Stompas%7E501%7E503%7E520%7E512%7E112x1%7E512%7E112x1%7E512%7E112x1%7E524%7E524%7E517%7E117x4%7E510%7E110x4%7E510%7E110x4%7E510%7E110x4%7E506%0D%0A[Ork army detachments for Refight 2^]
 
 Ork Warband detachment, _Badruk's Speedas_::
 1 x Warboss in Stompa; 6 x Ork unit; 6 x Gunwagon.
@@ -17,9 +38,9 @@ Ork Warband detachment, _Urglag's Blastas_::
 Ork Warband detachment, _Grizzard da Magnifisunt (an' der Ladz)_::
 1 x Warboss in Stompa; 3 x Boarboyz unit; 3 x Stormboyz unit; 3 x Kommandos unit; 3 x Bikeboyz unit; 2 x Gunwagon.
 
-### Space Marines
+=== Space Marines army
 
-*Builder*: link:https://builder.epicremastered.com/print.lc?listname=Imperium+army+detachments+for+Refight+2&listurl=https%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_SM_Detachment%26force%3DForce+Hachiman%7E501%7E502%7E130x1%7E511%7E115x1%7E511%7E115x1%7E513%7E513%0D%0Ahttps%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_SM_Armoured%26force%3DForce+Kharira%7E501%7E512%7E112x3%7E512%7E112x2%7E514%7E114x3%7E514%7E114x2%0D%0Ahttps%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_SM_Detachment%26force%3DForce%2520Krysha%7E501%7E502%7E130x1%7E100x1%7E511%7E114x1%7E100x1%7E511%7E114x1%7E100x1%7E511%7E114x1%7E100x1%0D%0A&submitbuttonname=Submit[Imperium army detachments for Refight 2^]
+*Ready-made list in the Detachment Builder*: link:https://builder.epicremastered.com/print.lc?listname=Imperium+army+detachments+for+Refight+2&listurl=https%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_SM_Detachment%26force%3DForce+Hachiman%7E501%7E502%7E130x1%7E511%7E115x1%7E511%7E115x1%7E513%7E513%0D%0Ahttps%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_SM_Armoured%26force%3DForce+Kharira%7E501%7E512%7E112x3%7E512%7E112x2%7E514%7E114x3%7E514%7E114x2%0D%0Ahttps%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_SM_Detachment%26force%3DForce%2520Krysha%7E501%7E502%7E130x1%7E100x1%7E511%7E114x1%7E100x1%7E511%7E114x1%7E100x1%7E511%7E114x1%7E100x1%0D%0A&submitbuttonname=Submit[Imperium army detachments for Refight 2^]
 
 Space Marine detachment, _Force Hachiman_::
 1 x Space Marine Captain; 4 x Space Marine unit, with Assault option; 2 x Scout unit.

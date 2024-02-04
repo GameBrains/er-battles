@@ -1,0 +1,5 @@
+footnote:[{e40k-diff}
+In the original {e40k} texts, some units and detachments don't correlate perfectly with what the army lists allow.
+That's not really a problem; but we wanted to offer links to ready-built detachments in the detachment builder for convenience, and these depend on the army list constraints that are built into the detachment builder.
+So, where necessary we've deviated very slightly from the originals in favour of compatibility with the Remastered army lists as they exist in the detachment builder.
+]

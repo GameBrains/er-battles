@@ -1,0 +1,4 @@
+For the armies that go with the narrative background, see <<Historical forces>>.
+
+Otherwise, for more general use of this scenario:
+include::partial$agree-a-maximum-points-value-limit.adoc[]

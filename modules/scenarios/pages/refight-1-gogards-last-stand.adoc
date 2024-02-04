@@ -2,18 +2,39 @@
 
 {blank}[TODO: In the meantime, see link:https://thehobby.zone/resources/e40k-compendium/Content/Battles/TheScenarios/Refight1GogardsLastStand.htm[^]]
 
-## Historical forces
+== Narrative background
 
-### Orks
+include::partial$note-narrative-summary.adoc[]
 
-*Builder*: link:https://builder.epicremastered.com/print.lc?listname=Ork+army+detachments+for+Refight+1&listurl=https%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_Ork_Gargants%26force%3DKorps+Grinda%7E503&submitbuttonname=Submit[Ork army detachments for Refight 1^]
+== Armies
+
+include::partial$refights-armies.adoc[]
+
+== Maps
+
+== Setup
+
+== Disposition of forces
+
+== Initial deployment
+
+== Play the game
+
+== Game length and victory conditions
+
+== Historical forces
+include::partial$footnote-inaccurate-historical-force-lists.adoc[]
+
+=== Orks army
+
+*Ready-made list in the Detachment Builder*: link:https://builder.epicremastered.com/print.lc?listname=Ork+army+detachments+for+Refight+1&listurl=https%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_Ork_Gargants%26force%3DKorps+Grinda%7E503&submitbuttonname=Submit[Ork army detachments for Refight 1^]
 
 Ork Gargants detachment::
 1 x Great Gargant (_Korps Grinda_).
 
-### Space Marines
+=== Space Marines army
 
-*Builder*: link:https://builder.epicremastered.com/print.lc?listname=Imperium+army+detachments+for+Refight+1&listurl=https%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_SM_Armoured%26force%3DForce%2520Citus%7E501%7E512%7E101x2%7E512%7E101x2%0D%0Ahttps%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_SM_Detachment%26force%3DForce+Adonis%7E501%7E502%7E130x1%7E511%7E116x1%7E511%7E116x1%0D%0Ahttps%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_SM_Detachment%26force%3DIncompertus%7E501%7E502%7E130x1%7E100x1%7E511%7E114x1%7E100x1%7E511%7E114x1%7E100x1%7E511%7E114x1%7E100x1%0D%0A[Imperium army detachments for Refight 1^]
+*Ready-made list in the Detachment Builder*: link:https://builder.epicremastered.com/print.lc?listname=Imperium+army+detachments+for+Refight+1&listurl=https%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_SM_Armoured%26force%3DForce%2520Citus%7E501%7E512%7E101x2%7E512%7E101x2%0D%0Ahttps%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_SM_Detachment%26force%3DForce+Adonis%7E501%7E502%7E130x1%7E511%7E116x1%7E511%7E116x1%0D%0Ahttps%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_SM_Detachment%26force%3DIncompertus%7E501%7E502%7E130x1%7E100x1%7E511%7E114x1%7E100x1%7E511%7E114x1%7E100x1%7E511%7E114x1%7E100x1%0D%0A[Imperium army detachments for Refight 1^]
 
 Space Marine detachment, _Force Citus_::
 4 x Space Marine Land Raider.

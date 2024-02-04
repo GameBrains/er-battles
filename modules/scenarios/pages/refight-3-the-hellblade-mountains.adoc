@@ -2,11 +2,32 @@
 
 {blank}[TODO: In the meantime, see link:https://thehobby.zone/resources/e40k-compendium/Content/Battles/TheScenarios/Refight3TheHellbladeMountains.htm[^]]
 
-## Historical forces
+== Narrative background
 
-### Orks
+include::partial$note-narrative-summary.adoc[]
 
-*Builder*: link:https://builder.epicremastered.com/print.lc?listname=Ork+army+detachments+for+Refight+3&listurl=https%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_Ork_Warband%26force%3DBogrot%60s+Boyz%7E501%7E502%7E505%7E510%7E110x4%7E510%7E110x4%7E510%7E110x4%7E511%7E111x1%7E517%7E117x3%7E517%7E117x3%7E517%7E117x3%0D%0Ahttps%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_Ork_Warband%26force%3DDa+Profeshernalz%7E501%7E502%7E505%7E516%7E116x3%0D%0Ahttps%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_Ork_Warband%26force%3DDer%2520Gunnerz%7E501%7E502%7E109x1%7E512%7E112x1%7E512%7E112x1%7E512%7E112x1%7E524%7E524%7E524%0D%0A&submitbuttonname=Submit[Ork army detachments for Refight 3^]
+== Armies
+
+include::partial$refights-armies.adoc[]
+
+== Maps
+
+== Setup
+
+== Disposition of forces
+
+== Initial deployment
+
+== Play the game
+
+== Game length and victory conditions
+
+== Historical forces
+include::partial$footnote-inaccurate-historical-force-lists.adoc[]
+
+=== Orks army
+
+*Ready-made list in the Detachment Builder*: link:https://builder.epicremastered.com/print.lc?listname=Ork+army+detachments+for+Refight+3&listurl=https%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_Ork_Warband%26force%3DBogrot%60s+Boyz%7E501%7E502%7E505%7E510%7E110x4%7E510%7E110x4%7E510%7E110x4%7E511%7E111x1%7E517%7E117x3%7E517%7E117x3%7E517%7E117x3%0D%0Ahttps%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_Ork_Warband%26force%3DDa+Profeshernalz%7E501%7E502%7E505%7E516%7E116x3%0D%0Ahttps%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_Ork_Warband%26force%3DDer%2520Gunnerz%7E501%7E502%7E109x1%7E512%7E112x1%7E512%7E112x1%7E512%7E112x1%7E524%7E524%7E524%0D%0A&submitbuttonname=Submit[Ork army detachments for Refight 3^]
 
 Ork Warband detachment, _Bogrot's Boyz_::
 1 x Warboss; 1 x Weirdboy; 12 x Ork unit; 1 x Nobz unit; 9 x Gretchin unit.
@@ -17,9 +38,9 @@ Ork Warband detachment, _Da Profeshernalz_::
 Ork Warband detachment, _Der Gunnerz_::
 1 x Warboss, with Battlewagon option; 3 x Shooty Boyz unit; 3 x Stompa.
 
-### Space Marines
+=== Space Marines army
 
-*Builder*: link:https://builder.epicremastered.com/print.lc?listname=Imperium+army+detachments+for+Refight+3&listurl=https%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_SM_Detachment%26force%3DForce+Subodai%7E501%7E502%7E130x1%7E510%7E510%7E513%7E513%0D%0Ahttps%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_SM_Armoured%26force%3DForce+Kuanti%7E501%7E512%7E112x3%7E512%7E112x3%0D%0Ahttps%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_SM_Detachment%26force%3DForce%2520Susanowo%7E501%7E502%7E130x1%7E100x1%7E511%7E114x1%7E100x1%7E511%7E114x1%7E100x1%7E511%7E114x1%7E100x1%7E524%0D%0A&submitbuttonname=Submit[Imperium army detachments for Refight 3^]
+*Ready-made list in the Detachment Builder*: link:https://builder.epicremastered.com/print.lc?listname=Imperium+army+detachments+for+Refight+3&listurl=https%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_SM_Detachment%26force%3DForce+Subodai%7E501%7E502%7E130x1%7E510%7E510%7E513%7E513%0D%0Ahttps%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_SM_Armoured%26force%3DForce+Kuanti%7E501%7E512%7E112x3%7E512%7E112x3%0D%0Ahttps%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_SM_Detachment%26force%3DForce%2520Susanowo%7E501%7E502%7E130x1%7E100x1%7E511%7E114x1%7E100x1%7E511%7E114x1%7E100x1%7E511%7E114x1%7E100x1%7E524%0D%0A&submitbuttonname=Submit[Imperium army detachments for Refight 3^]
 
 Space Marine detachment 1, _Force Subodai_::
 1 x Space Marine Captain; 2 x Terminator unit; 2 x Scout unit.

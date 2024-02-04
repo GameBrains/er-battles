@@ -12,6 +12,10 @@ include::partial$refights-armies.adoc[]
 
 == Maps
 
+* Standard deployment edges.
+* The Defender's deployment zone extends up to half-way across the playing area from their deployment edge.
+* The Attacker's deployment zone extends up to 20 cm onto the table from their deployment edge.
+
 == Setup
 
 . xref:get-ready-to-play:set-up-terrain.adoc[Set up terrain] in the standard way.
@@ -21,13 +25,41 @@ Your opponent gets the opposite edge/zone (see <<Maps>>).
 
 == Disposition of forces
 
+*Attacker*: Determine the disposition of your forces.
+. Place all of your Flyer detachments in xref:scenario-special-rules:reserves.adoc[Reserves].
+. If you have any detachments that qualify for the Reserves rules on their own merit, place them in Reserves.
+. Keep all of your other detachments at hand for your initial deployment.
+
+*Defender*: Determine the disposition of your forces.
+. Choose the detachments that will form your defensive force.
++
+--
+* The total points value of this force must be no more than half of the maximum points value limit for this battle.
++
+{blank}[TODO: Clarify: If the Defender chooses any Flyer detachments, should they place them aside to bring into play in the first turn, or should they place them in Reserves?]
+--
++
+Keep the detachments you choose at hand for your initial deployment.
+The rest of your army does not take part in this battle.
+
 == Initial deployment
 
 . *Defender*: You must deploy first.
+* Use the xref:scenario-special-rules:hidden-setup.adoc[] rules to deploy all of the detachments that you kept at hand for your initial deployment.
+* Deploy within the Defender's deployment zone [.conum]#D# (see <<Maps>>).
+* You may also use xref:scenario-special-rules:fortifications.adoc[] if you wish.
++
+IMPORTANT: Although you have use of only half your army, you still get one Hidden Setup marker for each Infantry and/or Vehicle detachment that exists in your full army.
+{blank}[TODO: Clarify: This scenario seems to have been written with no thought to Flyer or War Engine detachments. Should we write them out explicitly, or allow for them properly? If the latter, are there game balance issues to account for? How do Flyer detachments affect how many ground-based detachments must the Attacker get off of the Defender's table edge?]
 
 == Play the game
 
 == Game length and victory conditions
+
+To win this scenario, the Attacker must exit half of the detachments in their army off of the Defender's table edge by the end of Turn 6.
+Detachments reduced to half strength or less do not count.
+
+Any other result is a win for the Defender.
 
 == Historical forces
 include::partial$footnote-inaccurate-historical-force-lists.adoc[]

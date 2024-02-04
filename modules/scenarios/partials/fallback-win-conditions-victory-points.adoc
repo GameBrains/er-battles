@@ -1,8 +1,7 @@
 If this hasn't happened by the end of the 6^th^ turn, or if both players' Army Morale values drop to 0 or less on the same turn, then calculate victory points as follows:
 
 * Each player scores 2 victory points for each Take & Hold or Cleanse objective they control.
-* The Attacker scores 1 victory point for any other objectives they achieved during the game.
-{blank}[TODO: Should this be 'each other objective', rather than 'any'? The original text "The attacker scores a bonus point for any other objectives" could imply only a single point for *one or more* achieved objectives, but I don't think that this was the intent?]
+* The Attacker scores 1 victory point for each other objective that they achieved during the game.
 * The Defender scores 1 victory point for each other objective that the Attacker did not achieve during the game.
 
 The player with the most victory points is the winner.

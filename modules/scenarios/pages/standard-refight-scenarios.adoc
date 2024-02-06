@@ -1,2 +1,2 @@
-= Standard 'refight' scenarios
+= Standard Refight scenarios
 

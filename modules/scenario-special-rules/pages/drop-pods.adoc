@@ -84,7 +84,7 @@ Hopefully they'll all land in a random spread that is fairly close to the target
 . Identify all units that correspond to tokens that landed outside of the play area or in terrain that is Impassable to Vehicle units.
 These units are destroyed.
 . Your opponent may resolve Snap Fire against all tokens that are within 10 cm of any of their units.
-If your opponent has {flak} units that are on Flak special orders then they may resolve shots as if the tokens are Flyer units (use the Armour value of the unit that corresponds to the token).
+If your opponent has {flak} units that are on Flak orders then they may resolve shots as if the tokens are Flyer units (use the Armour value of the unit that corresponds to the token).
 Remove tokens that suffer a hit and identify the corresponding units -- these units are destroyed.
 . For each token that remains in the play area, replace it with its corresponding unit.
 . You may now move the units of this detachment in the usual way, as appropriate to the orders you chose for them.

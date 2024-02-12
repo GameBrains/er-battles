@@ -137,7 +137,7 @@ Vanguard only
 Slow the enemy to buy some time -- form a strongpoint with your vanguard and and hold on to the last individual.
 To achieve your mission:
 
-* At the end of the 4^th^ turn, have at least one unit of your vanguard still in the playing area and not subject to the {broken-condition}.
+* At the end of the 4^th^ turn, have at least one unit of your vanguard still in the playing area and not subject to the Broken condition.
 
 .3 -- Thorn in their side
 *Force size*:

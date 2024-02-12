@@ -80,7 +80,7 @@ Then discard the marker (along with any Blast markers it has).
 If you have a suitable scenic item then you may replace the dummy marker with a minefield in the same position.
 Minefield items can be up to 15 cm long by 5 cm wide.
 
-Any time an enemy unit enters a minefield, make an attack with a Firepower value of `1` -- that is, always roll one die to hit.
+Any time an enemy unit enters a minefield, make an attack with a Firepower value of `1` -- that is, always roll one attack die.
 This minefield attack affects the target unit directly -- it bypasses any void shields and power fields that might otherwise protect the target unit.
 
 A given minefield can attack any number of different units in a turn, but can only attack the same unit once in a turn.

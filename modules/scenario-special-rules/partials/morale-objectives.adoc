@@ -1,4 +1,4 @@
-This is just a summary of the morale effects of the standard objectives  -- for full detail see xref:battles:scenario-special-rules:objectives.adoc[].
+A summary of the morale effects of the standard objectives  -- for full detail see xref:battles:scenario-special-rules:objectives.adoc[].
 
 [%collapsible]
 .Take & Hold

@@ -56,8 +56,7 @@ In a 1,500 point game, the Attacker will have three objectives and the Defender 
 . Place your objective markers.
 The Attacker must be first to place an objective marker, and then the players alternate until they have placed all of their objective markers.
 +
-IMPORTANT: You must place all objective markers in the Defender's half of the table.
-Apply other placement restrictions that don't conflict with this as normal.
+include::partial$important-objectives-in-defenders-half.adoc[]
 
 == Disposition of forces
 

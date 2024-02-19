@@ -49,7 +49,7 @@ image::map-battle-6-planetary-assault-corner.svg[alt="Deployment map for the Pla
 
 . Determine who will be the *Attacker* and who will be the *Defender*.
 . xref:get-ready-to-play:set-up-terrain.adoc[Set up terrain] in the standard way.
-. Unlike most scenarios, you do not determine deployment edges at this point -- but the Defender automatically gets the Defender's deployment zone as we show at <<Maps>>.
+. Unlike most scenarios, you do not determine deployment edges at this point -- but the Defender automatically gets the Defender's deployment zone [.conum]#D# (see <<Maps>>).
 . Choose your xref:scenario-special-rules:objectives.adoc[objectives], as follows:
 * *Attacker*: You must have one objective per 500 points in your army (round fractions *up*).
 You may use any objectives, except for Rescue and Cleanse.

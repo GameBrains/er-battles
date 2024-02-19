@@ -21,7 +21,8 @@ We have not yet settled on a particular interpretation, so there's a good chance
 The deployment zones are in opposite corners of the playing area, 150 cm apart.
 Each is 90 cm deep, with a width that depends upon the width of your playing area (15 cm by default).
 
-image::map-battle-2-escalating-engagement-1.svg[alt="Deployment map for the Escalating Engagement scenario (long deployment edge)",600,450]
+.Deployment map
+image::map-battle-2-escalating-engagement.svg[alt="Deployment map for the Escalating Engagement scenario",600,450]
 
 [none]
 .Legend

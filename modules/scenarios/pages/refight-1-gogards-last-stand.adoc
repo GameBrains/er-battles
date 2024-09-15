@@ -1,18 +1,24 @@
 = Refight 1: Gogard's Last Stand!
 
-{blank}[TODO: In the meantime, see link:https://thehobby.zone/resources/e40k-compendium/Content/Battles/TheScenarios/Refight1GogardsLastStand.htm[^]]
-
 == Narrative background
 
 include::partial$note-narrative-summary.adoc[]
+(See link:https://thehobby.zone/resources/e40k-compendium/Content/Battles/TheScenarios/Refight1GogardsLastStand.htm[^])
 
 == Armies
 
 include::partial$refights-armies.adoc[]
 
+{blank}[TODO: Create a summary of the original narrative.]
+
 == Maps
 
+image::map-refight-1-gogards-last-stand.svg[alt="Deployment map for the Gogard's Last Stand scenario",600,450]
+
 == Setup
+
+. Set up terrain as we show at <<Maps>>.
+You may set up further terrain as you agree between you.
 
 == Disposition of forces
 

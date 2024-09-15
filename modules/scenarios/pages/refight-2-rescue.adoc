@@ -1,10 +1,11 @@
 = Refight 2: Rescue
 
-{blank}[TODO: In the meantime, see link:https://thehobby.zone/resources/e40k-compendium/Content/Battles/TheScenarios/Refight2Rescue.htm[^]]
-
 == Narrative background
 
 include::partial$note-narrative-summary.adoc[]
+(See link:https://thehobby.zone/resources/e40k-compendium/Content/Battles/TheScenarios/Refight2Rescue.htm[^])
+
+{blank}[TODO: Create a summary of the original narrative.]
 
 == Armies
 
@@ -12,15 +13,74 @@ include::partial$refights-armies.adoc[]
 
 == Maps
 
+image::map-refight-2-rescue.svg[alt="Deployment map for the Rescue scenario",600,450]
+
+[none]
+.Legend
+* [.conum]#A# Attacker's deployment zone.
+* [.conum]#G# Defender's garrison deployment zone.
+
 == Setup
+
+. xref:get-ready-to-play:set-up-terrain.adoc[Set up terrain] in the standard way.
+. Decide *at random* which player will be the *Attacker* and which the *Defender*.
+. Choose your xref:scenario-special-rules:objectives.adoc[objectives], as follows:
+* *Attacker*: You have no objectives as such -- rather, you must thwart the Defender as they attempt to move their Rescue objective marker off of their deployment edge, and gain control of it if you can.
+* *Defender*: You have a single Rescue objective.
+. *Defender*: Place your Rescue objective marker anywhere within the Defender's garrison deployment zone [.conum]#G# (see <<Maps>>).
+
+IMPORTANT: Usually, you can only make the *initial* pickup of a Rescue objective if it is *your* objective.
+For this scenario, if the Defender's forces have not picked up the Rescue objective and the Attacker's forces reach a position where they could make the initial pick-up, then they may do so.
 
 == Disposition of forces
 
+*Attacker*: Determine the disposition of your forces.
+
+. Place all of your Flyer detachments in xref:scenario-special-rules:reserves.adoc[Reserves].
+. If you have any detachments that qualify for the Reserves rules on their own merit, place them in Reserves.
+. Keep all of your other detachments at hand for your initial deployment.
+
+*Defender*: Determine the disposition of your forces.
+
+. Place all of your Flyer detachments in xref:scenario-special-rules:reserves.adoc[Reserves].
+. If you have any detachments that qualify for the Reserves rules on their own merit, place them in Reserves.
+. Choose detachments up to a total of a quarter of your army's maximum points value limit as the garrison force that protects the vital assassin.
+You may only use complete detachments in the garrison force.
+Keep this force at hand for initial deployment.
+. The remainder of your detachments form your relief force.
+Keep this force at hand for initial deployment.
+
 == Initial deployment
+
+. *Defender*: Deploy all of the detachments of your garrison force.
+* Deploy within the Defender's garrison deployment zone [.conum]#G# (see <<Maps>>).
+. *Attacker*: Deploy all of the detachments that you kept at hand for your initial deployment.
+. *Defender*: Do not deploy any detachments yet.
+Instead, place HQ units to indicate where the detachments you kept at hand for the relief force will enter play during the first turn of the game.
+.. Pick an HQ unit to be first, and place it to indicate any point along your deployment edge.
+.. Each other HQ unit you place must indicate a point that is on your deployment edge *and* within 15 cm of the point that your first HQ unit indicates.
+You may 'stack' multiple HQ units in a column, to indicate the same point on your deployment edge -- you might want to do this where a road crosses the table edge, for example.
+.. Each player may choose one detachment per 1,000 points of the maximum points value limit (or part thereof -- round up) to be a *flanking* detachment, if they wish.
+You may place the HQ units of your flanking detachments to indicate any point along your deployment edge, rather than only within 15 cm of the point you indicated with the first HQ unit you placed.
 
 == Play the game
 
+Start the game in the usual way: Proceed to the Start phase.
+
+*Attacker*: You may bring your Reserves detachments into play anywhere along ????.
+{blank}[TODO: The original version of this scenario made no accomodation for Reserves. Can we integrate them sensibly?]
+
+*Defender*: You may bring your Reserves detachments into play anywhere along the Defender's deployment edge.
+
 == Game length and victory conditions
+
+To win this scenario, the Defender must exit the Rescue objective marker off of the Defender's deployment edge by the end of Turn 6.
+
+If the Defender has control of the objective marker but hasn't moved it off of the play area by the end of Turn 6, then the result is a draw.
+
+If the Attacker has control of the objective marker at the end of any turn then they win immediately.
+
+Any other result is a draw.
 
 == Historical forces
 include::partial$footnote-inaccurate-historical-force-lists.adoc[]

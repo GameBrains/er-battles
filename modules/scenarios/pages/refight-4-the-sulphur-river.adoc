@@ -1,10 +1,15 @@
 = Refight 4: The Sulphur River
 
-{blank}[TODO: In the meantime, see link:https://thehobby.zone/resources/e40k-compendium/Content/Battles/TheScenarios/Refight4TheSulphurRiver.htm[^]]
+== Scenario special rules
+
+None.
 
 == Narrative background
 
 include::partial$note-narrative-summary.adoc[]
+(See link:https://thehobby.zone/resources/e40k-compendium/Content/Battles/TheScenarios/Refight4TheSulphurRiver.htm[^])
+
+{blank}[TODO: Create a summary of the original narrative.]
 
 == Armies
 
@@ -12,15 +17,72 @@ include::partial$refights-armies.adoc[]
 
 == Maps
 
+* Standard deployment edges.
+* No deployment zones.
+* A river, with two bridges over it.
++
+TIP: The exact size and style of the two bridges doesn't matter — just use whatever you have in your terrain collection.
+Or, if you lack suitable river and bridge terrain pieces, just improvise them -- use scissors to cut suitable shapes from spare cloth, card or paper.
+
+[.float-group]
+--
+[.left]
+.Long deployment edge
+image::map-refight-4-the-sulphur-river-long.svg[alt="Deployment map for The Sulphur River scenario (long deployment edge)",392,294]
+
+[.left]
+.Short deployment edge
+image::map-refight-4-the-sulphur-river-short.svg[alt="Deployment map for The Sulphur River scenario (short deployment edge)",392,294]
+
+[.left]
+.Corner deployment edge
+image::map-refight-4-the-sulphur-river-corner.svg[alt="Deployment map for The Sulphur River scenario (corner deployment edge)",392,294]
+--
+
 == Setup
+
+. Place a wide river with two bridges across it, as we show at <<Maps>>.
+Place the bridges such that each of the two armies can reach the bridge that is nearest to them in the first turn.
+. xref:get-ready-to-play:set-up-terrain.adoc[Set up terrain] in the rest of the playing area in the standard way.
 
 == Disposition of forces
 
+Determine the disposition of your forces.
+
+. Place all of your Flyer detachments in xref:scenario-special-rules:reserves.adoc[Reserves].
+. If you have any detachments that qualify for the Reserves rules on their own merit, place them in Reserves.
+. Keep all of your other detachments at hand for your initial deployment.
+
 == Initial deployment
+
+include::partial$edge-deployment-procedure.adoc[]
 
 == Play the game
 
+Start the game in the usual way: Proceed to the Start phase.
+
+The Sulphur River is highly corrosive, so it is impassable terrain for all ground units (except at the bridges, of course).
+
 == Game length and victory conditions
+
+The goal is to control both bridges.
+To control a bridge, you must have at least one of your units on the bridge, and no enemy units.
+
+The game lasts D3+3 turns.
+{blank}[TODO: When exactly should we make this roll? Before or after deployment?]
+
+When the game ends, determine the result as follows:
+
+* If a player controls both bridges, then this player wins a major victory.
+* If a player controls one bridge and disputes the other, then this player achieves a minor victory.
+* If the opposing players each control one bridge, or dispute both bridges, then the result is a draw.
+
+[NOTE.option]
+.Victory or Death!
+====
+For a real bloodbath, if both players agree, ignore the limit of D3+3 turns.
+Instead, play this scenario for as many turns as it takes until one player can claim victory by virtue of the fact that their opponent has no units left!
+====
 
 == Historical forces
 include::partial$footnote-inaccurate-historical-force-lists.adoc[]
@@ -47,3 +109,16 @@ Space Marine detachment, _Force Tardus_::
 
 Space Marine Armoured detachment, _Force Supra_::
 6 x Whirlwind.
+
+[NOTE.option]
+.Historical variant
+====
+Bridges are often of great strategic and tactical importance, so battles to control them are common.
+
+For a simple variation that can represent other historical battles, if both players agree, simply allow the Space Marines to use the Drop Pods rules to deploy.
+
+{blank}[TODO: This doesn't really make sense as a variation with the listed historical forces, as each of the Space Marine detachments includes vehicles that are not allowed in drop pods (and not just Rhino transport vehicles). I guess either we're supposed to ignore this, or we ignore the given historical lists. It's a bit of an oversight in the original.]
+====
+
+.Related information
+* xref:scenario-special-rules:drop-pods.adoc[]

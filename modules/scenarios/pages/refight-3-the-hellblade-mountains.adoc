@@ -1,10 +1,15 @@
 = Refight 3: The Hellblade Mountains
 
-{blank}[TODO: In the meantime, see link:https://thehobby.zone/resources/e40k-compendium/Content/Battles/TheScenarios/Refight3TheHellbladeMountains.htm[^]]
-
 == Narrative background
 
 include::partial$note-narrative-summary.adoc[]
+(See link:https://thehobby.zone/resources/e40k-compendium/Content/Battles/TheScenarios/Refight3TheHellbladeMountains.htm[^])
+
+{blank}[TODO: Create a summary of the original narrative.]
+
+== Scenario special rules
+
+xref:scenario-special-rules:army-morale.adoc[]; xref:scenario-special-rules:fortifications.adoc[]; xref:scenario-special-rules:objectives.adoc[]
 
 == Armies
 
@@ -12,15 +17,120 @@ include::partial$refights-armies.adoc[]
 
 == Maps
 
+* The Attacker's deployment zone extends from their pre-determined deployment edge to 20 cm onto the table.
+* The Defender's deployment zone extends from their pre-determined deployment edge to the half-way line.
+
+image::map-refight-3-the-hellblade-mountains.svg[alt="Deployment map for The Hellblade Mountains scenario",600,450]
+
+[none]
+.Legend
+* [.conum]#A# Attacker's deployment zone.
+* [.conum]#D# Defender's deployment zone.
+
 == Setup
+
+. Place two areas of foothills, as we show at <<Maps>>.
+These represent the lower slopes of a mountain chain.
++
+TIP: Use any mountainous or rocky terrain that you have in your terrain collection.
+Or, if you lack suitable items, you could use hills and woods instead.
+Just try to make the terrain in the two areas of foothills quite dense and hilly, but still passable for ground units.
+. xref:get-ready-to-play:set-up-terrain.adoc[Set up terrain] in the rest of the playing area in the standard way.
+. Decide who will be the *Attacker* and who will be the *Defender*.
+. Choose your xref:scenario-special-rules:objectives.adoc[objectives], as follows:
+* *Attacker*: You must have one objective per 500 points in your army (round fractions up).
+You may use any objectives, except for Rescue and Cleanse.
+You may either choose from among those available, or pick at random.
+* *Defender*: You must have one objective per 1,000 points in your army (rounding fractions *down)*.
+You may use only Cleanse objectives.
++
+.Number of objectives
+====
+In a 1,500 point game, the Attacker will have three objectives and the Defender will have one.
+====
+. Place your objective markers.
+The Attacker places the first objective marker and then the players alternate until they have placed all of the objective markers.
 
 == Disposition of forces
 
+*Attacker*: Determine the disposition of your forces.
+
+. Place all of your Flyer detachments in xref:scenario-special-rules:reserves.adoc[Reserves].
+. If you have any detachments that qualify for the Reserves rules on their own merit, place them in Reserves.
+. Set aside up to a quarter of your army's maximum points value limit as a flanking force.
+You may only use complete detachments in the flanking force.
+You will put this force into play in the second turn of the game.
+. Keep all of your other detachments at hand for your initial deployment.
+
+*Defender*: Determine the disposition of your forces.
+
+. Place all of your Flyer detachments in xref:scenario-special-rules:reserves.adoc[Reserves].
+. If you have any detachments that qualify for the Reserves rules on their own merit, place them in Reserves.
+. Keep all of your other detachments at hand for your initial deployment.
+
 == Initial deployment
+
+. *Attacker*: Note down which of the two areas of foothills your flanking force will arrive on (one area only, not both).
+. *Defender*: Deploy all of the detachments that you kept at hand for your initial deployment.
+* Deploy within the Defender's deployment zone [.conum]#D# (see <<Maps>>).
+* You may also use xref:scenario-special-rules:fortifications.adoc[] if you wish.
+* You may bring your Reserves detachments into play anywhere along the Defender's deployment edge.
++
+NOTE: To be clear, the Defender *may* place units in either or both of the two areas of foothills.
+. *Attacker*: Deploy within the Attacker's deployment zone [.conum]#A# (see <<Maps>>).
+You may bring your Reserves detachments into play anywhere along the Attacker's deployment edge.
+
 
 == Play the game
 
+Start the game in the usual way: Proceed to the Start phase.
+
+*Attacker*: When you reach the Start phase of the second turn, your flanking force arrives.
+Place the HQ unit of each detachment you have in the flanking force to identify a point on the table edge of the area of foothills you noted down earlier.
+
+Then, when you reach the Movement phase of the second turn and it is your turn to complete your moves, put into play the detachments that correspond to the HQ units you placed.
+Each time you put a detachment into play, measure the movement of its units -- including its HQ unit -- from the point that its HQ unit indicates on your deployment edge.
+
+IMPORTANT: The flanking force catches the defenders by surprise -- the Defender may *not* use the Snap Fire rule against units of the Attacker's flanking force on the turn that it arrives.
+
 == Game length and victory conditions
+
+include::partial$standard-army-morale-win-conditions.adoc[]
+
+If this hasn't happened by the end of the 5^th^ turn, or if both players' Army Morale values drop to 0 or less on the same turn, then the player with the highest Army Morale value is the winner.
+
+== Tactics
+
+At the start of the game, the Defender has their entire army in the playing area, while the Attacker does not.
+The Defender must capitalise on this early advantage as much as possible, before the Attacker's flanking force arrives in the second turn.
+The Attacker has a golden opportunity to strike at detachments that might otherwise be difficult to reach, especially if they have a relatively slow-moving army.
+
+.Things for the Defender to consider
+
+In general, the flank attack is less of a worry for a Defender who has a highly mobile army, and more of a worry for a Defender who has slow-moving army.
+And the flank attack might present a more valuable opportunity for an Attacker who has a slow-moving army rather than a highly mobile army.
+
+So, as the Defender, what can you do?
+You know for certain that there will be a flank attack, you know when, and you know the maximum strength it could be (in terms of points value).
+You just don't know the exact strength or composition of the force.
+No matter what army you command, the one thing you can't do is ignore the flanking force.
+Things to consider include:
+
+* Make sure that by the end of Turn 1, you've positioned Infantry units to protect any vulnerable Vehicle units.
+* Position detachments of close combat specialists such that they will be ready to counter attack or take cover if the flanking force has a lot of firepower.
+* Where you don't have a better plan, make use of Overwatch orders to make your detachments more dangerous to approach.
+* You know that one of your flanks will face the flanking force while the other will be relatively secure.
+Have a plan for what you'll do once you know whether it is your left or right flank that faces the flanking force, and then implement your plan from Turn 2 onwards.
+
+.Things for the Attacker to consider
+
+The larger you make your flanking force, the weaker the main force you'll deploy and then manoeuvre in the first turn.
+But, a faint heart won't win the day: 
+With a strong flanking force, a good battle plan, and the benefit of knowledge that your opponent lacks (that is, you know which flank you'll attack) you have the chance to inflict some crushing casualties.
+
+////
+Imagine the havoc a Goff mob or company of Baneblades with infantry support could cause on your enemy's baseline with their massed firepower. What Chaos General wouldn't give his right arm (or tentacle) to get a Greater Daemon and some good close combat followers so far across the board without being fired upon! Well, the payoff for these slower moving armies is obvious, but what about the Space Marines? Equipped with drop pods and Thunderhawk gunships they can land where they please anyway. However, even Space Marine armies have some slow troops and you can't fit a Titan in a Thunderhawk gunship! Sneaking a Titan or two on behind your foe could easily tip the whole battle your way. Above all, whether your flanking force is large, small or non-existent, your opponent is going to have to tie up large parts of his army in preparation for its arrival. 
+////
 
 == Historical forces
 include::partial$footnote-inaccurate-historical-force-lists.adoc[]

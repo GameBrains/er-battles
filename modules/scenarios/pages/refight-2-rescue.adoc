@@ -12,22 +12,32 @@ include::partial$note-narrative-summary.adoc[]
 include::partial$refights-armies.adoc[]
 
 == Maps
+footnote:[{e40k-diff}
+The map and dimensions in the original {e40k} rules content are ambiguous and incompatible with the 180 cm length of the standard playing area.
+We believe that the designers intended a 240x120cm playing area for this scenario.
+So, we present two different layouts for you to choose from -- one with dimensions we suggest to suit the standard-sized playing area, and one with the original dimensions for use with an extended playing area.
+]
 
-image::map-refight-2-rescue.svg[alt="Deployment map for the Rescue scenario",600,450]
+.Suggested layout for standard-sized playing area (180x120 cm)
+image::map-refight-2-rescue-180.svg[alt="Deployment map for the Rescue scenario, based on standard playing area (180x120 cm)",392,294]
+
+.Layout for extended playing area (240x120 cm) (recommended)
+image::map-refight-2-rescue-240.svg[alt="Deployment map for the Rescue scenario, based on extended playing area (240x120 cm)",499,294]
 
 [none]
 .Legend
 * [.conum]#A# Attacker's deployment zone.
-* [.conum]#G# Defender's garrison deployment zone.
+* [.conum]#D# Defender's garrison deployment zone. 
 
 == Setup
 
 . xref:get-ready-to-play:set-up-terrain.adoc[Set up terrain] in the standard way.
 . Decide *at random* which player will be the *Attacker* and which the *Defender*.
 . Choose your xref:scenario-special-rules:objectives.adoc[objectives], as follows:
-* *Attacker*: You have no objectives as such -- rather, you must thwart the Defender as they attempt to move their Rescue objective marker off of their deployment edge, and gain control of it if you can.
+* *Attacker*: You have no objectives of your own.
+Instead, your mission is to interfere with the Defender's rescue mission (see <<Game length and victory conditions>>).
 * *Defender*: You have a single Rescue objective.
-. *Defender*: Place your Rescue objective marker anywhere within the Defender's garrison deployment zone [.conum]#G# (see <<Maps>>).
+. *Defender*: Place your Rescue objective marker anywhere within the Defender's garrison deployment zone [.conum]#D# (see <<Maps>>).
 
 IMPORTANT: Usually, you can only make the *initial* pickup of a Rescue objective if it is *your* objective.
 For this scenario, if the Defender's forces have not picked up the Rescue objective and the Attacker's forces reach a position where they could make the initial pick-up, then they may do so.
@@ -53,7 +63,7 @@ Keep this force at hand for initial deployment.
 == Initial deployment
 
 . *Defender*: Deploy all of the detachments of your garrison force.
-* Deploy within the Defender's garrison deployment zone [.conum]#G# (see <<Maps>>).
+* Deploy within the Defender's garrison deployment zone [.conum]#D# (see <<Maps>>).
 . *Attacker*: Deploy all of the detachments that you kept at hand for your initial deployment.
 . *Defender*: Do not deploy any detachments yet.
 Instead, place HQ units to indicate where the detachments you kept at hand for the relief force will enter play during the first turn of the game.

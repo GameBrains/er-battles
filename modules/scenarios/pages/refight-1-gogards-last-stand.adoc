@@ -15,20 +15,69 @@ include::partial$refights-armies.adoc[]
 
 image::map-refight-1-gogards-last-stand.svg[alt="Deployment map for the Gogard's Last Stand scenario",600,450]
 
+[none]
+.Legend
+* [.conum]#A# Attacker's deployment zone.
+* [.conum]#D# Defender's deployment zone (approximate). 
+
 == Setup
 
 . Set up terrain as we show at <<Maps>>.
 You may set up further terrain as you agree between you.
+. Place objectives:
+* *Attacker*: You do not set up any objectives for this scenario -- the Defender places markers for your objectives.
+* *Defender*: You have no objectives of your own, but you must place markers for two Bunker objectives that will be the focus of your opponent's attack.
+You may place these anywhere in the playing area that is at least 15 cm away from any table edge.
 
 == Disposition of forces
 
+*Attacker*: Determine the disposition of your forces.
+
+. Choose one detachment to defend the 'Y' junction from the start of the battle.
+Keep this force at hand for initial deployment.
+. Keep your other detachments at hand for deployment in your first turn.
+
+*Defender*: Determine the disposition of your forces.
+
+. Keep your detachment (gargant) at hand for your initial deployment.
+
 == Initial deployment
+
+. *Defender*: Deploy the detachment that you kept at hand for initial deployment.
+You must deploy the units so that they are in, or touching, the ruins that are adjacent to the 'Y' junction (see <<Maps>>).
+. *Defender*: Do not deploy your remaining detachments yet.
+Instead, place their HQ units anywhere along your deployment edge (on the roads if you like) to indicate where these detachments will enter play during the first turn of the game.
+. *Attacker*: Deploy your detachment (gargant) anywhere within the Attacker's deployment zone [.conum]#A# (see <<Maps>>).
 
 == Play the game
 
+Start the game in the usual way: Proceed to the Start phase.
+
+*Defender*: When you reach the first Movement phase and it is your turn to complete your moves, put into play the detachments that correspond to the HQ units you placed. Each time you put a detachment into play, measure the movement of its units --  including its HQ unit -- from the point that its HQ unit indicates on your deployment edge.
+
+*New krew*: _The gargant has a new krew of lowly Gretchin riggers -- Gogard used the old krew for target practice after a very poor performance in the most recent battle. This new krew are a bit slow to implement the orders that Gogard blares at them..._
+
+In the Movement and Assault phases, the Defender always wins the Initiative.
+{blank}[TODO: Clarify -- presumably we should still remove the Defender's Initiative token from the mug?]
+
+*Bunker objectives*: When you attack a Bunker objective marker, treat it as an Immobilised War Engine unit with the following profile:
+
+include::scenario-special-rules:partial$bunker-data-sheet.adoc[]
+
 == Game length and victory conditions
 
+Play until either the Ork Gargant is destroyed or both Bunker objectives are destroyed.
+
+* If the Defender destroys the Gargant before it has destroyed either bunker, then they win immediately.
+* If the Attacker destroys both Bunker objectives, then they win immediately.
+* If the Attacker destroys just one Bunker objective and then their Gargant is destroyed, then the game is a draw.
+
+== Scenario variants
+
+
+
 == Historical forces
+
 include::partial$footnote-inaccurate-historical-force-lists.adoc[]
 
 === Orks army

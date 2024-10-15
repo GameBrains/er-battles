@@ -1,19 +1,30 @@
 = Refight 5: Breakout
 
-== Scenario special rules
-
-xref:scenario-special-rules:fortifications.adoc[]; xref:scenario-special-rules:hidden-setup.adoc[]
-
 == Narrative background
 
 include::partial$note-narrative-summary.adoc[]
 (See link:https://thehobby.zone/resources/e40k-compendium/Content/Battles/TheScenarios/Refight5Breakout.htm[^])
 
-{blank}[TODO: Create a summary of the original narrative.]
+{blank}[TODO: Create a summary of the original narrative -- or create a distinct new narrative.]
+
+== Scenario special rules
+
+xref:scenario-special-rules:fortifications.adoc[]; xref:scenario-special-rules:hidden-setup.adoc[]
 
 == Armies
 
 include::partial$refights-armies.adoc[]
+
+[TIP]
+====
+Be mindful that attacking armies that are able to field a lot of fast-moving transport vehicles, transport flyers and fast attack vehicles -- as with Space Marines -- are apt to unbalance this scenario.
+
+Therefore, we recommend that for the attacking army you limit the number of transport flyers (such as Thunderhawk Gunship units carrying Space Marines units), or ban them altogether.
+Remember that the idea is for both players to have fun, not for one side to turn the game into a one-sided stomp-fest.
+
+Conversely, if your playing area is more than the standard 120 cm deep, the attacker may struggle to cross it in time -- so in that case, we suggest that you increase the game length by one turn for every additional 30 cm of depth.
+{blank}[TODO: Clarify: I'd argue that we could apply the same logic to the deeper setup we get from short-edge deployment and corner deployment options. To me, it seems clear that these deployment options were rather an afterthought, and the designers didn't really consider them in this scenario. Perhaps we should adjust the game length of this scenario for those too?]
+====
 
 == Maps
 
@@ -45,8 +56,8 @@ image::map-refight-5-breakout-corner.svg[alt="Deployment map for the Breakout sc
 
 . xref:get-ready-to-play:set-up-terrain.adoc[Set up terrain] in the standard way.
 . Determine *at random* which player will be the *Attacker* and which the *Defender*.
-. *Defender*: Choose which deployment edge/zone you prefer.
-Your opponent gets the opposite edge/zone.
+. *Defender*: Choose which table edge you prefer as the basis for your deployment.
+Your opponent gets the opposite table edge.
 See <<Maps>>.
 
 == Disposition of forces
@@ -71,6 +82,7 @@ You will have only **half** of the strength of your army for this battle.
 +
 Keep the detachments you choose at hand for your initial deployment.
 The rest of your army does not take part in this battle.
+{blank}[TODO: Clarify: Why not simply have the Defender choose a smaller army in the first place? This scenario seems to be rather an oddity as I work to remaster it -- in general, the original texts that pertain to scenarios imply that we should determine the scenario to play first and _then_ build our armies, but this scenario implies the opposite (given that it instructs the Defender to use only half of their army)...]
 
 == Initial deployment
 
@@ -79,8 +91,16 @@ The rest of your army does not take part in this battle.
 * Deploy within the Defender's deployment zone [.conum]#D# (see <<Maps>>).
 * You may also use xref:scenario-special-rules:fortifications.adoc[] if you wish.
 +
-IMPORTANT: Although you have use of only half your army, you still get one Hidden Setup marker for each Infantry and/or Vehicle detachment that exists in your full army.
-{blank}[TODO: Clarify: This scenario seems to have been written with no thought to Flyer or War Engine detachments. Should we explicitly exclude them, or should we make proper allowance for either or both of these types of detachment? If the latter, are there game balance issues to account for? How do Flyer detachments affect the number of ground-based detachments the Attacker must exit off of the Defender's table edge for a win? (Probably they shouldn't affect this at all, so the Attacker must be mindful that an excess of Flyer detachments could be a hindrance.)]
+[IMPORTANT]
+====
+Although you have use of only half your army, you still get one Hidden Setup marker for each Infantry and/or Vehicle detachment that exists in your full army.
+
+{blank}[TODO: Clarify: The original version of this scenario seems to have been written with no thought to Flyer or War Engine detachments. Should we explicitly exclude them, or should we make proper allowance for either or both of these types of detachment? If the latter, are there game balance issues to account for? How do Flyer detachments affect the number of ground-based detachments the Attacker must exit off of the Defender's table edge for a win? (Probably they shouldn't affect this at all, so the Attacker must be mindful that an excess of Flyer detachments could be a hindrance.)]
+====
++
+. *Attacker*: Deploy all of the detachments that you kept at hand for initial deployment.
+* Deploy within the Attacker's deployment zone A (see <<Maps>>).
+* When your Reserves detachments arrive, you may bring them into play anywhere along the Attacker's deployment edge.
 
 == Play the game
 
@@ -93,6 +113,70 @@ Detachments reduced to half strength or less do not count.
 {blank}[TODO: For an odd number of attacking detachments, should we round up or round down for the number that must exit for a win...?]
 
 Any other result is a win for the Defender.
+
+== Tactics
+
+=== Attacker's tactical considerations
+
+The role of the Attacker is perhaps a bit easier than that of the Defender, and so the Attacker's tactical considerations are a little more straightforward.
+
+---
+
+You'll probably be tempted to invest all of your available points on fast units -- including transport vehicles for as much of your infantry as possible -- and then use March and Assault orders to push hard across the playing area.
+However, aside from the possibility of over-doing it with highly mobile armies such as Space Marines -- assuming you have the right miniatures to mechanise your entire army -- it is important to bear in mind that troop transports do offer your opponent the opportunity to increase the effect of their firepower, as each hit they get on a transport vehicle may also cause hits on the cargo troops too.
+
+So, consider a more balanced approach: If you include some detachments that have powerful ranged units, you can put these on Overwatch orders (or at least not on March or Assault orders) and lay down strong covering fire.
+This will ensure that the Shooting phase doesn't become too much of a one-sided affair in favour of the Defender.
+It's better to force the Defender to be mindful about incoming fire -- and by destroying some enemy units with your shooting you minimise casualties among your assault detachments, and the Blast markers that you place on enemy detachments are important in your assaults too.
+
+---
+
+Remember that you only need to exit half of your detachments off of the Defender's table edge to win -- so you can afford to use some detachments as disposable forces in rearguard actions, to provide covering fire for the rest of your army.
+
+This is especially true for armies that tend to be slow overall, such as those chiefly comprised of Imperial Guard units.
+An artillery company or battle titan can provide a lot of supporting fire to pound enemy positions and thereby reduce the pressure on the slow-moving detachments as they creep across the battlefield.
+
+---
+
+Plan to move your detachments off of the escape edge in strength.
+That is, don't move your escaping detachments off piecemeal over several turns -- if you do this, you'll give your opponent the opportunity to concentrate their shooting on the units that are most likely to escape each turn.
+This is likely to mean that they can easily whittle down your detachments to half-strength or less so that they don't qualify for your victory conditions.
+
+=== Defender's tactical considerations
+
+A lot depends on the terrain setup.
+
+If the terrain is more dense near one side of the table, then that's probably the side you should choose.
+
+For a start, you should seek to maximise cover for your units and to minimise cover that your opponent can use to shield their units from your shooting.
+
+And, remember that you can use hills and buildings to gain better fields of fire for your units.
+
+{blank}[TODO: Perhaps comment on effective use of fortifications and hidden setup.]
+
+---
+
+When you build and deploy your army, be mindful that you need to be able quickly reinforce either flank.
+A canny opponent will likely strike not on a broad front but at one flank of your battle line, seeking to break through before you can bring reinforcements to bear from the other flank.
+
+You should make good use of long-ranged gunnery that can cover a lot of ground and slow the enemy, and fast, powerful assault units that can redeploy quickly and hit hard where they are needed.
+
+In general, you should:
+
+* Position your infantry within 30 cm of your table edge, on Overwatch orders.
+* Target the fastest-moving enemy units first.
+* Position your close-combat specialists much closer to the centre of the playing area, so that you can threaten and vulnerable targets with an assault in the first turn of the game.
+
+---
+
+Remember that attack is the best form of defence, and that it pays to concentrate your attacks.
+Prioritise, and focus on breaking a small number of enemy detachments at a time -- you may have a target-rich environment, but don't get distracted by tempting fresh targets that will only serve to spread your fire more thinly!
+
+But, once you've reduced a given enemy detachment to half strength, don't waste any further attacks on it if you can shift your attacks to more important targets (that is, those that are still above half strength and therefore valid for your opponent's victory conditions).
+
+---
+
+If you play this scenario a number of times, you'll likely find that armies that fare badly in the role of the Attacker tend to do well as defenders, and vice versa.
 
 == Historical forces
 include::partial$footnote-inaccurate-historical-force-lists.adoc[]

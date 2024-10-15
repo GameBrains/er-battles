@@ -5,18 +5,21 @@
 include::partial$note-narrative-summary.adoc[]
 (See link:https://thehobby.zone/resources/e40k-compendium/Content/Battles/TheScenarios/Refight2Rescue.htm[^])
 
-{blank}[TODO: Create a summary of the original narrative.]
+{blank}[TODO: Create a summary of the original narrative -- or create a distinct new narrative.]
+
+== Scenario special rules
+
+None.
 
 == Armies
 
 include::partial$refights-armies.adoc[]
 
 == Maps
-footnote:[{e40k-diff}
-The map and dimensions in the original {e40k} rules content are ambiguous and incompatible with the 180 cm length of the standard playing area.
+
+NOTE: The map and dimensions in the original {e40k} rules content are ambiguous and incompatible with the 180 cm length of the standard playing area.
 We believe that the designers intended a 240x120cm playing area for this scenario.
 So, we present two different layouts for you to choose from -- one with dimensions we suggest to suit the standard-sized playing area, and one with the original dimensions for use with an extended playing area.
-]
 
 .Suggested layout for standard-sized playing area (180x120 cm)
 image::map-refight-2-rescue-180.svg[alt="Deployment map for the Rescue scenario, based on standard playing area (180x120 cm)",392,294]

@@ -5,11 +5,15 @@
 include::partial$note-narrative-summary.adoc[]
 (See link:https://thehobby.zone/resources/e40k-compendium/Content/Battles/TheScenarios/Refight1GogardsLastStand.htm[^])
 
+{blank}[TODO: Create a summary of the original narrative -- or create a distinct new narrative.]
+
+== Scenario special rules
+
+None.
+
 == Armies
 
 include::partial$refights-armies.adoc[]
-
-{blank}[TODO: Create a summary of the original narrative.]
 
 == Maps
 

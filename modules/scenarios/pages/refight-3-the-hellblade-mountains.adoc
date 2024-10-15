@@ -5,7 +5,7 @@
 include::partial$note-narrative-summary.adoc[]
 (See link:https://thehobby.zone/resources/e40k-compendium/Content/Battles/TheScenarios/Refight3TheHellbladeMountains.htm[^])
 
-{blank}[TODO: Create a summary of the original narrative.]
+{blank}[TODO: Create a summary of the original narrative -- or create a distinct new narrative.]
 
 == Scenario special rules
 

@@ -1,5 +1,5 @@
 Do not deploy any detachments yet.
-Instead, place HQ units to indicate where the detachments you kept at hand will enter play during the first turn of the game.
+Instead, place HQ units to indicate where the detachments you kept at hand for initial deployment will enter play during the first turn of the game.
 
 Start with the player whose army has the lower Strategy Rating and alternate between you until there are no more HQ units to place:
 

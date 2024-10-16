@@ -62,9 +62,12 @@ include::partial$edge-deployment-procedure.adoc[]
 
 == Play the game
 
-Start the game in the usual way: Proceed to the Start phase.
+include::partial$start-usual.adoc[]
 
+.The Sulphur River
 The Sulphur River is highly corrosive, so it is impassable terrain for all ground units (except at the bridges, of course).
+
+include::partial$bringing-reserves-detachments-into-play.adoc[]
 
 == Game length and victory conditions
 

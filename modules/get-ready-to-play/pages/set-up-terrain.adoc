@@ -1,6 +1,6 @@
 = Set up terrain
 
-{blank}[TODO: Write the default set-up guidance. In most cases these amount to "Set up the terrain in any mutually acceptable manner" but we could offer some useful suggestions here, and unify some points that are scattered around in the original rules content.]
+{blank}[TODO: Write the default set-up guidance. In general we can summarise as "Set up the terrain in any mutually acceptable manner", but there are helpful guidelines and suggestions that we should also present.]
 
 .Related information
 * xref:more:random-terrain-generators.adoc[]

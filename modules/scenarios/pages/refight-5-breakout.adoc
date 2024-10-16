@@ -20,17 +20,17 @@ include::partial$refights-armies.adoc[]
 Be mindful that attacking armies that are able to field a lot of fast-moving transport vehicles, transport flyers and fast attack vehicles -- as with Space Marines -- are apt to unbalance this scenario.
 
 Therefore, we recommend that for the attacking army you limit the number of transport flyers (such as Thunderhawk Gunship units carrying Space Marines units), or ban them altogether.
-Remember that the idea is for both players to have fun, not for one side to turn the game into a one-sided stomp-fest.
+Remember that the game is supposed to be challenging and fun for both players -- not a one-sided stomp-fest.
 
-Conversely, if your playing area is more than the standard 120 cm deep, the attacker may struggle to cross it in time -- so in that case, we suggest that you increase the game length by one turn for every additional 30 cm of depth.
+Conversely, if your playing area is more than the standard 120 cm deep, the attacking army may struggle to cross it in time -- so in that case, we suggest that you increase the game length by one turn for every additional 30 cm of depth.
 {blank}[TODO: Clarify: I'd argue that we could apply the same logic to the deeper setup we get from short-edge deployment and corner deployment options. To me, it seems clear that these deployment options were rather an afterthought, and the designers didn't really consider them in this scenario. Perhaps we should adjust the game length of this scenario for those too?]
 ====
 
 == Maps
 
 * Standard deployment edges.
-* The Defender's deployment zone extends from their deployment edge to the half-way line.
 * The Attacker's deployment zone extends from their deployment edge to 20 cm onto the table.
+* The Defender's deployment zone extends from their deployment edge to the half-way line.
 
 [.float-group]
 --
@@ -82,6 +82,7 @@ You will have only **half** of the strength of your army for this battle.
 +
 Keep the detachments you choose at hand for your initial deployment.
 The rest of your army does not take part in this battle.
++
 {blank}[TODO: Clarify: Why not simply have the Defender choose a smaller army in the first place? This scenario seems to be rather an oddity as I work to remaster it -- in general, the original texts that pertain to scenarios imply that we should determine the scenario to play first and _then_ build our armies, but this scenario implies the opposite (given that it instructs the Defender to use only half of their army)...]
 
 == Initial deployment
@@ -99,12 +100,14 @@ Although you have use of only half your army, you still get one Hidden Setup mar
 ====
 +
 . *Attacker*: Deploy all of the detachments that you kept at hand for initial deployment.
-* Deploy within the Attacker's deployment zone A (see <<Maps>>).
+* Deploy within the Attacker's deployment zone [.conum]#A# (see <<Maps>>).
 * When your Reserves detachments arrive, you may bring them into play anywhere along the Attacker's deployment edge.
 
 == Play the game
 
-Start the game in the usual way: Proceed to the Start phase.
+include::partial$start-usual.adoc[]
+
+include::partial$bringing-reserves-detachments-into-play.adoc[]
 
 == Game length and victory conditions
 
@@ -118,16 +121,22 @@ Any other result is a win for the Defender.
 
 === Attacker's tactical considerations
 
-The role of the Attacker is perhaps a bit easier than that of the Defender, and so the Attacker's tactical considerations are a little more straightforward.
+The role of the Attacker is perhaps a bit easier than that of the Defender, and so the Attacker's tactical considerations are more straightforward.
 
 ---
 
-You'll probably be tempted to invest all of your available points on fast units -- including transport vehicles for as much of your infantry as possible -- and then use March and Assault orders to push hard across the playing area.
-However, aside from the possibility of over-doing it with highly mobile armies such as Space Marines -- assuming you have the right miniatures to mechanise your entire army -- it is important to bear in mind that troop transports do offer your opponent the opportunity to increase the effect of their firepower, as each hit they get on a transport vehicle may also cause hits on the cargo troops too.
+You'll probably be tempted to invest all of your available points on fast units -- including transport vehicles for as much of your infantry as possible -- and then use March and Assault orders to rush them across the playing area.
 
-So, consider a more balanced approach: If you include some detachments that have powerful ranged units, you can put these on Overwatch orders (or at least not on March or Assault orders) and lay down strong covering fire.
-This will ensure that the Shooting phase doesn't become too much of a one-sided affair in favour of the Defender.
-It's better to force the Defender to be mindful about incoming fire -- and by destroying some enemy units with your shooting you minimise casualties among your assault detachments, and the Blast markers that you place on enemy detachments are important in your assaults too.
+On the one hand, if you over-do this with a highly mobile army it can seriously unbalance this scenario and kill the fun.
+On the other hand, you should be mindful that troop transports offer your opponent the opportunity to increase the effect of their firepower, as each hit they get on a transport vehicle may also cause hits on the embarked cargo units.
+
+So, consider a more balanced approach: If you include some detachments that have powerful ranged units, you can put these on Overwatch orders (or at least Advance orders) and lay down strong covering fire.
+This affords you a number of benefits:
+
+* It will help to off-set the lack of firepower from the detachments that you have on March or Assault orders, and ensure that the Defender doesn't completely dominate the Shooting phase.
+* It forces the Defender to be somewhat cautious as they must be mindful of incoming fire.
+* In destroying some enemy units at range, you suppress some of the enemy's return fire and thus minimise casualties among your assault detachments.
+* The casualties you cause and the Blast markers you place on enemy detachments can give you a significant edge in your assaults.
 
 ---
 
@@ -140,7 +149,7 @@ An artillery company or battle titan can provide a lot of supporting fire to pou
 
 Plan to move your detachments off of the escape edge in strength.
 That is, don't move your escaping detachments off piecemeal over several turns -- if you do this, you'll give your opponent the opportunity to concentrate their shooting on the units that are most likely to escape each turn.
-This is likely to mean that they can easily whittle down your detachments to half-strength or less so that they don't qualify for your victory conditions.
+That would make it much easier for your opponent to reduce enough of your detachments to half-strength that you can't achieve your victory conditions.
 
 === Defender's tactical considerations
 
@@ -165,14 +174,15 @@ In general, you should:
 
 * Position your infantry within 30 cm of your table edge, on Overwatch orders.
 * Target the fastest-moving enemy units first.
-* Position your close-combat specialists much closer to the centre of the playing area, so that you can threaten and vulnerable targets with an assault in the first turn of the game.
+* Position your close-combat specialists much closer to the half-way line, so that you can threaten enemy detachments with an assault in the first turn of the game.
 
 ---
 
 Remember that attack is the best form of defence, and that it pays to concentrate your attacks.
-Prioritise, and focus on breaking a small number of enemy detachments at a time -- you may have a target-rich environment, but don't get distracted by tempting fresh targets that will only serve to spread your fire more thinly!
+Prioritise, and focus on breaking a small number of enemy detachments at a time -- don't get distracted by fresh targets that tempt you to divide your fire!
 
-But, once you've reduced a given enemy detachment to half strength, don't waste any further attacks on it if you can shift your attacks to more important targets (that is, those that are still above half strength and therefore valid for your opponent's victory conditions).
+Once you've reduced a given enemy detachment to half strength, it becomes a low-priority target as it is no longer valid for the Attacker's victory conditions.
+Shift your focus to another detachment that is still above half strength.
 
 ---
 

@@ -13,7 +13,10 @@ None.
 
 == Armies
 
-include::partial$refights-armies.adoc[]
+This scenario exists mainly for an introductory experience with the <<Historical forces>>.
+
+We have made no attempt to include instructions for more general usage.
+Don't be afraid to adapt this scenario yourself though, even if only to suit the miniatures that you currently have in your collection.
 
 == Maps
 
@@ -55,16 +58,19 @@ Instead, place their HQ units anywhere along your deployment edge (on the roads 
 
 == Play the game
 
-Start the game in the usual way: Proceed to the Start phase.
+include::partial$start-usual.adoc[]
 
+.Reinforcements
 *Defender*: When you reach the first Movement phase and it is your turn to complete your moves, put into play the detachments that correspond to the HQ units you placed. Each time you put a detachment into play, measure the movement of its units --  including its HQ unit -- from the point that its HQ unit indicates on your deployment edge.
 
-*New krew*: _The gargant has a new krew of lowly Gretchin riggers -- Gogard used the old krew for target practice after a very poor performance in the most recent battle. This new krew are a bit slow to implement the orders that Gogard blares at them..._
+.New krew
+_The gargant has a new krew of lowly Gretchin riggers -- Gogard used the old krew for target practice after a very poor performance in the most recent battle. This new krew are a bit slow to implement the orders that Gogard blares at them..._
 
 In the Movement and Assault phases, the Defender always wins the Initiative.
 {blank}[TODO: Clarify -- presumably we should still remove the Defender's Initiative token from the mug?]
 
-*Bunker objectives*: When you attack a Bunker objective marker, treat it as an Immobilised War Engine unit with the following profile:
+.Bunker objectives
+When a Bunker objective marker comes under attack, treat it as an Immobilised War Engine unit with the following profile:
 
 include::scenario-special-rules:partial$bunker-data-sheet.adoc[]
 

@@ -78,12 +78,14 @@ You may place the HQ units of your flanking detachments to indicate any point al
 
 == Play the game
 
-Start the game in the usual way: Proceed to the Start phase.
+include::partial$start-usual.adoc[]
 
+.Reserves
+// include::partial$bringing-reserves-detachments-into-play.adoc[]
 *Attacker*: You may bring your Reserves detachments into play anywhere along ????.
 {blank}[TODO: The original version of this scenario made no accomodation for Reserves. Can we integrate them sensibly?]
 
-*Defender*: You may bring your Reserves detachments into play anywhere along the Defender's deployment edge.
+*Defender*: If you have any Reserves detachments then, as they arrive, bring them into play anywhere along your deployment edge (see <<Maps>>).
 
 == Game length and victory conditions
 

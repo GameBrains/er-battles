@@ -1,2 +1,13 @@
 = Standard Refight scenarios
 
+Refight scenarios outline confrontations that are 'historical' in the _Warhammer 40,000_ universe.
+They offer ready-made detachments that use the contents of the original {e40k} boxed set to model the 'historical' forces.
+
+You can 're-fight' these scenarios just as we present them, or, in most cases they are easy to adapt for more general usage with different armies and narrative as you see fit.
+
+[TIP]
+====
+Some of these scenarios specify that you must set up some particular terrain in a particular way.
+Don't fret about the details though; the exact dimensions and style of terrain items isn't important -- just use whatever you have in your terrain collection.
+Or, if you lack suitable terrain pieces, just improvise them -- use scissors to cut suitable shapes from spare cloth, card or paper.
+====

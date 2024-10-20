@@ -5,7 +5,7 @@
 include::partial$note-narrative-summary.adoc[]
 (See link:https://thehobby.zone/resources/e40k-compendium/Content/Battles/TheScenarios/Refight1GogardsLastStand.htm[^])
 
-{blank}[TODO: Create a summary of the original narrative -- or create a distinct new narrative.]
+{blank}[TODO: Create a summary of the narrative.]
 
 == Scenario special rules
 
@@ -13,12 +13,18 @@ None.
 
 == Armies
 
-This scenario exists mainly for an introductory experience with the <<Historical forces>>.
-
+The main purpose of this scenario is to provide an introductory experience with the <<Historical forces>>.
 We have made no attempt to include instructions for more general usage.
-Don't be afraid to adapt this scenario yourself though, even if only to suit the miniatures that you currently have in your collection.
+
+However, for ideas to vary this scenario, see <<Scenario variants>>.
 
 == Maps
+
+* The Attacker's deployment zone extends from their pre-determined deployment edge to 20 cm onto the table.
+* The Defender's deployment zone is based on ruins near the centre of the playing area.
+* The Defender has a pre-determined deployment edge.
+* Roads that converge at a 'Y' junction in the centre of the playing area.
+* Seven areas of ruins.
 
 image::map-refight-1-gogards-last-stand.svg[alt="Deployment map for the Gogard's Last Stand scenario",600,450]
 
@@ -31,6 +37,7 @@ image::map-refight-1-gogards-last-stand.svg[alt="Deployment map for the Gogard's
 
 . Set up terrain as we show at <<Maps>>.
 You may set up further terrain as you agree between you.
+. Decide which player will be the *Attacker* (Orks) and which the *Defender* (Space Marines).
 . Place objectives:
 * *Attacker*: You do not set up any objectives for this scenario -- the Defender places markers for your objectives.
 * *Defender*: You have no objectives of your own, but you must place markers for two Bunker objectives that will be the focus of your opponent's attack.
@@ -40,18 +47,18 @@ You may place these anywhere in the playing area that is at least 15 cm away fro
 
 *Attacker*: Determine the disposition of your forces.
 
-. Choose one detachment to defend the 'Y' junction from the start of the battle.
-Keep this force at hand for initial deployment.
-. Keep your other detachments at hand for deployment in your first turn.
+. Keep your detachment (gargant) at hand for your initial deployment.
 
 *Defender*: Determine the disposition of your forces.
 
-. Keep your detachment (gargant) at hand for your initial deployment.
+. Choose one detachment to be in position near the 'Y' junction at the start of the battle.
+Keep this force at hand for initial deployment.
+. Keep your other detachments at hand for deployment in your first turn.
 
 == Initial deployment
 
 . *Defender*: Deploy the detachment that you kept at hand for initial deployment.
-You must deploy the units so that they are in, or touching, the ruins that are adjacent to the 'Y' junction (see <<Maps>>).
+You must deploy the units so that they are in, or in base contact with, the ruins that are adjacent to the 'Y' junction (see <<Maps>>).
 . *Defender*: Do not deploy your remaining detachments yet.
 Instead, place their HQ units anywhere along your deployment edge (on the roads if you like) to indicate where these detachments will enter play during the first turn of the game.
 . *Attacker*: Deploy your detachment (gargant) anywhere within the Attacker's deployment zone [.conum]#A# (see <<Maps>>).
@@ -84,7 +91,21 @@ Play until either the Ork Gargant is destroyed or both Bunker objectives are des
 
 == Scenario variants
 
+This scenario is meant to introduce you to the core rules, and just a few special rules (including those for War Engine units).
+So it is quite straightforward, and includes only a small number of units.
 
+You might like to play it a few times before you get into anything more complex.
+Even so, you might like to change things a bit to keep it interesting -- so, here are some ideas for variants to try:
+
+* Swap heavy weapons infantry for more tanks: Simply drop _Force Adonis_ and add another armoured detachment like _Force Citus_ instead.
+* Swap tanks for more heavy weapons infantry: Simply drop _Force Citus_ and add another detachment like _Force Adonis_ instead.
+* The defending Imperial force could've been very different.
+Create a different defending force, which will likely present much more of a challenge for the Attacker:
+The Defender may use the Imperial army list to build an army of up to 500 points.
+* Gogard's gargant was barely operational when it attacked the Imperial positions.
+If it had broken down before it arrived for this battle, then Gogard would have had to cobble together a different force of Orks to attack with.
+Create a different attacking force:
+The Attacker may use the Ork army list to build an army of up to 500 points.
 
 == Historical forces
 
@@ -92,18 +113,28 @@ include::partial$footnote-inaccurate-historical-force-lists.adoc[]
 
 === Orks army
 
-*Ready-made list in the Detachment Builder*: link:https://builder.epicremastered.com/print.lc?listname=Ork+army+detachments+for+Refight+1&listurl=https%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_Ork_Gargants%26force%3DKorps+Grinda%7E503&submitbuttonname=Submit[Ork army detachments for Refight 1^]
-
 Ork Gargants detachment::
 1 x Great Gargant (_Korps Grinda_).
 
+{blank}[TODO: Create new data sheet for _Korps Grinda_/Great Gargant. In the meantime, see https://thehobby.zone/resources/e40k-compendium/Content/Resources/Images/Illustrations/BattlesBook/Refight1GogardsLastStand_KorpsGrindaDataCard.gif[^]]
+
+[TIP]
+.Ready-made list in the Detachment Builder
+====
+link:https://builder.epicremastered.com/print.lc?listname=Ork+army+detachments+for+Refight+1&listurl=https%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_Ork_Gargants%26force%3DKorps+Grinda%7E503&submitbuttonname=Submit[Ork army detachments for Refight 1^]
+====
+
 === Space Marines army
 
-*Ready-made list in the Detachment Builder*: link:https://builder.epicremastered.com/print.lc?listname=Imperium+army+detachments+for+Refight+1&listurl=https%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_SM_Armoured%26force%3DForce%2520Citus%7E501%7E512%7E101x2%7E512%7E101x2%0D%0Ahttps%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_SM_Detachment%26force%3DForce+Adonis%7E501%7E502%7E130x1%7E511%7E116x1%7E511%7E116x1%0D%0Ahttps%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_SM_Detachment%26force%3DIncompertus%7E501%7E502%7E130x1%7E100x1%7E511%7E114x1%7E100x1%7E511%7E114x1%7E100x1%7E511%7E114x1%7E100x1%0D%0A[Imperium army detachments for Refight 1^]
-
-Space Marine detachment, _Force Citus_::
+Space Marine Armour detachment, _Force Citus_::
 4 x Space Marine Land Raider.
 Space Marine detachment, _Force Adonis_::
 1 x Space Marine Captain; 4 x Space Marine unit, with Devastator option.
 Space Marine detachment, _Force Lentus_::
 1 x Space Marine Captain, with Rhino option; 6 x Space Marine unit, with 3 x Rhino option.
+
+[TIP]
+.Ready-made list in the Detachment Builder
+====
+link:https://builder.epicremastered.com/print.lc?listname=Imperium+army+detachments+for+Refight+1&listurl=https%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_SM_Armoured%26force%3DForce%2520Citus%7E501%7E512%7E101x2%7E512%7E101x2%0D%0Ahttps%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_SM_Detachment%26force%3DForce+Adonis%7E501%7E502%7E130x1%7E511%7E116x1%7E511%7E116x1%0D%0Ahttps%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_SM_Detachment%26force%3DIncompertus%7E501%7E502%7E130x1%7E100x1%7E511%7E114x1%7E100x1%7E511%7E114x1%7E100x1%7E511%7E114x1%7E100x1%0D%0A[Imperium army detachments for Refight 1^]
+====

@@ -1,4 +1,4 @@
-For pre-defined armies that represent those in the narrative background, see <<Historical forces>>.
+For pre-defined armies that correspond to the narrative background, see <<Historical forces>>.
 
 Otherwise, for more general use of this scenario:
 include::partial$agree-a-maximum-points-value-limit.adoc[]

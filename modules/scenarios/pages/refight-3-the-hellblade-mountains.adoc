@@ -110,13 +110,69 @@ include::partial$standard-army-morale-win-conditions.adoc[]
 
 If this hasn't happened by the end of the 5^th^ turn, or if both players' Army Morale values drop to 0 or less on the same turn, then the player with the highest Army Morale value is the winner.
 
+== Historical forces
+
+=== Orks army
+
+Ork Warband detachment, _Bogrot's Boyz_::
+1 x Warboss; 1 x Weirdboy; 12 x Ork unit; 1 x Nobz unit; 9 x Gretchin unit.
+
+Ork Warband detachment, _Da Profeshernalz_::
+1 x Warboss; 1 x Weirdboy; 3x Kommandos unit.
+
+Ork Warband detachment, _Der Gunnerz_::
+1 x Warboss, with Battlewagon option; 3 x Shooty Boyz unit; 3 x Stompa.
+
+[TIP]
+.Ready-made force list in the Detachment Builder
+====
+link:https://builder.epicremastered.com/print.lc?listname=Ork+army+detachments+for+Refight+3&listurl=https%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_Ork_Warband%26force%3DBogrot%60s+Boyz%7E501%7E502%7E505%7E510%7E110x4%7E510%7E110x4%7E510%7E110x4%7E511%7E111x1%7E517%7E117x3%7E517%7E117x3%7E517%7E117x3%0D%0Ahttps%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_Ork_Warband%26force%3DDa+Profeshernalz%7E501%7E502%7E505%7E516%7E116x3%0D%0Ahttps%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_Ork_Warband%26force%3DDer%2520Gunnerz%7E501%7E502%7E109x1%7E512%7E112x1%7E512%7E112x1%7E512%7E112x1%7E524%7E524%7E524%0D%0A&submitbuttonname=Submit[Ork army detachments for Refight 3^]
+====
+
+=== Space Marines army
+
+Space Marine detachment 1, _Force Subodai_::
+1 x Space Marine Captain; 2 x Terminator unit; 2 x Scout unit.
++
+****
+Historically, _Force Subodai_ was the flanking force.
+****
+
+Space Marine Armour detachment, _Force Kuanti_::
+6 x Land Raider.
+
+Space Marine detachment, _Force Susanowo_::
+1 x Space Marine Captain, with Rhino option; 6 x Space Marine unit, with 3 x Rhino option; 1 x Whirlwind.
+
+[TIP]
+.Ready-made force list in the Detachment Builder
+====
+link:https://builder.epicremastered.com/print_21_unitlist.lc?listname=Imperium+army+detachments+for+Refight+3&listurl=https%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_SM_Detachment%26force%3DForce+Subodai%7E501%7E502%7E130x1%7E510%7E510%7E513%7E513%0D%0Ahttps%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_SM_Armoured%26force%3DForce%2520Kuanti%7E501%7E512%7E101x3%7E512%7E101x3%0D%0Ahttps%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_SM_Detachment%26force%3DForce+Susanowo%7E501%7E502%7E130x1%7E100x1%7E511%7E114x1%7E100x1%7E511%7E114x1%7E100x1%7E511%7E114x1%7E100x1%7E524%0D%0A[Imperium army detachments for Refight 3^]
+====
+
 == Tactics
 
 At the start of the game, the Defender has their entire army in the playing area, while the Attacker does not.
 The Defender must capitalise on this early advantage as much as possible, before the Attacker's flanking force arrives in the second turn.
 The Attacker has a golden opportunity to strike at detachments that might otherwise be difficult to reach, especially if they have a relatively slow-moving army.
 
-.Defender's tactical considerations
+=== Attacker's tactical considerations
+
+The larger you make your flanking force, the weaker the main force you'll deploy and then manoeuvre in the first turn.
+But, a faint heart won't win the day: 
+With a strong flanking force, a good battle plan, and the benefit of knowledge that your opponent lacks (that is, you know which flank you'll attack) you have the chance to inflict some crushing casualties.
+
+Note that your flanking force gives you a golden opportunity to put slow-moving but powerful units close to the enemy without a long slog across the battlefield under fire.
+This has obvious benefit for the less-mobile armies, such as the Imperial Guard.
+But, even the likes of Space Marines have some slow units and allied support options -- and you can't fit a titan in a Thunderhawk Gunship!
+
+Think of the mayhem you could cause with a company of Baneblade super-heavy tanks supported by infantry... or a horde of Goff Orks... or a Chaos Greater Daemon with a retinue of Lesser Daemons...
+
+In any case, whatever the size and composition of your flanking force, it gives you the advantage of knowledge that your opponent doesn't have.
+In the early stages of the battle, your opponent is forced to be somewhat conservative and reactive.
+
+=== Defender's tactical considerations
+
 In general, the flank attack is less of a worry for a Defender who has a highly mobile army, and more of a worry for a Defender who has slow-moving army.
 And the flank attack might present a more valuable opportunity for an Attacker who has a slow-moving army rather than a highly mobile army.
 
@@ -131,57 +187,3 @@ Things to consider include:
 * Where you don't have a better plan, make use of Overwatch orders to make your detachments more dangerous to approach.
 * You know that one of your flanks will face the flanking force while the other will be relatively secure.
 Have a plan for what you'll do once you know whether it is your left or right flank that faces the flanking force, and then implement your plan from Turn 2 onwards.
-
-.Attacker's tactical considerations
-The larger you make your flanking force, the weaker the main force you'll deploy and then manoeuvre in the first turn.
-But, a faint heart won't win the day: 
-With a strong flanking force, a good battle plan, and the benefit of knowledge that your opponent lacks (that is, you know which flank you'll attack) you have the chance to inflict some crushing casualties.
-
-////
-Imagine the havoc a Goff mob or company of Baneblades with infantry support could cause on your enemy's baseline with their massed firepower. What Chaos General wouldn't give his right arm (or tentacle) to get a Greater Daemon and some good close combat followers so far across the board without being fired upon! Well, the payoff for these slower moving armies is obvious, but what about the Space Marines? Equipped with drop pods and Thunderhawk gunships they can land where they please anyway. However, even Space Marine armies have some slow troops and you can't fit a Titan in a Thunderhawk gunship! Sneaking a Titan or two on behind your foe could easily tip the whole battle your way. Above all, whether your flanking force is large, small or non-existent, your opponent is going to have to tie up large parts of his army in preparation for its arrival. 
-////
-
-== Historical forces
-include::partial$footnote-inaccurate-historical-force-lists.adoc[]
-
-=== Orks army
-
-*Ready-made list in the Detachment Builder*: link:https://builder.epicremastered.com/print.lc?listname=Ork+army+detachments+for+Refight+3&listurl=https%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_Ork_Warband%26force%3DBogrot%60s+Boyz%7E501%7E502%7E505%7E510%7E110x4%7E510%7E110x4%7E510%7E110x4%7E511%7E111x1%7E517%7E117x3%7E517%7E117x3%7E517%7E117x3%0D%0Ahttps%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_Ork_Warband%26force%3DDa+Profeshernalz%7E501%7E502%7E505%7E516%7E116x3%0D%0Ahttps%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_Ork_Warband%26force%3DDer%2520Gunnerz%7E501%7E502%7E109x1%7E512%7E112x1%7E512%7E112x1%7E512%7E112x1%7E524%7E524%7E524%0D%0A&submitbuttonname=Submit[Ork army detachments for Refight 3^]
-
-Ork Warband detachment, _Bogrot's Boyz_::
-1 x Warboss; 1 x Weirdboy; 12 x Ork unit; 1 x Nobz unit; 9 x Gretchin unit.
-
-Ork Warband detachment, _Da Profeshernalz_::
-1 x Warboss; 1 x Weirdboy; 3x Kommandos unit.
-
-Ork Warband detachment, _Der Gunnerz_::
-1 x Warboss, with Battlewagon option; 3 x Shooty Boyz unit; 3 x Stompa.
-
-[TIP]
-.Ready-made list in the Detachment Builder
-====
-link:https://builder.epicremastered.com/print.lc?listname=Ork+army+detachments+for+Refight+3&listurl=https%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_Ork_Warband%26force%3DBogrot%60s+Boyz%7E501%7E502%7E505%7E510%7E110x4%7E510%7E110x4%7E510%7E110x4%7E511%7E111x1%7E517%7E117x3%7E517%7E117x3%7E517%7E117x3%0D%0Ahttps%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_Ork_Warband%26force%3DDa+Profeshernalz%7E501%7E502%7E505%7E516%7E116x3%0D%0Ahttps%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_Ork_Warband%26force%3DDer%2520Gunnerz%7E501%7E502%7E109x1%7E512%7E112x1%7E512%7E112x1%7E512%7E112x1%7E524%7E524%7E524%0D%0A&submitbuttonname=Submit[Ork army detachments for Refight 3^]
-====
-
-=== Space Marines army
-
-*Ready-made list in the Detachment Builder*: link:https://builder.epicremastered.com/print.lc?listname=Imperium+army+detachments+for+Refight+3&listurl=https%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_SM_Detachment%26force%3DForce+Subodai%7E501%7E502%7E130x1%7E510%7E510%7E513%7E513%0D%0Ahttps%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_SM_Armoured%26force%3DForce+Kuanti%7E501%7E512%7E112x3%7E512%7E112x3%0D%0Ahttps%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_SM_Detachment%26force%3DForce%2520Susanowo%7E501%7E502%7E130x1%7E100x1%7E511%7E114x1%7E100x1%7E511%7E114x1%7E100x1%7E511%7E114x1%7E100x1%7E524%0D%0A&submitbuttonname=Submit[Imperium army detachments for Refight 3^]
-
-Space Marine detachment 1, _Force Subodai_::
-1 x Space Marine Captain; 2 x Terminator unit; 2 x Scout unit.
-+
-****
-Historically, _Force Subodai_ was the flanking force.
-****
-
-Space Marine Armoured detachment, _Force Kuanti_::
-6 x Land Raider.
-
-Space Marine detachment, _Force Susanowo_::
-1 x Space Marine Captain, with Rhino option; 6 x Space Marine unit, with 3 x Rhino option; 1 x Whirlwind.
-
-[TIP]
-.Ready-made list in the Detachment Builder
-====
-link:https://builder.epicremastered.com/print.lc?listname=Imperium+army+detachments+for+Refight+3&listurl=https%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_SM_Detachment%26force%3DForce+Subodai%7E501%7E502%7E130x1%7E510%7E510%7E513%7E513%0D%0Ahttps%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_SM_Armoured%26force%3DForce+Kuanti%7E501%7E512%7E112x3%7E512%7E112x3%0D%0Ahttps%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_SM_Detachment%26force%3DForce%2520Susanowo%7E501%7E502%7E130x1%7E100x1%7E511%7E114x1%7E100x1%7E511%7E114x1%7E100x1%7E511%7E114x1%7E100x1%7E524%0D%0A&submitbuttonname=Submit[Imperium army detachments for Refight 3^]
-====

@@ -117,24 +117,63 @@ Detachments reduced to half strength or less do not count.
 
 Any other result is a win for the Defender.
 
+== Historical forces
+
+=== Ork army
+
+Ork Warlord detachment, _Warlord Nah-Badun an' der Retinue_::
+1 x Warlord, with Battlewagon option; 1 x Weirdboy Battle Tower; 1 x Nobz unit; 1 x Gretchin unit; 2 x Battlewagon.
+
+Ork Kult of Speed detachment, _Da Chargerz_::
+1 x Warboss; 6 x Battlewagon; 3 x Bikeboyz.
+
+Ork Warband detachment, _Naffgul's Shooty Boyz_::
+1 x Warboss in Stompa; 12 x Ork unit; 3 x Shooty Boyz unit; 4 x Gretchin unit; 2 x Stompa.
+
+[TIP]
+.Ready-made force list in the Detachment Builder
+====
+link:https://builder.epicremastered.com/print_21_unitlist.lc?listname=Ork+army+detachments+for+Refight+5&listurl=https%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_Ork_Warlord%26force%3DWarlord+Nah-Badun+an%60+der+Retinue%7E502%7E109x1%7E506%7E511%7E111x1%7E517%7E117x2%7E528%7E128x2%0D%0Ahttps%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_Ork_Kult%26force%3DDa+Chargerz%7E501%7E502%7E522%7E122x3%7E528%7E128x3%7E528%7E128x3%0D%0Ahttps%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_Ork_Warband%26force%3DNaffgul%2560s%2520Shooty%2520Boyz%7E501%7E503%7E510%7E110x4%7E510%7E110x4%7E510%7E110x4%7E512%7E112x3%7E517%7E117x4%7E524%7E524%0D%0A[Ork army detachments for Refight 5^]
+====
+
+=== Space Marine army
+
+Space Marine detachment, _Force Specula_::
+1 x Space Marine Captain;  6 x Space Marine unit, with 6 x Devastator option. 
+
+Space Marine detachment, _Force Ceptio_::
+1 x Space Marine Captain, with Land Raider option; 6 x Space Marine unit, with 6 x Assault option. 
++
+****
+Historically, it was _Force Specula_ and _Force Ceptio_ that formed the Imperial line where the Orks planned to break out.
+****
+Space Marine detachment, _Force Odium_::
+1 x Land Raider; 12 x Space Marine unit, with 6 x Rhino option; 2 x Whirlwind.
+
+[TIP]
+.Ready-made force list in the Detachment Builder
+====
+link:https://builder.epicremastered.com/print_21_unitlist.lc?listname=Imperium+army+detachments+for+Refight+5&listurl=https%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_SM_Detachment%26force%3DForce+Specula%7E501%7E502%7E130x1%7E511%7E116x1%7E511%7E116x1%7E511%7E116x1%0D%0Ahttps%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_SM_Detachment%26force%3DForce+Ceptio%7E501%7E502%7E130x1%7E101x1%7E511%7E115x1%7E511%7E115x1%7E511%7E115x1%0D%0Ahttps%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_SM_Detachment%26force%3DForce%2520Odium%7E501%7E511%7E114x1%7E100x1%7E511%7E114x1%7E100x1%7E511%7E114x1%7E100x1%7E511%7E114x1%7E100x1%7E511%7E114x1%7E100x1%7E511%7E114x1%7E100x1%7E524%7E524%7E526%7E101x1%0D%0A[Imperium army detachments for Refight 5^]
+====
+
 == Tactics
+
+The role of the Attacker is perhaps a bit easier than that of the Defender.
+So, the Attacker's tactical considerations are more straightforward.
+There's still plenty to think about in each role though.
 
 === Attacker's tactical considerations
 
-The role of the Attacker is perhaps a bit easier than that of the Defender, and so the Attacker's tactical considerations are more straightforward.
-
----
-
 You'll probably be tempted to invest all of your available points on fast units -- including transport vehicles for as much of your infantry as possible -- and then use March and Assault orders to rush them across the playing area.
 
-On the one hand, if you over-do this with a highly mobile army it can seriously unbalance this scenario and kill the fun.
-On the other hand, you should be mindful that troop transports offer your opponent the opportunity to increase the effect of their firepower, as each hit they get on a transport vehicle may also cause hits on the embarked cargo units.
+On the one hand, if you over-do this with a highly mobile army it can seriously unbalance this scenario.
+On the other hand, you should be mindful that troop transports offer your opponent the opportunity to increase the overall effect of their shooting -- each hit they get on a transport vehicle may also cause hits on the embarked cargo units.
 
-So, consider a more balanced approach: If you include some detachments that have powerful ranged units, you can put these on Overwatch orders (or at least Advance orders) and lay down strong covering fire.
-This affords you a number of benefits:
+So, consider a more balanced approach: If you include some slower detachments that have powerful ranged units, you can put these on Overwatch orders (or at least Advance orders, rather than March or Assault orders) and lay down strong covering fire.
+This makes for a more interesting game and still affords you a number of benefits:
 
-* It will help to off-set the lack of firepower from the detachments that you have on March or Assault orders, and ensure that the Defender doesn't completely dominate the Shooting phase.
-* It forces the Defender to be somewhat cautious as they must be mindful of incoming fire.
+* It will help to off-set the lack of firepower from the detachments that you're rushing forward on March or Assault orders, and ensure that the Defender doesn't completely dominate the Shooting phase.
+* It forces the Defender to be more cautious with their positioning, as they must be mindful of incoming fire.
 * In destroying some enemy units at range, you suppress some of the enemy's return fire and thus minimise casualties among your assault detachments.
 * The casualties you cause and the Blast markers you place on enemy detachments can give you a significant edge in your assaults.
 
@@ -161,6 +200,8 @@ For a start, you should seek to maximise cover for your units and to minimise co
 
 And, remember that you can use hills and buildings to gain better fields of fire for your units.
 
+---
+
 {blank}[TODO: Perhaps comment on effective use of fortifications and hidden setup.]
 
 ---
@@ -184,46 +225,6 @@ Prioritise, and focus on breaking a small number of enemy detachments at a time 
 Once you've reduced a given enemy detachment to half strength, it becomes a low-priority target as it is no longer valid for the Attacker's victory conditions.
 Shift your focus to another detachment that is still above half strength.
 
----
-
-If you play this scenario a number of times, you'll likely find that armies that fare badly in the role of the Attacker tend to do well as defenders, and vice versa.
-
-== Historical forces
-include::partial$footnote-inaccurate-historical-force-lists.adoc[]
-
-=== Ork army
-
-Ork Warlord detachment, _Warlord Nah-Badun an' der Retinue_::
-1 x Warlord, with Battlewagon option; 1 x Weirdboy Battle Tower; 1 x Nobz unit; 1 x Gretchin unit; 2 x Battlewagon.
-
-Ork Kult of Speed detachment, _Da Chargerz_::
-1 x Warboss; 6 x Battlewagon; 3 x Bikeboyz.
-
-Ork Warband detachment, _Naffgul's Shooty Boyz_::
-1 x Warboss in Stompa; 3 x Shooty Boyz unit; 2 x Stompa; 4 x Gretchin unit; 12 x Ork unit.
-
-[TIP]
-.Ready-made list in the Detachment Builder
-====
-link:https://builder.epicremastered.com/print.lc?listname=Ork+army+detachments+for+Refight+5&listurl=https%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_Ork_Warlord%26force%3DWarlord+Nah-Badun+an%60+der+Retinue%7E502%7E109x1%7E506%7E511%7E111x1%7E517%7E117x2%7E528%7E128x2%0D%0Ahttps%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_Ork_Kult%26force%3DDa%2520Chargerz%7E501%7E502%7E522%7E122x3%7E528%7E128x3%7E528%7E128x3%0D%0Ahttps%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_Ork_Warband%26force%3DNaffgul%60s+Shooty+Boyz%7E501%7E503%7E512%7E112x3%7E517%7E117x4%7E524%7E524%7E510%7E110x4%7E510%7E110x4%7E510%7E110x4%0D%0A[Ork army detachments for Refight 5^]
-====
-
-=== Space Marine army
-
-Space Marine detachment, _Force Specula_::
-1 x Space Marine Captain;  6 x Space Marine unit, with Devastator option. 
-
-Space Marine detachment, _Force Ceptio_::
-1 x Space Marine Captain, with Land Raider option; 6 x Space Marine unit, with Assault option. 
-+
 ****
-Historically it was _Force Specula_ and _Force Ceptio_ that formed the Imperial line where the Orks planned to break out.
+If you repeat this scenario with much the same army in both the Attacker and Defender roles, you'll likely find that an army that fares badly in attack tends to do well in defence, and vice versa.
 ****
-Space Marine detachment, _Force Odium_::
-1 x Land Raider; 12 x Space Marine unit, with 6 x Rhino option; 2 x Whirlwind.
-
-[TIP]
-.Ready-made list in the Detachment Builder
-====
-link:https://builder.epicremastered.com/print.lc?listname=Imperium+army+detachments+for+Refight+5&listurl=https%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_SM_Detachment%26force%3DForce+Specula%7E501%7E502%7E130x1%7E511%7E116x1%7E511%7E116x1%7E511%7E116x1%0D%0Ahttps%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_SM_Detachment%26force%3DForce+Ceptio%7E501%7E502%7E130x1%7E101x1%7E511%7E115x1%7E511%7E115x1%7E511%7E115x1%0D%0Ahttps%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_SM_Detachment%26force%3DForce%2520Odium%7E501%7E526%7E511%7E114x1%7E100x1%7E511%7E114x1%7E100x1%7E511%7E114x1%7E100x1%7E511%7E114x1%7E100x1%7E511%7E114x1%7E100x1%7E511%7E114x1%7E100x1%7E524%7E524%0D%0A[Imperium army detachments for Refight 5^]
-====

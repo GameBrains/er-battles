@@ -1,9 +1,15 @@
 = Standard Refight scenarios
 
-Refight scenarios outline confrontations that are 'historical' in the _Warhammer 40,000_ universe.
-They offer ready-made detachments that use the contents of the original {e40k} boxed set to model the 'historical' forces.
+These scenarios outline confrontations that are 'historical' in the _Warhammer 40,000_ universe.
+They offer pre-defined historical forces that use the contents of the original {e40k} boxed set.
+footnote:inaccurate[{e40k-diff}
+In the original {e40k} texts, some historical forces aren't a perfect match for the options and constraints that the corresponding army list defines.
+That's not really a problem; but we wanted to offer convenient links to ready-made (printable) force lists in the Detachment Builder -- and this demands exact selections that the builder offers.
+So, where necessary, our ready-made lists deviate very slightly from the original force lists.
+Also, some Remastered units (and their points values) differ slightly from the originals, as we have updated them to match errata and/or rebalanced them.
+]
 
-You can 're-fight' these scenarios just as we present them, or, in most cases they are easy to adapt for more general usage with different armies and narrative as you see fit.
+You can 're-fight' these scenarios just as we present them, or, in most cases they are easy to use more generally with different armies and narrative as you see fit.
 
 [TIP]
 ====

@@ -89,27 +89,7 @@ Play until either the Ork Gargant is destroyed or both Bunker objectives are des
 * If the Attacker destroys both Bunker objectives, then they win immediately.
 * If the Attacker destroys just one Bunker objective and then their Gargant is destroyed, then the game is a draw.
 
-== Scenario variants
-
-This scenario is meant to introduce you to the core rules, and just a few special rules (including those for War Engine units).
-So it is quite straightforward, and includes only a small number of units.
-
-You might like to play it a few times before you get into anything more complex.
-Even so, you might like to change things a bit to keep it interesting -- so, here are some ideas for variants to try:
-
-* Swap heavy weapons infantry for more tanks: Simply drop _Force Adonis_ and add another armoured detachment like _Force Citus_ instead.
-* Swap tanks for more heavy weapons infantry: Simply drop _Force Citus_ and add another detachment like _Force Adonis_ instead.
-* The defending Imperial force could've been very different.
-Create a different defending force, which will likely present much more of a challenge for the Attacker:
-The Defender may use the Imperial army list to build an army of up to 500 points.
-* Gogard's gargant was barely operational when it attacked the Imperial positions.
-If it had broken down before it arrived for this battle, then Gogard would have had to cobble together a different force of Orks to attack with.
-Create a different attacking force:
-The Attacker may use the Ork army list to build an army of up to 500 points.
-
 == Historical forces
-
-include::partial$footnote-inaccurate-historical-force-lists.adoc[]
 
 === Orks army
 
@@ -119,7 +99,7 @@ Ork Gargants detachment::
 {blank}[TODO: Create new data sheet for _Korps Grinda_/Great Gargant. In the meantime, see https://thehobby.zone/resources/e40k-compendium/Content/Resources/Images/Illustrations/BattlesBook/Refight1GogardsLastStand_KorpsGrindaDataCard.gif[^]]
 
 [TIP]
-.Ready-made list in the Detachment Builder
+.Ready-made force list in the Detachment Builder
 ====
 link:https://builder.epicremastered.com/print.lc?listname=Ork+army+detachments+for+Refight+1&listurl=https%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_Ork_Gargants%26force%3DKorps+Grinda%7E503&submitbuttonname=Submit[Ork army detachments for Refight 1^]
 ====
@@ -134,7 +114,25 @@ Space Marine detachment, _Force Lentus_::
 1 x Space Marine Captain, with Rhino option; 6 x Space Marine unit, with 3 x Rhino option.
 
 [TIP]
-.Ready-made list in the Detachment Builder
+.Ready-made force list in the Detachment Builder
 ====
 link:https://builder.epicremastered.com/print.lc?listname=Imperium+army+detachments+for+Refight+1&listurl=https%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_SM_Armoured%26force%3DForce%2520Citus%7E501%7E512%7E101x2%7E512%7E101x2%0D%0Ahttps%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_SM_Detachment%26force%3DForce+Adonis%7E501%7E502%7E130x1%7E511%7E116x1%7E511%7E116x1%0D%0Ahttps%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_SM_Detachment%26force%3DIncompertus%7E501%7E502%7E130x1%7E100x1%7E511%7E114x1%7E100x1%7E511%7E114x1%7E100x1%7E511%7E114x1%7E100x1%0D%0A[Imperium army detachments for Refight 1^]
 ====
+
+== Scenario variants
+
+This scenario is meant to introduce you to the core rules, and just a few special rules (including those for War Engine units).
+So it is quite straightforward, and includes only a small number of units.
+
+You might like to play it a few times before you get into anything more complex.
+Even so, you might like to change things a bit to keep it interesting -- so, here are some ideas for variants to try:
+
+* Swap the Defender's heavy weapons infantry for more tanks: Simply drop _Force Adonis_ and add another armoured detachment like _Force Citus_ instead.
+* Swap the Defender's tanks for more heavy weapons infantry: Simply drop _Force Citus_ and add another detachment like _Force Adonis_ instead.
+* The defending Imperial force could've been very different.
+Create a different defending force, which will likely present much more of a challenge for the Attacker:
+The Defender may use the Imperial army list to build an army of up to 500 points.
+* Gogard's gargant was barely operational when it attacked the Imperial positions.
+If it had broken down before it arrived for this battle, then Gogard would have had to cobble together a different force of Orks to attack with.
+Create a different attacking force:
+The Attacker may use the Ork army list to build an army of up to 500 points.

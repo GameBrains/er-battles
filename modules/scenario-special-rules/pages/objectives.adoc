@@ -78,21 +78,7 @@ You must place this objective marker inside your opponent's deployment zone.
 * *Game effects and control*:
 The bunker objective marker represents a static unit that has these characteristics:
 +
-[cols="2,6*^,3"]
-.Bunker data sheet
-|===
-|Unit |Type |Speed |Range |Firepower |Assault |Armour |Notes
-
-|Bunker
-|WE
-|0 cm
-|0 cm
-|0
-|2
-|6+
-|Damage Capacity 3
-
-|===
+include::partial$bunker-data-sheet.adoc[]
 +
 Your goal with this objective is to use shooting and/or assaults to attack and destroy the bunker.
 +

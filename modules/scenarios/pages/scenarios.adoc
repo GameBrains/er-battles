@@ -1,2 +1,13 @@
 = Scenarios
 
+These rules give you step-by-step instructions for how to set up and play battles of many different types.
+
+We recommend that you start with the simplest scenarios and with small forces that don't specify many special rules.
+As you become more fluent with the rules and gameplay, then gradually try more complex scenarios, bigger forces and more special rules.
+
+The step-by-step instructions in these scenarios are meant to make the scenarios as easy to understand and use as possible.
+footnote:[{e40k-diff}
+{project-name} versions of {e40k} scenarios contain more text than the originals -- but, you should find them much easier to understand and use.
+The original versions mix instructions and omit information to the extent that they can be quite difficult to interpret.
+]
+But of course you should feel free to adapt the scenarios or invent new ones, if you want to.

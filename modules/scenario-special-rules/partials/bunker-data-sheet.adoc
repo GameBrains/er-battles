@@ -1,0 +1,18 @@
+[.scrollable]
+--
+[cols="2,6*^,3"]
+.Bunker data sheet
+|===
+|Unit |Type |Speed |Range |Firepower |Assault |Armour |Notes
+
+|Bunker
+|WE
+|0 cm
+|0 cm
+|0
+|2
+|6+
+|Damage Capacity 3
+
+|===
+--

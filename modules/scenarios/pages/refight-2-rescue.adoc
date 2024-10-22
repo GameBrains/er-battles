@@ -1,12 +1,116 @@
 = Refight 2: Rescue
 
-{blank}[TODO: In the meantime, see link:https://thehobby.zone/resources/e40k-compendium/Content/Battles/TheScenarios/Refight2Rescue.htm[^]]
+== Narrative background
 
-## Historical forces
+include::partial$note-narrative-summary.adoc[]
+(See link:https://thehobby.zone/resources/e40k-compendium/Content/Battles/TheScenarios/Refight2Rescue.htm[^])
 
-### Orks
+{blank}[TODO: Create a summary of the narrative.]
 
-*Builder*: link:https://builder.epicremastered.com/print.lc?listname=Ork+army+detachments+for+Refight+4&listurl=https%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_Ork_Warband%26force%3DGazbold%60s+Speed+Boyz%7E501%7E502%7E109x1%7E516%7E116x3%7E511%7E111x1%7E511%7E111x1%7E511%7E111x1%7E511%7E111x1%7E511%7E111x1%7E511%7E111x1%7E513%7E113x4%7E522%7E122x3%7E506%7E528%7E128x3%7E528%7E128x3%7E528%7E128x1%0D%0Ahttps%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_Ork_Warband%26force%3DWaaa-Dreg%2560s%2520Stompas%7E501%7E503%7E520%7E512%7E112x1%7E512%7E112x1%7E512%7E112x1%7E524%7E524%7E517%7E117x4%7E510%7E110x4%7E510%7E110x4%7E510%7E110x4%7E506%0D%0A[Ork army detachments for Refight 2^]
+== Scenario special rules
+
+xref:scenario-special-rules:objectives.adoc[] (only the 'game effects and control' parts of the Rescue objective rules, not the placement or morale effect rules)
+
+== Armies
+
+include::partial$refights-armies.adoc[]
+
+[TIP]
+====
+Be mindful that armies that field a lot of fast-moving transport vehicles -- especially transport flyers, skimmers and fast attack vehicles -- are apt to unbalance this scenario.
+
+Therefore, we recommend that you and your opponent agree to limit such units in your army builds for this scenario.
+====
+
+== Maps
+
+NOTE: The map and dimensions in the original {e40k} rules content are ambiguous and incompatible with the 180 cm length of the standard playing area.
+This implies that the designers intended a larger-than-usual playing area for this scenario.
+So, we present two different layouts for you to choose from -- one with the original dimensions for use with a larger playing area, and one with dimensions we suggest to suit the standard-sized playing area.
+
+* Fixed deployment edges and zones -- refer to the maps.
+
+.Original dimensions (recommended): Requires larger playing area (240x120 cm)
+image::map-refight-2-rescue-240.svg[alt="Deployment map for the Rescue scenario, based on extended playing area (240x120 cm)",499,294]
+
+.Compressed dimensions (alternative): To suit the standard-sized playing area (180x120 cm)
+image::map-refight-2-rescue-180.svg[alt="Deployment map for the Rescue scenario, based on standard playing area (180x120 cm)",392,294]
+
+[none]
+.Legend
+* [.conum]#A# Attacker's deployment zone.
+* [.conum]#D# Defender's garrison deployment zone. 
+
+== Setup
+
+. xref:get-ready-to-play:set-up-terrain.adoc[Set up terrain] in the standard way.
+. Decide *at random* which player will be the *Attacker* and which the *Defender*.
+. Choose your xref:scenario-special-rules:objectives.adoc[objectives], as follows:
+* *Attacker*: You have no objectives of your own.
+Instead, your mission is to interfere with the Defender's rescue mission (see <<Game length and victory conditions>>).
+* *Defender*: You have a single Rescue objective.
+. *Defender*: Place your Rescue objective marker anywhere within the Defender's garrison deployment zone [.conum]#D# (see <<Maps>>).
+
+IMPORTANT: Usually, you may only make the *initial* pick-up of a Rescue objective if it is *your* objective.
+For this scenario, if the Defender's forces have not picked up the Rescue objective and the Attacker's forces reach a position where they could otherwise make the initial pick-up, then they may do so.
+
+{blank}[TODO: Clarify whether or not (and how) the Defender may choose to transfer the Rescue objective from one unit to another. The Defender might want or need to transfer the objective from a garrison unit that picked it up initially to another unit, perhaps to one in a relief force detachment. I think that the tactical suggestions, and practicalities of the distance to cover within 6 turns for a successful rescue, imply that this should be allowed -- but as far as I can recall, the rules don't actually make it explicit anywhere. Probably we should clarify this as a general thing in the Rescue objective rules first, and then add a reminder somewhere in this scenario.]
+
+== Disposition of forces
+
+*Attacker*: Determine the disposition of your forces.
+
+. Place all of your Flyer detachments in xref:scenario-special-rules:reserves.adoc[Reserves].
+. If you have any detachments that qualify for the Reserves rules on their own merit, place them in Reserves.
+. Keep all of your other detachments at hand for your initial deployment.
+
+*Defender*: Determine the disposition of your forces.
+
+. Place all of your Flyer detachments in xref:scenario-special-rules:reserves.adoc[Reserves].
+. If you have any detachments that qualify for the Reserves rules on their own merit, place them in Reserves.
+. Choose detachments up to a total of a quarter of your army's maximum points value limit as the garrison force that protects the vital assassin.
+You may only use complete detachments in the garrison force.
+Keep this force at hand for initial deployment.
+. The remainder of your detachments form your relief force.
+Keep this force at hand for initial deployment.
+
+== Initial deployment
+
+. *Defender*: Deploy all of the detachments of your garrison force.
+* Deploy within the Defender's garrison deployment zone [.conum]#D# (see <<Maps>>).
+. *Attacker*: Deploy all of the detachments that you kept at hand for your initial deployment.
+. *Defender*: Do not deploy any detachments yet.
+Instead, place HQ units to indicate where the detachments you kept at hand for the relief force will enter play during the first turn of the game.
+.. Pick an HQ unit to be first, and place it to indicate any point along your deployment edge.
+.. Each other HQ unit you place must indicate a point that is on your deployment edge *and* within 15 cm of the point that your first HQ unit indicates.
+You may 'stack' multiple HQ units in a column, to indicate the same point on your deployment edge -- you might want to do this where a road crosses the table edge, for example.
+.. Each player may choose one detachment per 1,000 points of the maximum points value limit (or part thereof -- round up) to be a *flanking* detachment, if they wish.
+You may place the HQ units of your flanking detachments to indicate any point along your deployment edge, rather than only within 15 cm of the point you indicated with the first HQ unit you placed.
+
+== Play the game
+
+include::partial$start-usual.adoc[]
+
+.Reserves
+// include::partial$bringing-reserves-detachments-into-play.adoc[]
+*Attacker*: You may bring your Reserves detachments into play anywhere along ????.
+{blank}[TODO: The original version of this scenario made no accommodation for Reserves. Can we integrate them sensibly, so we can include aircraft and whatnot? In particular, where should the Attacker's Reserves detachments enter play?]
+
+*Defender*: If you have any Reserves detachments then, as they arrive, bring them into play anywhere along your deployment edge (see <<Maps>>).
+
+== Game length and victory conditions
+
+To win this scenario, the Defender must exit the Rescue objective marker off of the Defender's deployment edge by the end of Turn 6.
+
+If the Defender has control of the objective marker but hasn't moved it off of the play area by the end of Turn 6, then the result is a draw.
+
+If the Attacker has control of the objective marker at the end of any turn then they win immediately.
+
+Any other result is a draw.
+
+== Historical forces
+
+=== Orks army
 
 Ork Warband detachment, _Badruk's Speedas_::
 1 x Warboss in Stompa; 6 x Ork unit; 6 x Gunwagon.
@@ -17,9 +121,13 @@ Ork Warband detachment, _Urglag's Blastas_::
 Ork Warband detachment, _Grizzard da Magnifisunt (an' der Ladz)_::
 1 x Warboss in Stompa; 3 x Boarboyz unit; 3 x Stormboyz unit; 3 x Kommandos unit; 3 x Bikeboyz unit; 2 x Gunwagon.
 
-### Space Marines
+[TIP]
+.Ready-made force list in the Detachment Builder
+====
+link:https://builder.epicremastered.com/print_21_unitlist.lc?listname=Ork+army+detachments+for+Refight+2&listurl=https%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_Ork_Warband%26force%3DBadruk%60s+Speedas%7E501%7E503%7E510%7E110x3%7E510%7E110x3%7E528%7E128x3%7E528%7E128x3%0D%0Ahttps%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_Ork_Warband%26force%3DUrglag%60s+Blastas%7E501%7E503%7E512%7E112x3%7E523%7E123x3%0D%0Ahttps%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_Ork_Warband%26force%3DGrizzard%2520da%2520Magnifisunt%2520%28an%2560%2520der%2520Ladz%29%7E501%7E503%7E513%7E113x3%7E515%7E115x3%7E516%7E116x3%7E522%7E122x3%7E528%7E128x2%0D%0A[Ork army detachments for Refight 2^]
+====
 
-*Builder*: link:https://builder.epicremastered.com/print.lc?listname=Imperium+army+detachments+for+Refight+2&listurl=https%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_SM_Detachment%26force%3DForce+Hachiman%7E501%7E502%7E130x1%7E511%7E115x1%7E511%7E115x1%7E513%7E513%0D%0Ahttps%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_SM_Armoured%26force%3DForce+Kharira%7E501%7E512%7E112x3%7E512%7E112x2%7E514%7E114x3%7E514%7E114x2%0D%0Ahttps%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_SM_Detachment%26force%3DForce%2520Krysha%7E501%7E502%7E130x1%7E100x1%7E511%7E114x1%7E100x1%7E511%7E114x1%7E100x1%7E511%7E114x1%7E100x1%0D%0A&submitbuttonname=Submit[Imperium army detachments for Refight 2^]
+=== Space Marines army
 
 Space Marine detachment, _Force Hachiman_::
 1 x Space Marine Captain; 4 x Space Marine unit, with Assault option; 2 x Scout unit.
@@ -28,8 +136,61 @@ Space Marine detachment, _Force Hachiman_::
 Historically, _Force Hachiman_ defended the assassin.
 ****
 
-Space Marine Armoured detachment, _Force Kharira_::
+Space Marine Armour detachment, _Force Kharira_::
 5 x Land Raider; 5 x Whirlwind.
 
 Space Marine detachment, _Force Krysha_::
 1 x Space Marine Captain, with Rhino option; 6 x Space Marine unit, with 3 x Rhino option.
+
+[TIP]
+.Ready-made force list in the Detachment Builder
+====
+link:https://builder.epicremastered.com/print_21_unitlist.lc?listname=Imperium+army+detachments+for+Refight+2&listurl=https%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_SM_Detachment%26force%3DForce+Hachiman%7E501%7E502%7E130x1%7E511%7E115x1%7E511%7E115x1%7E513%7E513%0D%0Ahttps%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_SM_Armoured%26force%3DForce%2520Kharira%7E501%7E512%7E101x3%7E512%7E101x2%7E514%7E114x3%7E514%7E114x2%0D%0Ahttps%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_SM_Detachment%26force%3DForce+Krysha%7E501%7E502%7E130x1%7E100x1%7E511%7E114x1%7E100x1%7E511%7E114x1%7E100x1%7E511%7E114x1%7E100x1%0D%0A[Imperium army detachments for Refight 2^]
+====
+
+== Tactics
+
+=== Attacker's tactics
+
+You have two extremes to consider:
+
+* Use the bulk of your army to engage and stall the Defender's relief force; and use a smaller force with which you will attempt to pry the assassin loose of her garrison bodyguards.
+If you can stabilise the rearward situation, then you may be able to redirect part of your rearguard to overwhelm the garrison.
++
+*OR*
++
+* Use as much of your army as possible to attack the garrison at the outset; in effect, fight on a single front in the hope that you can overwhelm the garrison and secure the objective before the Defender's relief force can do enough to stop you in a two-front fight.
+
+=== Defender's tactics
+
+Your garrison force needs to be able to hold its own until your relief force can help it.
+
+You should probably consider a mix of infantry equipped with heavy weapons, and tough assault units.
+
+* Deploy the heavy weapons infantry with a good view of the enemy approach, and put them on Overwatch orders.
+* Surround the Rescue objective marker with the best all-round infantry you have (effectively, bodyguards for the assassin).
+Some good examples include Space Marine Terminators, Imperial Ogryns, Ork Nobz, and similarly powerful infantry units.
+* Be mindful of enemy {barrage} weapons -- if you pack your garrison units too tightly then you'll suffer extra casualties from enemy artillery, that you could've avoided.
+
+Or, you might consider a fast-moving garrison force, with the hope that you can pierce the Attacker's battle line and break through to join up with your relief force.
+For this to work, your garrison force must be able to move very fast, and you'll need to time your break-through attempt carefully.
+Otherwise, you'll find your garrison force overwhelmed by the superior attacking force before your relief force can affect the outcome.
+
+---
+
+For your relief force, you'll probably do best if you consider it in two parts:
+
+* Engagement: A general range of tanks, artillery and war engines to engage and destroy enemy detachments -- or at least keep them busy while your other forces complete the rescue operation.
+* Rescue: Some fast but hard-hitting units that you can use to give direct aid to the garrison force -- either to force their way through to effect the rescue themselves, or to assist a break-through by the garrison force.
+
+Of course your opponent knows that they must deal with an attack from rearward, and will plan for this.
+Nonetheless, this is a big disadvantage for them.
+
+To exploit this to best effect, work out which enemy detachments your opponent will likely use to spearhead the assault on your garrison force and prioritise these for attack.
+The more pressure you can take off of your garrison force, the better.
+
+* Ideally, if you can catch the enemy spearhead troops with your own assault troops in your relief force, do so.
+The resulting combat is likely to be more disruptive to your opponent's plans, in comparison to shooting.
+* Those you can't catch, weaken with your long-range firepower and super-heavy weapons.
+
+Remember, your goal is to rescue the assassin (extract the Rescue objective marker) -- don't let tempting targets distract you from higher-priority activities that have more bearing on the success of your mission.

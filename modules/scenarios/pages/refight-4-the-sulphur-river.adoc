@@ -1,28 +1,134 @@
 = Refight 4: The Sulphur River
 
-{blank}[TODO: In the meantime, see link:https://thehobby.zone/resources/e40k-compendium/Content/Battles/TheScenarios/Refight4TheSulphurRiver.htm[^]]
+== Narrative background
 
-## Historical forces
+include::partial$note-narrative-summary.adoc[]
+(See link:https://thehobby.zone/resources/e40k-compendium/Content/Battles/TheScenarios/Refight4TheSulphurRiver.htm[^])
 
-### Orks
+{blank}[TODO: Create a summary of the narrative.]
 
-* link:https://builder.epicremastered.com/print.lc?listname=Ork+army+detachments+for+Refight+4&listurl=https%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_Ork_Warband%26force%3DGazbold%60s+Speed+Boyz%7E501%7E502%7E109x1%7E505%7E516%7E116x3%7E511%7E111x1%7E511%7E111x1%7E511%7E111x1%7E511%7E111x1%7E511%7E111x1%7E511%7E111x1%7E513%7E113x4%7E522%7E122x3%7E520%7E520%7E520%7E520%7E520%7E520%7E520%0D%0Ahttps%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_Ork_Warband%26force%3DWaaa-Dreg%2560s%2520Stompas%7E501%7E503%7E505%7E520%7E512%7E112x1%7E512%7E112x1%7E512%7E112x1%7E524%7E524%7E517%7E117x4%7E510%7E110x4%7E510%7E110x4%7E510%7E110x4%0D%0A[Ork army detachments for Refight 4^]
+== Scenario special rules
+
+None.
+
+== Armies
+
+include::partial$refights-armies.adoc[]
+
+For ideas to vary this scenario, see <<Scenario variants>>.
+
+== Maps
+
+.Essential terrain
+* A river, with two bridges over it.
+
+.Deployment
+* Standard deployment edges.
+* No deployment zones.
+
+[.float-group]
+--
+[.left]
+.Long deployment edge
+image::map-refight-4-the-sulphur-river-long.svg[alt="Deployment map for The Sulphur River scenario (long deployment edge)",392,294]
+
+[.left]
+.Short deployment edge
+image::map-refight-4-the-sulphur-river-short.svg[alt="Deployment map for The Sulphur River scenario (short deployment edge)",392,294]
+
+[.left]
+.Corner deployment edge
+image::map-refight-4-the-sulphur-river-corner.svg[alt="Deployment map for The Sulphur River scenario (corner deployment edge)",392,294]
+--
+
+== Setup
+
+. Place a wide river with two bridges across it, as we show at <<Maps>>.
+Place the bridges such that each of the two armies can reach the bridge that is nearest to them in the first turn.
+. xref:get-ready-to-play:set-up-terrain.adoc[Set up terrain] in the rest of the playing area in the standard way.
+. Determine at random which player may choose which table edge they prefer as the basis for their deployment.
+The other player gets the opposite table edge.
+See <<Maps>>.
+
+== Disposition of forces
+
+Determine the disposition of your forces.
+
+. Place all of your Flyer detachments in xref:scenario-special-rules:reserves.adoc[Reserves].
+. If you have any detachments that qualify for the Reserves rules on their own merit, place them in Reserves.
+. Keep all of your other detachments at hand for your initial deployment.
+
+== Initial deployment
+
+include::partial$edge-deployment-procedure.adoc[]
+
+== Play the game
+
+include::partial$start-usual.adoc[]
+
+.The Sulphur River
+The Sulphur River is highly corrosive, so it is impassable terrain for all ground units (except at the bridges, of course).
+
+include::partial$bringing-reserves-detachments-into-play.adoc[]
+
+== Game length and victory conditions
+
+The goal is to control both bridges.
+To control a bridge, you must have at least one of your units on the bridge, and no enemy units.
+
+The game lasts D3+3 turns.
+{blank}[TODO: Clarify: When exactly should we make this roll? Before or after deployment?]
+
+When the game ends, determine the result as follows:
+
+* If a player controls both bridges, then this player wins a major victory.
+* If a player controls one bridge and disputes the other, then this player achieves a minor victory.
+* If the opposing players each control one bridge, or dispute both bridges, then the result is a draw.
+
+[NOTE.option]
+.Victory or Death!
+====
+For a real bloodbath, if both players agree, ignore the limit of D3+3 turns.
+Instead, play this scenario for as many turns as it takes until one player can claim victory by virtue of the fact that their opponent has no units left!
+====
+
+== Historical forces
+
+=== Orks army
 
 Ork Warband detachment, _Gazbold's Speed Boyz_::
 1 x Warboss; 1 x Weirdboy Battle Tower; 3 x Kommando unit; 6 x Nobz unit; 3 x Boarboyz unit; 3 x Bikeboyz unit;  7 x Battlewagon.
 
 Ork Warband detachment, _Waaa-Dreg's Stompas_::
-1 x Warboss in Stompa; 1 x Weirdboy Battle Tower; 3 x Shooty Boyz; 2x Stompa; 4 x Gretchin unit; 12 x Ork unit.
+1 x Warboss in Stompa; 1 x Weirdboy Battle Tower; 12 x Ork unit; 3 x Shooty Boyz unit; 4 x Gretchin unit; 2 x Stompa.
 
-### Space Marines
+[TIP]
+.Ready-made force list in the Detachment Builder
+====
+link:https://builder.epicremastered.com/print_21_unitlist.lc?listname=Ork+army+detachments+for+Refight+4&listurl=https%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_Ork_Warband%26force%3DGazbold%60s+Speed+Boyz%7E501%7E502%7E506%7E516%7E116x3%7E511%7E111x3%7E511%7E111x3%7E513%7E113x3%7E522%7E122x3%7E520%7E520%7E520%7E520%7E520%7E520%7E520%0D%0Ahttps%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_Ork_Warband%26force%3DWaaa-Dreg%2560s%2520Stompas%7E501%7E503%7E506%7E510%7E110x4%7E510%7E110x4%7E510%7E110x4%7E517%7E117x4%7E512%7E112x3%7E524%7E524%0D%0A[Ork army detachments for Refight 4^]
+====
 
-* link:https://builder.epicremastered.com/print.lc?listname=Imperium+army+detachments+for+Refight+4&listurl=https%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_SM_Detachment%26force%3DForce+Firmus%7E501%7E502%7E130x1%7E100x1%7E511%7E100x1%7E115x1%7E511%7E100x1%7E115x1%7E511%7E114x1%7E100x1%7E512%7E124x2%7E510%7E101x1%7E526%7E526%0D%0Ahttps%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_SM_Detachment%26force%3DForce+Tardus%7E501%7E502%7E130x1%7E100x1%7E511%7E114x1%7E100x1%7E511%7E114x1%7E100x1%7E526%7E526%0D%0Ahttps%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_SM_Armoured%26force%3DForce%2520Supra%7E501%7E514%7E114x3%7E514%7E114x3%0D%0A[Imperium army detachments for Refight 4^]
+=== Space Marines army
 
 Space Marine detachment, _Force Firmus_::
-1x Space Marine Captain, with Rhino option; 4 x Space Marine unit, with Assault option and Rhino option; 2 x Space Marine unit, with Rhino option; 2 x Space Marine Bike unit; 1 x Terminator unit, with Land Raider option; 2 x Land Raider.
+1x Space Marine Captain, with Rhino option; 4 x Space Marine unit, with 4 x Assault option and 2 x Rhino option; 2 x Space Marine unit, with Rhino option; 2 x Space Marine Bike unit; 1 x Terminator unit, with Land Raider option; 2 x Land Raider.
 
 Space Marine detachment, _Force Tardus_::
-1 x Space Marine Captain, with Rhino option; 4 x Space Marine unit, with Devastator option and 3 x Rhino option; 2 x Land Raider.
+1 x Space Marine Captain, with Rhino option; 4 x Space Marine unit, with 4 x Devastator option and 2 x Rhino option; 2 x Land Raider.
 
-Space Marine Armoured detachment, _Force Supra_::
+Space Marine Armour detachment, _Force Supra_::
 6 x Whirlwind.
+
+[TIP]
+.Ready-made force list in the Detachment Builder
+====
+link:https://builder.epicremastered.com/print_21_unitlist.lc?listname=Imperium+army+detachments+for+Refight+4&listurl=https%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_SM_Detachment%26force%3DForce+Firmus%7E501%7E502%7E130x1%7E100x1%7E511%7E100x1%7E115x1%7E511%7E100x1%7E115x1%7E511%7E114x1%7E100x1%7E512%7E124x2%7E510%7E101x1%7E526%7E101x1%7E526%7E101x1%0D%0Ahttps%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_SM_Detachment%26force%3DForce%2520Tardus%7E501%7E502%7E130x1%7E100x1%7E511%7E100x1%7E116x1%7E511%7E100x1%7E116x1%7E526%7E101x1%7E526%7E101x1%0D%0Ahttps%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_SM_Armoured%26force%3DForce+Supra%7E501%7E514%7E114x3%7E514%7E114x3%0D%0A[Imperium army detachments for Refight 4^]
+====
+
+== Scenario variants
+
+Bridges are often of great strategic and tactical importance, so battles to control them are common.
+
+For a simple variation that can represent other historical battles, if both players agree, simply allow the Space Marines to use drop pods to deploy (see xref:scenario-special-rules:drop-pods.adoc[]).
+
+{blank}[TODO: Clarify: This variation doesn't really seem to make sense with the given historical forces, as each of the Space Marine detachments includes Vehicle units that the rules do not normally allow for drop pods (and not just Rhino transport vehicles, which are the usual 'trade' for drop pods -- there's also 5 Land Raiders, and 6 Whirlwinds that comprise an entire detachment). Should we ignore the usual restrictions and allow such units in the historical force to deploy via drop pods alongside the rest for this scenario? Or do something else?]

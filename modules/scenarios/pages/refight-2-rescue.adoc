@@ -9,7 +9,7 @@ include::partial$note-narrative-summary.adoc[]
 
 == Scenario special rules
 
-None.
+xref:scenario-special-rules:objectives.adoc[] (only the 'game effects and control' parts of the Rescue objective rules, not the placement or morale effect rules)
 
 == Armies
 
@@ -25,8 +25,10 @@ Therefore, we recommend that you and your opponent agree to limit such units in 
 == Maps
 
 NOTE: The map and dimensions in the original {e40k} rules content are ambiguous and incompatible with the 180 cm length of the standard playing area.
-We believe that the designers intended a larger-than-usual playing area for this scenario.
+This implies that the designers intended a larger-than-usual playing area for this scenario.
 So, we present two different layouts for you to choose from -- one with the original dimensions for use with a larger playing area, and one with dimensions we suggest to suit the standard-sized playing area.
+
+* Fixed deployment edges and zones -- refer to the maps.
 
 .Original dimensions (recommended): Requires larger playing area (240x120 cm)
 image::map-refight-2-rescue-240.svg[alt="Deployment map for the Rescue scenario, based on extended playing area (240x120 cm)",499,294]
@@ -52,7 +54,7 @@ Instead, your mission is to interfere with the Defender's rescue mission (see <<
 IMPORTANT: Usually, you may only make the *initial* pick-up of a Rescue objective if it is *your* objective.
 For this scenario, if the Defender's forces have not picked up the Rescue objective and the Attacker's forces reach a position where they could otherwise make the initial pick-up, then they may do so.
 
-{blank}[TODO: Clarify whether or not (and how) the Defender may choose to transfer the Rescue objective from one unit to another. The Defender might want or need to transfer the objective from a garrison unit that picked it up initially to another unit, perhaps to one in a relief force detachment. Probably we should clarify this as a general thing in the Rescue objective rules first, and then add a reminder somewhere in this scenario.]
+{blank}[TODO: Clarify whether or not (and how) the Defender may choose to transfer the Rescue objective from one unit to another. The Defender might want or need to transfer the objective from a garrison unit that picked it up initially to another unit, perhaps to one in a relief force detachment. I think that the tactical suggestions, and practicalities of the distance to cover within 6 turns for a successful rescue, imply that this should be allowed -- but as far as I can recall, the rules don't actually make it explicit anywhere. Probably we should clarify this as a general thing in the Rescue objective rules first, and then add a reminder somewhere in this scenario.]
 
 == Disposition of forces
 
@@ -148,20 +150,20 @@ link:https://builder.epicremastered.com/print_21_unitlist.lc?listname=Imperium+a
 
 == Tactics
 
-=== Attacker's tactical considerations
+=== Attacker's tactics
 
 You have two extremes to consider:
 
 * Use the bulk of your army to engage and stall the Defender's relief force; and use a smaller force with which you will attempt to pry the assassin loose of her garrison bodyguards.
 If you can stabilise the rearward situation, then you may be able to redirect part of your rearguard to overwhelm the garrison.
 +
-*or*
+*OR*
 +
 * Use as much of your army as possible to attack the garrison at the outset; in effect, fight on a single front in the hope that you can overwhelm the garrison and secure the objective before the Defender's relief force can do enough to stop you in a two-front fight.
 
-=== Defender's tactical considerations
+=== Defender's tactics
 
-The force that you deploy in garrison deployment zone [.conum]#D# needs to be able to hold it's own until your relief force can help them.
+Your garrison force needs to be able to hold its own until your relief force can help it.
 
 You should probably consider a mix of infantry equipped with heavy weapons, and tough assault units.
 

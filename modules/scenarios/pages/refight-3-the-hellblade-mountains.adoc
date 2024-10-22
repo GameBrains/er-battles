@@ -17,11 +17,12 @@ include::partial$refights-armies.adoc[]
 
 == Maps
 
-* The Attacker's deployment zone extends from their pre-determined deployment edge to 20 cm onto the table.
-* The Defender's deployment zone extends from their pre-determined deployment edge to the half-way line.
+.Essential terrain
 * Two areas of foothills, each flanking the Defender's side of the playing area.
-* The Attacker has two 'flanking deployment edges', one adjacent to each area of foothills.
-(The Attacker will choose *one* of these to use -- but the Defender will not know which until the Attacker's flanking force arrives.)
+
+.Deployment
+* Fixed deployment edges and zones -- refer to the map.
+* The Attacker has two possible edges for 'flanking deployment', one adjacent to each area of foothills.
 footnote:[{e40k-diff}
 The original {e40k} content is ambiguous about the exact extent of these edges.
 We indicate the extent that we think is the most sensible.
@@ -156,7 +157,7 @@ At the start of the game, the Defender has their entire army in the playing area
 The Defender must capitalise on this early advantage as much as possible, before the Attacker's flanking force arrives in the second turn.
 The Attacker has a golden opportunity to strike at detachments that might otherwise be difficult to reach, especially if they have a relatively slow-moving army.
 
-=== Attacker's tactical considerations
+=== Attacker's tactics
 
 The larger you make your flanking force, the weaker the main force you'll deploy and then manoeuvre in the first turn.
 But, a faint heart won't win the day: 
@@ -171,7 +172,7 @@ Think of the mayhem you could cause with a company of Baneblade super-heavy tank
 In any case, whatever the size and composition of your flanking force, it gives you the advantage of knowledge that your opponent doesn't have.
 In the early stages of the battle, your opponent is forced to be somewhat conservative and reactive.
 
-=== Defender's tactical considerations
+=== Defender's tactics
 
 In general, the flank attack is less of a worry for a Defender who has a highly mobile army, and more of a worry for a Defender who has slow-moving army.
 And the flank attack might present a more valuable opportunity for an Attacker who has a slow-moving army rather than a highly mobile army.

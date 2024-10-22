@@ -19,9 +19,12 @@ For ideas to vary this scenario, see <<Scenario variants>>.
 
 == Maps
 
+.Essential terrain
+* A river, with two bridges over it.
+
+.Deployment
 * Standard deployment edges.
 * No deployment zones.
-* A river, with two bridges over it.
 
 [.float-group]
 --
@@ -74,7 +77,7 @@ The goal is to control both bridges.
 To control a bridge, you must have at least one of your units on the bridge, and no enemy units.
 
 The game lasts D3+3 turns.
-{blank}[TODO: When exactly should we make this roll? Before or after deployment?]
+{blank}[TODO: Clarify: When exactly should we make this roll? Before or after deployment?]
 
 When the game ends, determine the result as follows:
 
@@ -126,9 +129,6 @@ link:https://builder.epicremastered.com/print_21_unitlist.lc?listname=Imperium+a
 
 Bridges are often of great strategic and tactical importance, so battles to control them are common.
 
-For a simple variation that can represent other historical battles, if both players agree, simply allow the Space Marines to use the Drop Pods rules to deploy.
+For a simple variation that can represent other historical battles, if both players agree, simply allow the Space Marines to use drop pods to deploy (see xref:scenario-special-rules:drop-pods.adoc[]).
 
 {blank}[TODO: Clarify: This variation doesn't really seem to make sense with the given historical forces, as each of the Space Marine detachments includes Vehicle units that the rules do not normally allow for drop pods (and not just Rhino transport vehicles, which are the usual 'trade' for drop pods -- there's also 5 Land Raiders, and 6 Whirlwinds that comprise an entire detachment). Should we ignore the usual restrictions and allow such units in the historical force to deploy via drop pods alongside the rest for this scenario? Or do something else?]
-
-.Related information
-* xref:scenario-special-rules:drop-pods.adoc[]

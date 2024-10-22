@@ -9,7 +9,7 @@ include::partial$note-narrative-summary.adoc[]
 
 == Scenario special rules
 
-None.
+xref:scenario-special-rules:objectives.adoc[] (only the 'game effects' parts of the Bunker objective rules, not the placement, control or morale effect rules)
 
 == Armies
 
@@ -20,18 +20,21 @@ However, for ideas to vary this scenario, see <<Scenario variants>>.
 
 == Maps
 
-* The Attacker's deployment zone extends from their pre-determined deployment edge to 20 cm onto the table.
-* The Defender's deployment zone is based on ruins near the centre of the playing area.
-* The Defender has a pre-determined deployment edge.
+.Essential terrain
 * Roads that converge at a 'Y' junction in the centre of the playing area.
-* Seven areas of ruins.
+* Seven areas of ruins, close to the roads.
+
+.Deployment
+* The Attacker has no deployment edge.
+* The Defender has a fixed deployment edge.
+* Fixed deployment zones -- refer to the map.
 
 image::map-refight-1-gogards-last-stand.svg[alt="Deployment map for the Gogard's Last Stand scenario",600,450]
 
 [none]
 .Legend
 * [.conum]#A# Attacker's deployment zone.
-* [.conum]#D# Defender's deployment zone (approximate). 
+* [.conum]#D# Defender's deployment zone (approximate -- actually defined by <<Initial deployment>>). 
 
 == Setup
 
@@ -96,7 +99,7 @@ Play until either the Ork Gargant is destroyed or both Bunker objectives are des
 Ork Gargants detachment::
 1 x Great Gargant (_Korps Grinda_).
 
-{blank}[TODO: Create new data sheet for _Korps Grinda_/Great Gargant. In the meantime, see https://thehobby.zone/resources/e40k-compendium/Content/Resources/Images/Illustrations/BattlesBook/Refight1GogardsLastStand_KorpsGrindaDataCard.gif[^]]
+{blank}[TODO: Create new data sheet for _Korps Grinda_/Great Gargant. In the meantime, we can refer to the original {e40k} content. (See https://thehobby.zone/resources/e40k-compendium/Content/Resources/Images/Illustrations/BattlesBook/Refight1GogardsLastStand_KorpsGrindaDataCard.gif[Korps Grinda data card^])]
 
 [TIP]
 .Ready-made force list in the Detachment Builder

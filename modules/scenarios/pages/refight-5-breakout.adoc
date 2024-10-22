@@ -23,13 +23,13 @@ Therefore, we recommend that for the attacking army you limit the number of tran
 Remember that the game is supposed to be challenging and fun for both players -- not a one-sided stomp-fest.
 
 Conversely, if your playing area is more than the standard 120 cm deep, the attacking army may struggle to cross it in time -- so in that case, we suggest that you increase the game length by one turn for every additional 30 cm of depth.
-{blank}[TODO: Clarify: I'd argue that we could apply the same logic to the deeper setup we get from short-edge deployment and corner deployment options. To me, it seems clear that these deployment options were rather an afterthought, and the designers didn't really consider them in this scenario. Perhaps we should adjust the game length of this scenario for those too?]
+{blank}[TODO: Clarify: I'd argue that this logic should apply not only for playing areas that are physically larger, but also for the greater distances that result from short-edge deployment and corner deployment options on a standard-sized playing area.]
 ====
 
 == Maps
 
 * Standard deployment edges.
-* The Attacker's deployment zone extends from their deployment edge to 20 cm onto the table.
+* The Attacker's deployment zone extends from their deployment edge to 20 cm onto the playing area.
 * The Defender's deployment zone extends from their deployment edge to the half-way line.
 
 [.float-group]
@@ -162,7 +162,7 @@ The role of the Attacker is perhaps a bit easier than that of the Defender.
 So, the Attacker's tactical considerations are more straightforward.
 There's still plenty to think about in each role though.
 
-=== Attacker's tactical considerations
+=== Attacker's tactics
 
 You'll probably be tempted to invest all of your available points on fast units -- including transport vehicles for as much of your infantry as possible -- and then use March and Assault orders to rush them across the playing area.
 
@@ -174,8 +174,8 @@ This makes for a more interesting game and still affords you a number of benefit
 
 * It will help to off-set the lack of firepower from the detachments that you're rushing forward on March or Assault orders, and ensure that the Defender doesn't completely dominate the Shooting phase.
 * It forces the Defender to be more cautious with their positioning, as they must be mindful of incoming fire.
-* In destroying some enemy units at range, you suppress some of the enemy's return fire and thus minimise casualties among your assault detachments.
-* The casualties you cause and the Blast markers you place on enemy detachments can give you a significant edge in your assaults.
+* It suppresses enemy fire, so your assault detachments suffer fewer casualties as they close with the enemy.
+* The casualties you cause and the Blast markers you place on enemy detachments shift the odds more in your favour for your assaults.
 
 ---
 
@@ -190,13 +190,12 @@ Plan to move your detachments off of the escape edge in strength.
 That is, don't move your escaping detachments off piecemeal over several turns -- if you do this, you'll give your opponent the opportunity to concentrate their shooting on the units that are most likely to escape each turn.
 That would make it much easier for your opponent to reduce enough of your detachments to half-strength that you can't achieve your victory conditions.
 
-=== Defender's tactical considerations
+=== Defender's tactics
 
 A lot depends on the terrain setup.
 
 If the terrain is more dense near one side of the table, then that's probably the side you should choose.
-
-For a start, you should seek to maximise cover for your units and to minimise cover that your opponent can use to shield their units from your shooting.
+You should seek to maximise cover for your units and to minimise cover that your opponent can use to shield their units from your shooting.
 
 And, remember that you can use hills and buildings to gain better fields of fire for your units.
 
@@ -213,9 +212,9 @@ You should make good use of long-ranged gunnery that can cover a lot of ground a
 
 In general, you should:
 
-* Position your infantry within 30 cm of your table edge, on Overwatch orders.
-* Target the fastest-moving enemy units first.
+* Position the bulk of your infantry relatively close to your table edge -- within 30 cm perhaps -- and give them Overwatch orders.
 * Position your close-combat specialists much closer to the half-way line, so that you can threaten enemy detachments with an assault in the first turn of the game.
+* Target the fastest-moving enemy units first.
 
 ---
 

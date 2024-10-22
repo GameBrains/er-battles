@@ -13,7 +13,7 @@ You can 're-fight' these scenarios just as we present them, or, in most cases th
 
 [TIP]
 ====
-Some of these scenarios specify that you must set up some particular terrain in a particular way.
+Some of these scenarios specify essential terrain that you must set up in a particular way.
 Don't fret about the details though; the exact dimensions and style of terrain items aren't important -- just use whatever you have in your terrain collection.
 Or, if you lack suitable terrain pieces, just improvise them -- use scissors to cut suitable shapes from spare cloth, card or paper.
 ====

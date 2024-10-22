@@ -10,4 +10,4 @@ footnote:[{e40k-diff}
 {project-name} versions of {e40k} scenarios contain more text than the originals -- but, you should find them much easier to understand and use.
 The original versions mix instructions and omit information to the extent that they can be quite difficult to interpret.
 ]
-But you should not feel limited by these instructions -- you should feel free to adapt the scenarios or invent new ones, if you want to.
+But of course you should feel free to adapt the scenarios or invent new ones, if you want to.

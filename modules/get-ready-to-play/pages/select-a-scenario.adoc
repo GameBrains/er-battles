@@ -5,22 +5,31 @@ The scenario that you select determines the overall nature of the battle that yo
 Each scenario offers a unique combination of rules for setup and play, to model different types of confrontation and victory conditions.
 
 We detail a range of scenarios at xref:scenarios:scenarios.adoc[].
+
+== Types of scenario
+
+Scenarios can take many different forms, but {project-name} presents them broadly as follows:
+
+* *Refight scenarios*: Recreations of 'historical' battles in the _Warhammer 40,000_ universe.
+These scenarios showcase the use of narratives to create engaging, unique battles.
+* *Battle scenarios*: Outlines of various different types of confrontation that are common on battlefields across the galaxy.
+These scenarios give you generalised frameworks for your battles, but include little in the way of narrative -- that's up to you.
+* *The Fog of War*: A method to generate lots of different match-ups -- in effect, a great way to generate lots of different scenarios that force you and your opponent to adapt to the unexpected.
+
+Some of the scenarios use common special rules that model the effects of fortifications, morale, and so on (xref:scenario-special-rules:scenario-special-rules.adoc[]).
+Some specify rules that are unique to those scenarios.
+
+== How to select a scenario to play
+
 Of course, you and your opponent can simply agree on a scenario to play, invent a new one, or plan several to play in a sequence as a mini-campaign.
-Or, you may prefer to let fate select one of the standard scenarios for you.
+Or, you may prefer to select a scenario at random.
 
-We have two broad categories of scenario:
+TIP: If you're new to the game, it's best to start with the simplest scenarios.
+We recommend xref:scenarios:refight-1-gogards-last-stand.adoc[] and xref:scenarios:refight-4-the-sulphur-river.adoc[].
 
-* *Refight* scenarios: These outline confrontations that are 'historical' in the _Warhammer 40,000_ universe.
-They offer ready-made detachments that use the contents of the original {e40k} boxed set to model the 'historical' forces.
-You can 're-fight' these scenarios, or you can adapt them for your own army choices and narrative.
-* *Battle* scenarios: These are more generic, and model different types of confrontation that are common on battlefields across the galaxy.
+=== Random scenario selection
 
-Some of the scenarios use special rules that model the effects of fortifications, morale, and so on (xref:scenario-special-rules:scenario-special-rules.adoc[]).
-
-TIP: If you're new to the game, 'Refight 1: Gogard's Last Stand!' and 'Refight 4: The Sulphur River' are good scenarios to start with as they are the simplest.
-
-
-If you'd like to use the random method, consult this table:
+If you'd like to select a scenario at random, consult this table:
 
 .Scenario generator table (roll a D6)
 [%header,cols="2,2,1"]

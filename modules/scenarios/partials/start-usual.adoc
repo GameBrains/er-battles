@@ -1,0 +1,2 @@
+.Start
+Start the game in the usual way: Proceed to the Start phase.

@@ -1,2 +1,3 @@
 = Standard Battle scenarios
 
+These scenarios model various different types of confrontation that are common on battlefields across the galaxy.

@@ -1,12 +1,125 @@
 = Refight 5: Breakout
 
-{blank}[TODO: In the meantime, see link:https://thehobby.zone/resources/e40k-compendium/Content/Battles/TheScenarios/Refight5Breakout.htm[^]]
+== Narrative background
 
-## Historical forces
+include::partial$note-narrative-summary.adoc[]
+(See link:https://thehobby.zone/resources/e40k-compendium/Content/Battles/TheScenarios/Refight5Breakout.htm[^])
 
-### Orks
+{blank}[TODO: Create a summary of the narrative.]
 
-*Builder*: link:https://builder.epicremastered.com/print.lc?listname=Ork+army+detachments+for+Refight+5&listurl=https%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_Ork_Warlord%26force%3DWarlord+Nah-Badun+an%60+der+Retinue%7E502%7E109x1%7E506%7E511%7E111x1%7E517%7E117x2%7E528%7E128x2%0D%0Ahttps%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_Ork_Kult%26force%3DDa%2520Chargerz%7E501%7E502%7E522%7E122x3%7E528%7E128x3%7E528%7E128x3%0D%0Ahttps%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_Ork_Warband%26force%3DNaffgul%60s+Shooty+Boyz%7E501%7E503%7E512%7E112x3%7E517%7E117x4%7E524%7E524%7E510%7E110x4%7E510%7E110x4%7E510%7E110x4%0D%0A[Ork army detachments for Refight 5^]
+== Scenario special rules
+
+xref:scenario-special-rules:fortifications.adoc[]; xref:scenario-special-rules:hidden-setup.adoc[]
+
+== Armies
+
+include::partial$refights-armies.adoc[]
+
+[TIP]
+====
+Be mindful that attacking armies that are able to field a lot of fast-moving transport vehicles, transport flyers and fast attack vehicles -- as with Space Marines -- are apt to unbalance this scenario.
+
+Therefore, we recommend that for the attacking army you limit the number of transport flyers (such as Thunderhawk Gunship units carrying Space Marines units), or ban them altogether.
+Remember that the game is supposed to be challenging and fun for both players -- not a one-sided stomp-fest.
+
+Conversely, if your playing area is more than the standard 120 cm deep, the attacking army may struggle to cross it in time -- so in that case, we suggest that you increase the game length by one turn for every additional 30 cm of depth.
+{blank}[TODO: Clarify: I'd argue that this logic should apply not only for playing areas that are physically larger, but also for the greater distances that result from short-edge deployment and corner deployment options on a standard-sized playing area.]
+====
+
+== Maps
+
+* Standard deployment edges.
+* The Attacker's deployment zone extends from their deployment edge to 20 cm onto the playing area.
+* The Defender's deployment zone extends from their deployment edge to the half-way line.
+
+[.float-group]
+--
+[.left]
+.Long deployment edge
+image::map-refight-5-breakout-long.svg[alt="Deployment map for the Breakout scenario (long deployment edge)",392,294]
+
+[.left]
+.Short deployment edge
+image::map-refight-5-breakout-short.svg[alt="Deployment map for the Breakout scenario (short deployment edge)",392,294]
+
+[.left]
+.Corner deployment edge
+image::map-refight-5-breakout-corner.svg[alt="Deployment map for the Breakout scenario (corner deployment edge)",392,294]
+
+[none.left]
+.Legend
+* [.conum]#A# Attacker's deployment zone.
+* [.conum]#D# Defender's deployment zone.
+--
+
+== Setup
+
+. xref:get-ready-to-play:set-up-terrain.adoc[Set up terrain] in the standard way.
+. Determine *at random* which player will be the *Attacker* and which the *Defender*.
+. *Defender*: Choose which table edge you prefer as the basis for your deployment.
+Your opponent gets the opposite table edge.
+See <<Maps>>.
+
+== Disposition of forces
+
+*Attacker*: Determine the disposition of your forces.
+
+. Place all of your Flyer detachments in xref:scenario-special-rules:reserves.adoc[Reserves].
+. If you have any detachments that qualify for the Reserves rules on their own merit, place them in Reserves.
+. Keep all of your other detachments at hand for your initial deployment.
+
+*Defender*: Determine the disposition of your forces.
+You will have only **half** of the strength of your army for this battle.
+
+. Choose the detachments that will form your defensive force.
++
+--
+* The total points value of this force must be no more than half of the maximum points value limit for this battle.
+* You must choose complete detachments.
++
+{blank}[TODO: Clarify: If the Defender chooses any Flyer detachments, should they place them aside to bring into play in the first turn, or should they place them in Reserves?]
+--
++
+Keep the detachments you choose at hand for your initial deployment.
+The rest of your army does not take part in this battle.
++
+{blank}[TODO: Clarify: Why not simply have the Defender choose a smaller army in the first place? This scenario seems to be rather an oddity as I work to remaster it -- in general, the original texts that pertain to scenarios imply that we should determine the scenario to play first and _then_ build our armies, but this scenario implies the opposite (given that it instructs the Defender to use only half of their army)...]
+
+== Initial deployment
+
+. *Defender*: You must deploy first.
+* Use the xref:scenario-special-rules:hidden-setup.adoc[] rules to deploy all of the detachments that you kept at hand for your initial deployment.
+* Deploy within the Defender's deployment zone [.conum]#D# (see <<Maps>>).
+* You may also use xref:scenario-special-rules:fortifications.adoc[] if you wish.
++
+[IMPORTANT]
+====
+Although you have use of only half your army, you still get one Hidden Setup marker for each Infantry and/or Vehicle detachment that exists in your full army.
+
+{blank}[TODO: Clarify: The original version of this scenario seems to have been written with no thought to Flyer or War Engine detachments. Should we explicitly exclude them, or should we make proper allowance for either or both of these types of detachment? If the latter, are there game balance issues to account for? How do Flyer detachments affect the number of ground-based detachments the Attacker must exit off of the Defender's table edge for a win? (Probably they shouldn't affect this at all, so the Attacker must be mindful that an excess of Flyer detachments could be a hindrance.)]
+====
++
+. *Attacker*: Deploy all of the detachments that you kept at hand for initial deployment.
+* Deploy within the Attacker's deployment zone [.conum]#A# (see <<Maps>>).
+* When your Reserves detachments arrive, you may bring them into play anywhere along the Attacker's deployment edge.
+
+== Play the game
+
+include::partial$start-usual.adoc[]
+
+include::partial$bringing-reserves-detachments-into-play.adoc[]
+
+== Game length and victory conditions
+
+To win this scenario, the Attacker must exit at least half of the detachments in their army off of the Defender's table edge by the end of Turn 6.
+Detachments reduced to half strength or less do not count.
+{blank}[TODO: For an odd number of attacking detachments, should we round up or round down for the number that must exit for a win...?]
+
+Any other result is a win for the Defender.
+
+== Historical forces
+
+=== Ork army
 
 Ork Warlord detachment, _Warlord Nah-Badun an' der Retinue_::
 1 x Warlord, with Battlewagon option; 1 x Weirdboy Battle Tower; 1 x Nobz unit; 1 x Gretchin unit; 2 x Battlewagon.
@@ -15,20 +128,102 @@ Ork Kult of Speed detachment, _Da Chargerz_::
 1 x Warboss; 6 x Battlewagon; 3 x Bikeboyz.
 
 Ork Warband detachment, _Naffgul's Shooty Boyz_::
-1 x Warboss in Stompa; 3 x Shooty Boyz unit; 2 x Stompa; 4 x Gretchin unit; 12 x Ork unit.
+1 x Warboss in Stompa; 12 x Ork unit; 3 x Shooty Boyz unit; 4 x Gretchin unit; 2 x Stompa.
 
-### Space Marines
+[TIP]
+.Ready-made force list in the Detachment Builder
+====
+link:https://builder.epicremastered.com/print_21_unitlist.lc?listname=Ork+army+detachments+for+Refight+5&listurl=https%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_Ork_Warlord%26force%3DWarlord+Nah-Badun+an%60+der+Retinue%7E502%7E109x1%7E506%7E511%7E111x1%7E517%7E117x2%7E528%7E128x2%0D%0Ahttps%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_Ork_Kult%26force%3DDa+Chargerz%7E501%7E502%7E522%7E122x3%7E528%7E128x3%7E528%7E128x3%0D%0Ahttps%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_Ork_Warband%26force%3DNaffgul%2560s%2520Shooty%2520Boyz%7E501%7E503%7E510%7E110x4%7E510%7E110x4%7E510%7E110x4%7E512%7E112x3%7E517%7E117x4%7E524%7E524%0D%0A[Ork army detachments for Refight 5^]
+====
 
-*Builder*: link:https://builder.epicremastered.com/print.lc?listname=Imperium+army+detachments+for+Refight+5&listurl=https%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_SM_Detachment%26force%3DForce+Specula%7E501%7E502%7E130x1%7E511%7E116x1%7E511%7E116x1%7E511%7E116x1%0D%0Ahttps%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_SM_Detachment%26force%3DForce+Ceptio%7E501%7E502%7E130x1%7E101x1%7E511%7E115x1%7E511%7E115x1%7E511%7E115x1%0D%0Ahttps%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_SM_Detachment%26force%3DForce%2520Odium%7E501%7E526%7E511%7E114x1%7E100x1%7E511%7E114x1%7E100x1%7E511%7E114x1%7E100x1%7E511%7E114x1%7E100x1%7E511%7E114x1%7E100x1%7E511%7E114x1%7E100x1%7E524%7E524%0D%0A[Imperium army detachments for Refight 5^]
+=== Space Marine army
 
 Space Marine detachment, _Force Specula_::
-1 x Space Marine Captain;  6 x Space Marine unit, with Devastator option. 
+1 x Space Marine Captain;  6 x Space Marine unit, with 6 x Devastator option. 
 
 Space Marine detachment, _Force Ceptio_::
-1 x Space Marine Captain, with Land Raider option; 6 x Space Marine unit, with Assault option. 
+1 x Space Marine Captain, with Land Raider option; 6 x Space Marine unit, with 6 x Assault option. 
 +
 ****
-Historically it was _Force Specula_ and _Force Ceptio_ that formed the Imperial line where the Orks planned to break out.
+Historically, it was _Force Specula_ and _Force Ceptio_ that formed the Imperial line where the Orks planned to break out.
 ****
 Space Marine detachment, _Force Odium_::
 1 x Land Raider; 12 x Space Marine unit, with 6 x Rhino option; 2 x Whirlwind.
+
+[TIP]
+.Ready-made force list in the Detachment Builder
+====
+link:https://builder.epicremastered.com/print_21_unitlist.lc?listname=Imperium+army+detachments+for+Refight+5&listurl=https%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_SM_Detachment%26force%3DForce+Specula%7E501%7E502%7E130x1%7E511%7E116x1%7E511%7E116x1%7E511%7E116x1%0D%0Ahttps%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_SM_Detachment%26force%3DForce+Ceptio%7E501%7E502%7E130x1%7E101x1%7E511%7E115x1%7E511%7E115x1%7E511%7E115x1%0D%0Ahttps%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_SM_Detachment%26force%3DForce%2520Odium%7E501%7E511%7E114x1%7E100x1%7E511%7E114x1%7E100x1%7E511%7E114x1%7E100x1%7E511%7E114x1%7E100x1%7E511%7E114x1%7E100x1%7E511%7E114x1%7E100x1%7E524%7E524%7E526%7E101x1%0D%0A[Imperium army detachments for Refight 5^]
+====
+
+== Tactics
+
+The role of the Attacker is perhaps a bit easier than that of the Defender.
+So, the Attacker's tactical considerations are more straightforward.
+There's still plenty to think about in each role though.
+
+=== Attacker's tactics
+
+You'll probably be tempted to invest all of your available points on fast units -- including transport vehicles for as much of your infantry as possible -- and then use March and Assault orders to rush them across the playing area.
+
+On the one hand, if you over-do this with a highly mobile army it can seriously unbalance this scenario.
+On the other hand, you should be mindful that troop transports offer your opponent the opportunity to increase the overall effect of their shooting -- each hit they get on a transport vehicle may also cause hits on the embarked cargo units.
+
+So, consider a more balanced approach: If you include some slower detachments that have powerful ranged units, you can put these on Overwatch orders (or at least Advance orders, rather than March or Assault orders) and lay down strong covering fire.
+This makes for a more interesting game and still affords you a number of benefits:
+
+* It will help to off-set the lack of firepower from the detachments that you're rushing forward on March or Assault orders, and ensure that the Defender doesn't completely dominate the Shooting phase.
+* It forces the Defender to be more cautious with their positioning, as they must be mindful of incoming fire.
+* It suppresses enemy fire, so your assault detachments suffer fewer casualties as they close with the enemy.
+* The casualties you cause and the Blast markers you place on enemy detachments shift the odds more in your favour for your assaults.
+
+---
+
+Remember that you only need to exit half of your detachments off of the Defender's table edge to win -- so you can afford to use some detachments as disposable forces in rearguard actions, to provide covering fire for the rest of your army.
+
+This is especially true for armies that tend to be slow overall, such as those chiefly comprised of Imperial Guard units.
+An artillery company or battle titan can provide a lot of supporting fire to pound enemy positions and thereby reduce the pressure on the slow-moving detachments as they creep across the battlefield.
+
+---
+
+Plan to move your detachments off of the escape edge in strength.
+That is, don't move your escaping detachments off piecemeal over several turns -- if you do this, you'll give your opponent the opportunity to concentrate their shooting on the units that are most likely to escape each turn.
+That would make it much easier for your opponent to reduce enough of your detachments to half-strength that you can't achieve your victory conditions.
+
+=== Defender's tactics
+
+A lot depends on the terrain setup.
+
+If the terrain is more dense near one side of the table, then that's probably the side you should choose.
+You should seek to maximise cover for your units and to minimise cover that your opponent can use to shield their units from your shooting.
+
+And, remember that you can use hills and buildings to gain better fields of fire for your units.
+
+---
+
+{blank}[TODO: Perhaps comment on effective use of fortifications and hidden setup.]
+
+---
+
+When you build and deploy your army, be mindful that you need to be able quickly reinforce either flank.
+A canny opponent will likely strike not on a broad front but at one flank of your battle line, seeking to break through before you can bring reinforcements to bear from the other flank.
+
+You should make good use of long-ranged gunnery that can cover a lot of ground and slow the enemy, and fast, powerful assault units that can redeploy quickly and hit hard where they are needed.
+
+In general, you should:
+
+* Position the bulk of your infantry relatively close to your table edge -- within 30 cm perhaps -- and give them Overwatch orders.
+* Position your close-combat specialists much closer to the half-way line, so that you can threaten enemy detachments with an assault in the first turn of the game.
+* Target the fastest-moving enemy units first.
+
+---
+
+Remember that attack is the best form of defence, and that it pays to concentrate your attacks.
+Prioritise, and focus on breaking a small number of enemy detachments at a time -- don't get distracted by fresh targets that tempt you to divide your fire!
+
+Once you've reduced a given enemy detachment to half strength, it becomes a low-priority target as it is no longer valid for the Attacker's victory conditions.
+Shift your focus to another detachment that is still above half strength.
+
+****
+If you repeat this scenario with much the same army in both the Attacker and Defender roles, you'll likely find that an army that fares badly in attack tends to do well in defence, and vice versa.
+****

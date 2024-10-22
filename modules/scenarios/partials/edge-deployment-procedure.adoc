@@ -1,0 +1,10 @@
+Do not deploy any detachments yet.
+Instead, place HQ units to indicate where the detachments you kept at hand for initial deployment will enter play during the first turn of the game.
+
+Start with the player whose army has the lower Strategy Rating and alternate between you until there are no more HQ units to place:
+
+. Pick an HQ unit to be first, and place it to indicate any point along your deployment edge.
+. Each other HQ unit you place must indicate a point that is on your deployment edge *and* within 15 cm of the point that your first HQ unit indicates.
+You may 'stack' multiple HQ units in a column, to indicate the same point on your deployment edge -- you might want to do this where a road crosses the table edge, for example.
+. Each player may choose one detachment per 1,000 points of the maximum points value limit (or part thereof -- round up) to be a *flanking* detachment, if they wish.
+You may place the HQ units of your flanking detachments to indicate any point along your deployment edge, rather than only within 15 cm of the point you indicated with the first HQ unit you placed.

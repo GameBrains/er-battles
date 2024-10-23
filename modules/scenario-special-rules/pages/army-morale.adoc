@@ -61,13 +61,13 @@ We apply the appropriate modifier immediately whenever a one-time effect becomes
 
 === Morale: Blast markers on your detachments
 
-_Ongoing effect: Check at the end of each Rally phase._
+*_Ongoing morale effect_*: Check at the end of each Rally phase.
 
 For *each* Blast marker that remains on any of your detachments, deduct 1 point from your current Army Morale value.
 
 === Morale: Detachment reduced to half-strength
 
-_One-time effect: This can apply no more than once per detachment._
+*_One-time morale effect_*: This applies no more than once per detachment.
 
 When a detachment in your army is reduced to half of its initial strength, subtract its Morale value from your current Army Morale value.
 
@@ -89,7 +89,7 @@ When this happens, you deduct the Morale value of this detachment from your Army
 
 === Morale: Enemy War Engine unit destroyed
 
-_One-time effect: This can apply no more than once per War Engine unit._
+*_One-time morale effect_*: This applies no more than once per War Engine unit.
 
 Where an *enemy* War Engine unit suffers a Catastrophic Damage result of *Destroyed* -- not merely *Wrecked* -- add *half* of that unit's Morale value to your own Army Morale value.
 footnote:[
@@ -100,7 +100,7 @@ Note that this applies even in detachments that include two or more War Engine u
 
 === Morale: Blast markers on a destroyed detachment
 
-_One-time effect: This can apply no more than once per detachment._
+*_One-time morale effect_*: This applies no more than once per detachment.
 
 When one of your detachments is completely destroyed, immediately deduct 1 point from your Army Morale value for *each* Blast marker that was on the detachment at the time!
 

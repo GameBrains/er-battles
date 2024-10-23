@@ -1,3 +1,381 @@
 = The Fog of War
 
-{blank}[TODO: In the meantime, see link:https://thehobby.zone/resources/e40k-compendium/Content/Battles/TheScenarios/TheFogOfWar.htm[^]]
+Two armies clash in disputed territory.
+Neither commander knows the size or goals of the opposing force.
+All they know is the size and composition of their own force, and what their high command expects them to achieve.
+
+[NOTE]
+====
+The random nature of the missions in The Fog of War means that some extreme combinations can lead to very short or unbalanced games.
+Several of the missions can also be difficult for armies that are especially slow-moving.
+But, much of the point of The Fog of War is to put a genuine element of the unknown into games, and to encourage you to work with what you have.
+
+A good way to approach this is to play two or three The Fog of War battles in one session, to give things a chance to even out.
+====
+
+[TIP]
+====
+The Fog of War can also be useful for campaigns:
+
+* Use it as-is, to generate some randomised scenarios in your campaign.
+* Use the missions as inspiration for your own scenarios.
+* Arrange battles such that each player must allocate their forces between several different missions.
+====
+
+== Scenario special rules
+
+xref:scenario-special-rules:objectives.adoc[]; xref:scenario-special-rules:reserves.adoc[] -- note that this scenario modifies the usual rules for arrival of Reserves, as we describe at <<reserves-arrival-modified>>
+
+You will also need a pack of ordinary playing cards.
+
+== Armies
+
+include::partial$agree-a-maximum-points-value-limit.adoc[]
+
+== Maps
+
+NOTE: The original {e40k} texts are ambiguous and it's not clear exactly what 'edges' we should use for Reserves in this scenario.
+We have not yet settled on a particular interpretation, so there's a good chance that we'll change some of the details that you see here.
+
+* Non-standard deployment edges -- refer to the map.
+* The two deployment zones represent the areas that opposing detachments are patrolling at the moment they sight each other.
+The deployment zones are in opposite corners of the playing area, 150 cm apart.
+Each is 90 cm deep, with a width that depends upon the width of your playing area (15 cm by default).
+
+image::map-battle-2-escalating-engagement.svg[alt="Deployment map for the Fog of War Engagement scenario",600,450]
+
+[none]
+.Legend
+* [.conum]#A# Deployment zone A.
+* [.conum]#B# Deployment zone B.
+
+== Setup
+
+. xref:get-ready-to-play:set-up-terrain.adoc[Set up terrain] in the standard way.
+include::partial$choose-deployment-edge-zone.adoc[]
+. Choose your xref:scenario-special-rules:objectives.adoc[objectives], as follows:
+* Each player must have one Capture, two Take & Hold and one Cleanse objective.
+. Place your objective markers in the standard way.
+The player whose army has the lower Strategy Rating must one of their objective markers first.
+Then alternate until both players have have placed all of their objective markers.
+. Determine your mission and the forces that are available to you.
+Each player must act as follows:
+.. Draw a playing card at random.
+.. Look at the face of the card, but do not reveal it to your opponent.
+.. Find the corresponding entry at <<Missions list>> and familiarise yourself with your mission -- and note how much of your army you'll get (the 'force size').
+.. Place your card aside, face down.
+
+== Disposition of forces
+
+Determine the disposition of your forces.
+
+. Place all of your Flyer detachments in xref:scenario-special-rules:reserves.adoc[Reserves].
+. Place all of your War Engine detachments in Reserves.
+. Place your Supreme Commander detachment in Reserves.
+. If you have any detachments that you normally *must* place in Reserves, place them in Reserves.
+. From your remaining detachments, determine one to deploy during initial deployment -- this represents your patrol force, the *vanguard* of your army.
+This must be the Infantry/Vehicle detachment that has the lowest points value among the remaining detachments in the your army.
++
+Keep this vanguard detachment at hand for your initial deployment.
++
+To be clear: Even if it is the lowest points value detachment in your army, do not use a Flyer, War Engine or Supreme Commander detachment for your vanguard.
+
+. Place the rest of your detachments in Reserves.
+Aside from your vanguard detachment, all of the detachments in your army are now in Reserves.
+. Check your mission's force size, and decide which of your Reserves detachments you will actually use in your force for this scenario.
+
+TIP: Some of these steps will seem redundant when you have a small force size -- but when you go through the motions anyway, you give your opponent fewer clues about the nature of your mission.
+
+== Initial deployment
+
+The player whose army has the lower Strategy Rating must deploy their vanguard detachment first, in their deployment zone.
+Then the opposing player must deploy their vanguard detachment in their deployment zone.
+
+== Play the game
+
+include::partial$start-usual.adoc[]
+
+[[reserves-arrival-modified]]
+.Reserves detachments arrival (modified)
+The standard rules for arrival of Reserves detachments would reveal to your opponent exactly how many Reserves detachments you have -- another major clue about the nature of your mission.
+So, for this scenario, use these arrival rules instead:
+
+. You may bring your Reserves detachments into play during the Start phase of each turn after the first.
+. The number of Reserve detachments that you may then bring into play depends on the number of them that you decided to use in your force before the start of the game:
++
+.Fog of War Reserves Arrival table
+[cols="^1,^1"]
+|===
+|Number of Reserves detachments at the outset |Number that you may bring into play each turn
+
+|1–5 detachments
+|One per turn
+
+|6–10 detachments
+|Up to two per turn
+
+|11–15 detachments
+|Up to three per turn
+
+|...and so on
+|...and so on
+
+|===
++
+. *Choose* which available Reserves detachments you will put into play.
+When you put a Reserves detachment into play, proceed as normal -- place its HQ unit to indicate a point on your deployment edge, and move the detachment into play from this point during the Movement phase.
+
+.Discovering your opponent's mission
+During the course of the game, you may be able to discover the nature of your opponent's secret mission.
+There are two ways that this can happen (aside from your own guesswork based on your opponent's behaviour of course): *tactical analysis* and *psychic precognition*.
+
+-- Tactical analysis::
+Observation of the enemy forces, tactics and movement can give you a general idea of their objectives.
+The longer the engagement goes on, the easier it becomes to work out just what the foe is up to.
+At the end of each Rally phase, roll a D6 and consult the table below; if you get the required score then your opponent must reveal their mission.
++
+.Fog of War Tactical Analysis table
+[%footer,cols="2s,1,1,1,1,1"]
+|===
+|Turn |1 |2 |3 |4 |5
+
+|Score required on D6
+|6+
+|5+
+|4+
+|3+
+|2+
+
+6+e|If your Supreme Commander unit is in the playing area, then you may re-roll the die.
+|===
+
+-- Psychic precognition::
+Psykers can often pick up fragments of information, impressions of the potential future and of what enemy plans may be.
+At the end of each Rally phase, roll a D6 for every {psyker} unit that you have within 45 cm of any enemy unit: If you score a 6 on any of these dice, then your Psykers perceive the enemy's plans -- your opponent must reveal their mission.
+
+== Game length and victory conditions
+
+The first player to achieve their mission objective wins at the end of the Rally phase on the turn they achieve it.
+
+If both players achieve their mission objective on the same turn, or neither player has done so by the end of the 6^th^ turn, then the battle is a draw and neither player wins.
+
+[#missions-list]
+== Fog of War missions list
+
+Use a standard deck of playing cards, minus the Joker cards.
+Shuffle, draw a card at random, and compare below to see what mission you have, and what force size it grants you.
+
+[NOTE]
+====
+Where the force size states "Vanguard +X%", this means that you must choose detachments from your army that have a combined points value total of up to X% of the maximum points value limit that you agreed for this scenario.
+You may choose only complete detachments.
+
+.Force size
+=====
+You and your opponent agree a maximum points value limit of 2,000 points for this scenario.
+You draw a mission which allows you "Vanguard +25%".
+So, you will use your vanguard, plus any number of complete detachments you choose whose points values total no more than 500 points.
+=====
+
+====
+
+[.small-text-group.playing-card]
+--
+.2 -- Stall them
+[%collapsible]
+====
+*Force size*:
+Vanguard only
+
+*Mission details*:
+Slow the enemy to buy some time -- form a strongpoint with your vanguard and and hold on to the last individual.
+To achieve your mission:
+
+* At the end of the 4^th^ turn, have at least one unit of your vanguard still in the playing area and not subject to the Broken condition.
+====
+
+.3 -- Thorn in their side
+[%collapsible]
+====
+*Force size*:
+Vanguard only
+
+*Mission details*:
+Deliver a sharp counter-attack to slow down the enemy, and then retreat.
+To achieve your mission:
+
+* Destroy at least one enemy unit and make sure that you suffer no more than twice as many losses as your opponent (in terms of number of units and/or Damage Capacity lost).
+* Retreat your vanguard units off of the table edge anywhere along your deployment zone by the end of the 4^th^ turn.
+* At the end of the 4^th^ turn, any of your units that remain in the playing area are destroyed and count towards your losses.
+
+{blank}[TODO: Perhaps adjust this mission or add some suggestions. Seems like these casualty-based criteria would make some match-ups especially unbalanced -- particularly when facing an enemy that has aircraft (given likely lack of anti-aircraft weapons), or when low-value/weak horde-type forces face high-value/tough elite forces (the whole point of horde armies is that they can absorb a lot more losses, but this casualty-based scoring treats all armies the same).
+====
+
+.4 -- Behind the lines
+[%collapsible]
+====
+*Force size*:
+Vanguard +25%
+
+*Mission details*:
+It seems like the enemy is building up to a big assault in the near future in this sector of the battle front.
+Slip past the enemy's front line forces and cause trouble in their rear to upset their plans.
+To achieve your mission:
+
+* Exit a detachment off the table edge that runs along your opponent's deployment zone.
+Detachments that are at half strength or less do not count for this.
+footnote:below-half-strength[{e40k-diff}
+The original text in {e40k} defines the threshold in a way that differs slightly from the definition in the Army Morale rules.
+There doesn't seem to be any good reason for this inconsistency, so we use a more consistent statement.
+]
+====
+
+.5 -- Repel them
+[%collapsible]
+====
+*Force size*:
+Vanguard +25%
+
+*Mission details*:
+Move out and grab a new strongpoint, and then dig in and stop any possible enemy assault.
+Casualties are of no consequence!
+To achieve your mission:
+
+* At the end of the 4^th^ turn, or any later turn, control one Take & Hold objective and your Cleanse objective.
+footnote:cleanse-objective-control[{e40k-diff}
+The original text in {e40k} is somewhat ambiguous about control of the Cleanse objective, and differs slightly from the usual Cleanse objective control rules.
+There doesn't seem to be any good reason for this inconsistency, so we use a more consistent statement.
+]
+====
+
+.6 -- Capture and repel
+[%collapsible]
+====
+*Force size*:
+Vanguard +50%
+
+*Mission details*:
+Drive the enemy forces back and capture something important that happens to be on the battlefield.
+Casualties are not a consideration!
+To achieve your mission:
+
+* At the end of the 4^th^ turn, or any later turn, control one Take & Hold objective and your Capture objective.
+====
+
+.7 -- Delay and conserve
+[%collapsible]
+====
+*Force size*:
+Vanguard +50%
+
+*Mission details*:
+Delay the enemy but conserve your forces as they are needed for a counter-attack later.
+To achieve your mission:
+
+* Maintain control of your Cleanse objective until the end of the 4^th^ turn, and exit two of your detachments off the table edge of your own deployment zone.
+Detachments that are at half strength or less do not count for this.
+footnote:below-half-strength[]
+====
+
+.8 -- Pin them down
+[%collapsible]
+====
+*Force size*:
+Vanguard +50%
+
+*Mission details*:
+Pin down the enemy force, to keep them busy while friendly forces conduct an attack in a nearby sector.
+To achieve your mission:
+
+* Either destroy one enemy detachment or reduce any two enemy detachments to half strength.
+footnote:below-half-strength[]
+And, make sure that you suffer no more than twice as many losses as your opponent (in terms of number of units and/or Damage Capacity lost).
+If both of these conditions are true at the end of end of any turn then you achieve your mission.
+====
+
+.9 -- Hold the front
+[%collapsible]
+====
+*Force size*:
+Vanguard +75%
+
+*Mission details*:
+You have a large force and have been ordered to hold a wide front.
+To achieve your mission:
+
+* At the end of the 4^th^ turn, or any later turn, control both of your Take & Hold objectives and your Cleanse objective.
+footnote:cleanse-objective-control[]
+====
+
+.10 -- Guard the flank
+[%collapsible]
+====
+*Force size*:
+Vanguard +75%
+
+*Mission details*:
+Your force guards the flank of a major offensive.
+Drive the enemy forces back, to establish and hold a defensive perimeter.
+To achieve your mission:
+
+* At the end of the 4^th^ turn, or any later turn, control both of your Take & Hold objectives and your Capture objective.
+====
+
+.Jack -- Crush them
+[%collapsible]
+====
+*Force size*:
+Entire army
+
+*Mission details*:
+Crush the enemy forces.
+To achieve your mission:
+
+* Either destroy one enemy detachment or reduce any two enemy to half strength.
+footnote:below-half-strength[]
+And, make sure that you suffer no more than twice as many losses as your opponent (in terms of number of units and/or Damage Capacity lost).
+If both of these conditions are true at the end of end of any turn then you achieve your mission.
+====
+
+.Queen -- Drive them back
+[%collapsible]
+====
+*Force size*:
+Entire army
+
+*Mission details*:
+Drive the enemy forces back.
+To achieve your mission:
+
+* At the end of the 4^th^ turn, or any later turn, control both of your Take & Hold objectives and your Cleanse objective.
+footnote:cleanse-objective-control[]
+====
+
+.King -- Attack!
+[%collapsible]
+====
+*Force size*:
+Entire army
+
+*Mission details*:
+Capture enemy territory!
+To achieve your mission:
+
+* At the end of the 4^th^ turn, or any later turn, control both of your Take & Hold objectives, and your Capture objective, and have at least one unit within 15 cm of the enemy's Cleanse objective.
+footnote:cleanse-objective-control[]
+====
+
+.Ace -- Contain them
+[%collapsible]
+====
+*Force size*:
+Entire army
+
+*Mission details*:
+Contain the enemy and thwart whatever plans they might have.
+To achieve your mission:
+
+* Simply make sure that your opponent does not achieve their mission by the end of the game -- that is, by the end of the 6^th^ turn.
+====
+
+--

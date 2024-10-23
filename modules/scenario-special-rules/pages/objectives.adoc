@@ -69,6 +69,19 @@ For each of your units that has a Rescue objective (that is, for each of your un
 ** Add 1 point to your Army Morale value.
 ** Your opponent must deduct 1 point from their Army Morale value.
 
+=== Cleanse
+This objective represents an area that you want to keep out of the enemy's hands.
+
+[none]
+* *Placement*:
+You must place this objective marker inside your own deployment zone.
+* *Game effects and control*:
+At the end of the Rally phase:
+If you have a unit that is within 15 cm of your Cleanse objective marker *and* closer to it than any enemy units, then you control the objective.
+* *Morale effect*:
+At the end of each Rally phase:
+For each of your Cleanse objectives that you control, add 1 point to your Army Morale value.
+
 === Bunker
 This objective represents something of particular value to the enemy that you want to destroy to hinder them in some way -- a site of strategic or tactical value such as a command bunker, communications relay or missile silo.
 
@@ -110,19 +123,6 @@ For each of your Capture objectives that you control at the end of a turn, choos
 
 +
 Then remove the objective marker from the playing area.
-
-=== Cleanse
-This objective represents an area that you want to keep out of the enemy's hands.
-
-[none]
-* *Placement*:
-You must place this objective marker inside your own deployment zone.
-* *Game effects and control*:
-At the end of the Rally phase:
-If you have a unit that is within 15 cm of your Cleanse objective marker *and* closer to it than any enemy units, then you control the objective.
-* *Morale effect*:
-At the end of each Rally phase:
-For each of your Cleanse objectives that you control, add 1 point to your Army Morale value.
 
 ---
 

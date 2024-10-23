@@ -3,7 +3,7 @@ A summary of the morale effects of the standard objectives  -- for full detail s
 [%collapsible]
 .Take & Hold
 ====
-_Ongoing effect: Check at the end of each Rally phase._
+*_Ongoing morale effect_*: Check at the end of each Rally phase.
 
 For each of your Take & Hold objectives that you control, add D3 points to your Army Morale value.
 ====
@@ -11,7 +11,7 @@ For each of your Take & Hold objectives that you control, add D3 points to your 
 [%collapsible]
 .Rescue
 ====
-_Ongoing effect: Check at the end of each Rally phase._
+*_Ongoing morale effect_*: Check at the end of each Rally phase.
 
 For each of your units that has a Rescue objective (that is, for each of your units that currently count as an escort unit), apply both of these modifiers:
 
@@ -20,28 +20,28 @@ For each of your units that has a Rescue objective (that is, for each of your un
 ====
 
 [%collapsible]
+.Cleanse
+====
+*_Ongoing morale effect_*: Check at the end of each Rally phase.
+
+For each of your Cleanse objectives that you control, add 1 point to your Army Morale value.
+====
+
+[%collapsible]
 .Bunker
 ====
-_One-time effect: Each time you destroy one of your bunker objectives._
+*_One-time morale effect_*: Each time you destroy one of your bunker objectives.
 
-Roll a D6 -- your opponent must immediately deduct the score from their Army Morale value.
+Roll a D6 -- your opponent must subtract the score from their Army Morale value.
 ====
 
 [%collapsible]
 .Capture
 ====
-_One-time effect: Check at the end of each Rally phase._
+*_One-time morale effect_*: Check at the end of each Rally phase.
 
-For each of your Capture objectives that you control, choose and apply one of these modifiers:
+For each of your Capture objectives that you control, choose and apply *one* of these effects:
 
-* *Capture*: Add D6 points to your Army Morale value.
-* *Destroy*: Your opponent must subtract D6 points from their Army Morale value.
-====
-
-[%collapsible]
-.Cleanse
-====
-_Ongoing effect: Check at the end of each Rally phase._
-
-For each of your Cleanse objectives that you control, add 1 point to your Army Morale value.
+* *Capture*: Roll a D6 -- add the score to your Army Morale value.
+* *Destroy*: Roll a D6 -- your opponent must subtract the score from their Army Morale value.
 ====

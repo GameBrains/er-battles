@@ -19,19 +19,18 @@ The Fog of War can also be useful for campaigns:
 
 * Use it as-is, to generate some randomised scenarios in your campaign.
 * Use the missions as inspiration for your own scenarios.
-* Arrange battles such that each player must allocate their forces between several different missions at the same time.
+* Arrange battles such that each player must allocate their forces between several different missions.
 ====
 
 == Scenario special rules
 
-xref:scenario-special-rules:objectives.adoc[]; xref:scenario-special-rules:reserves.adoc[]
+xref:scenario-special-rules:objectives.adoc[]; xref:scenario-special-rules:reserves.adoc[] -- note that this scenario modifies the usual rules for arrival of Reserves, as we describe at <<reserves-arrival-modified>>
+
+You will also need a pack of ordinary playing cards.
 
 == Armies
 
 include::partial$agree-a-maximum-points-value-limit.adoc[]
-
-Note that this scenario modifies the usual Reserves rules, as we describe below.
-You will also need a pack of ordinary playing cards.
 
 == Maps
 
@@ -63,7 +62,7 @@ Then alternate until both players have have placed all of their objective marker
 Each player must act as follows:
 .. Draw a playing card at random.
 .. Look at the face of the card, but do not reveal it to your opponent.
-.. Find the corresponding entry at <<Missions list>> and familiarise yourself with your mission.
+.. Find the corresponding entry at <<Missions list>> and familiarise yourself with your mission -- and note how much of your army you'll get (the 'force size').
 .. Place your card aside, face down.
 
 == Disposition of forces
@@ -71,25 +70,60 @@ Each player must act as follows:
 Determine the disposition of your forces.
 
 . Place all of your Flyer detachments in xref:scenario-special-rules:reserves.adoc[Reserves].
-. If you have any detachments that qualify for the Reserves rules on their own merit, place them in Reserves.
-. You must deploy a single detachment during initial deployment, to represent your patrol force.
-This must be the Infantry/Vehicle detachment that has the lowest points value in the your army, except that it cannot be your Supreme commander detachment.
+. Place all of your War Engine detachments in Reserves.
+. Place your Supreme Commander detachment in Reserves.
+. If you have any detachments that you normally *must* place in Reserves, place them in Reserves.
+. From your remaining detachments, determine one to deploy during initial deployment -- this represents your patrol force, the *vanguard* of your army.
+This must be the Infantry/Vehicle detachment that has the lowest points value among the remaining detachments in the your army.
 +
---
-* To be clear: Even if it is the lowest points value detachment in your army, do not use a War Engine or Flyer or Supreme Commander detachment for your patrol.
---
+Keep this vanguard detachment at hand for your initial deployment.
 +
-Keep your 'patrol detachment' at hand for your initial deployment.
-. Place all of your remaining detachments in Reserves.
+To be clear: Even if it is the lowest points value detachment in your army, do not use a Flyer, War Engine or Supreme Commander detachment for your vanguard.
+
+. Place the rest of your detachments in Reserves.
+Aside from your vanguard detachment, all of the detachments in your army are now in Reserves.
+. Check your mission's force size, and decide which of your Reserves detachments you will actually use in your force for this scenario.
+
+TIP: Some of these steps will seem redundant when you have a small force size -- but when you go through the motions anyway, you give your opponent fewer clues about the nature of your mission.
 
 == Initial deployment
 
-The player whose army has the lower Strategy Rating must deploy their patrol detachment first, in their deployment zone.
-Then the opposing player must deploy their patrol detachment in their deployment zone.
+The player whose army has the lower Strategy Rating must deploy their vanguard detachment first, in their deployment zone.
+Then the opposing player must deploy their vanguard detachment in their deployment zone.
 
 == Play the game
 
 include::partial$start-usual.adoc[]
+
+[[reserves-arrival-modified]]
+.Reserves detachments arrival (modified)
+The standard rules for arrival of Reserves detachments would reveal to your opponent exactly how many Reserves detachments you have -- another major clue about the nature of your mission.
+So, for this scenario, use these arrival rules instead:
+
+. You may bring your Reserves detachments into play during the Start phase of each turn after the first.
+. The number of Reserve detachments that you may then bring into play depends on the number of them that you decided to use in your force before the start of the game:
++
+.Fog of War Reserves Arrival table
+[cols="^1,^1"]
+|===
+|Number of Reserves detachments at the outset |Number that you may bring into play each turn
+
+|1–5 detachments
+|One per turn
+
+|6–10 detachments
+|Up to two per turn
+
+|11–15 detachments
+|Up to three per turn
+
+|...and so on
+|...and so on
+
+|===
++
+. *Choose* which available Reserves detachments you will put into play.
+When you put a Reserves detachment into play, proceed as normal -- place its HQ unit to indicate a point on your deployment edge, and move the detachment into play from this point during the Movement phase.
 
 .Discovering your opponent's mission
 During the course of the game, you may be able to discover the nature of your opponent's secret mission.
@@ -98,9 +132,10 @@ There are two ways that this can happen (aside from your own guesswork based on 
 -- Tactical analysis::
 Observation of the enemy forces, tactics and movement can give you a general idea of their objectives.
 The longer the engagement goes on, the easier it becomes to work out just what the foe is up to.
-In the Rally phase of each turn, roll a D6 and consult the table below; if you get the required score then your opponent must reveal their mission.
+At the end of each Rally phase, roll a D6 and consult the table below; if you get the required score then your opponent must reveal their mission.
 +
-[%header,cols="2s,1,1,1,1,1"]
+.Fog of War Tactical Analysis table
+[%footer,cols="2s,1,1,1,1,1"]
 |===
 |Turn |1 |2 |3 |4 |5
 
@@ -111,13 +146,12 @@ In the Rally phase of each turn, roll a D6 and consult the table below; if you g
 |3+
 |2+
 
-6+|If your Supreme Commander unit is in the playing area, then you may re-roll the die.
-
+6+e|If your Supreme Commander unit is in the playing area, then you may re-roll the die.
 |===
 
 -- Psychic precognition::
 Psykers can often pick up fragments of information, impressions of the potential future and of what enemy plans may be.
-In the Rally phase, roll a D6 for every {psyker} unit that you have within 45 cm of any enemy unit: On a roll of 6 your Psykers perceive the enemy's plans; your opponent must reveal their mission.
+At the end of each Rally phase, roll a D6 for every {psyker} unit that you have within 45 cm of any enemy unit: If you score a 6 on any of these dice, then your Psykers perceive the enemy's plans -- your opponent must reveal their mission.
 
 == Game length and victory conditions
 
@@ -126,10 +160,24 @@ The first player to achieve their mission objective wins at the end of the Rally
 If both players achieve their mission objective on the same turn, or neither player has done so by the end of the 6^th^ turn, then the battle is a draw and neither player wins.
 
 [#missions-list]
-== Missions list
+== Fog of War missions list
 
 Use a standard deck of playing cards, minus the Joker cards.
-Shuffle, draw a card at random, and compare below to see what mission you have.
+Shuffle, draw a card at random, and compare below to see what mission you have, and what force size it grants you.
+
+[NOTE]
+====
+Where the force size states "Vanguard +X%", this means that you must choose detachments from your army that have a combined points value total of up to X% of the maximum points value limit that you agreed for this scenario.
+You may choose only complete detachments.
+
+.Force size
+=====
+You and your opponent agree a maximum points value limit of 2,000 points for this scenario.
+You draw a mission which allows you "Vanguard +25%".
+So, you will use your vanguard, plus any number of complete detachments you choose whose points values total no more than 500 points.
+=====
+
+====
 
 [.small-text-group.playing-card]
 --
@@ -160,8 +208,7 @@ To achieve your mission:
 * Retreat your vanguard units off of the table edge anywhere along your deployment zone by the end of the 4^th^ turn.
 * At the end of the 4^th^ turn, any of your units that remain in the playing area are destroyed and count towards your losses.
 
-// Seems especially unbalanced -- eg, the value of any low-value poorly armoured 'horde'-type Infantry force is in quantity over quality, but these mission criteria work against them if their opponent has a high quality force, even where their overall points value is the same.
-// Enemy Flyer detachments be a problem too, able to win on their own while other units keep away, as they can strike the vanguard with impunity (as the vanguard almost certainly has no Flak units).
+{blank}[TODO: Perhaps adjust this mission or add some suggestions. Seems like these casualty-based criteria would make some match-ups especially unbalanced -- particularly when facing an enemy that has aircraft (given likely lack of anti-aircraft weapons), or when low-value/weak horde-type forces face high-value/tough elite forces (the whole point of horde armies is that they can absorb a lot more losses, but this casualty-based scoring treats all armies the same).
 ====
 
 .4 -- Behind the lines
@@ -178,9 +225,8 @@ To achieve your mission:
 * Exit a detachment off the table edge that runs along your opponent's deployment zone.
 Detachments that are at half strength or less do not count for this.
 footnote:below-half-strength[{e40k-diff}
-{e40k} defines the threshold as "below half strength".
-This is inconsistent with the Army Morale rules, in which the threshold is "at half strength".
-We believe that this inconsistency is a mistake and that the Army Morale definition of the threshold should apply in all similar situations.
+The original text in {e40k} defines the threshold in a way that differs slightly from the definition in the Army Morale rules.
+There doesn't seem to be any good reason for this inconsistency, so we use a more consistent statement.
 ]
 ====
 
@@ -196,9 +242,9 @@ Casualties are of no consequence!
 To achieve your mission:
 
 * At the end of the 4^th^ turn, or any later turn, control one Take & Hold objective and your Cleanse objective.
-footnote:clean-objective-clear[{e40k-diff}
-{e40k} states that your Cleanse objective must be "clear of the enemy", which is slightly ambiguous and not quite the same as the usual rules to control or 'hold' an objective.
-We assume that this is a mistake and that the usual rules should apply as normal -- that is, you must have a unit within 15 cm and closer than any enemy unit.
+footnote:cleanse-objective-control[{e40k-diff}
+The original text in {e40k} is somewhat ambiguous about control of the Cleanse objective, and differs slightly from the usual Cleanse objective control rules.
+There doesn't seem to be any good reason for this inconsistency, so we use a more consistent statement.
 ]
 ====
 
@@ -258,7 +304,7 @@ You have a large force and have been ordered to hold a wide front.
 To achieve your mission:
 
 * At the end of the 4^th^ turn, or any later turn, control both of your Take & Hold objectives and your Cleanse objective.
-footnote:clean-objective-clear[]
+footnote:cleanse-objective-control[]
 ====
 
 .10 -- Guard the flank
@@ -302,7 +348,7 @@ Drive the enemy forces back.
 To achieve your mission:
 
 * At the end of the 4^th^ turn, or any later turn, control both of your Take & Hold objectives and your Cleanse objective.
-footnote:clean-objective-clear[]
+footnote:cleanse-objective-control[]
 ====
 
 .King -- Attack!
@@ -316,11 +362,7 @@ Capture enemy territory!
 To achieve your mission:
 
 * At the end of the 4^th^ turn, or any later turn, control both of your Take & Hold objectives, and your Capture objective, and have at least one unit within 15 cm of the enemy's Cleanse objective.
-footnote:clean-objective-clear[]
-footnote:[{e40k-diff}
-{e40k} states that you must have a unit "within 15 cm" of the enemy's Cleanse objective, which is different to the usual rules to control or 'deny' an objective.
-We assume that this is a mistake and that the usual rules should apply as normal -- that is, you must have a unit within 15 cm and closer than any enemy unit to deny it to your opponent.
-]
+footnote:cleanse-objective-control[]
 ====
 
 .Ace -- Contain them

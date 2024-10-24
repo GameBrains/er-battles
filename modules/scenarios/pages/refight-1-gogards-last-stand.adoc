@@ -112,7 +112,7 @@ link:https://builder.epicremastered.com/print.lc?listname=Ork+army+detachments+f
 Space Marine Armour detachment, _Force Citus_::
 4 x Space Marine Land Raider.
 Space Marine detachment, _Force Adonis_::
-1 x Space Marine Captain; 4 x Space Marine unit, with Devastator option.
+1 x Space Marine Captain; 4 x Space Marine unit, with 4 x Devastator option.
 Space Marine detachment, _Force Lentus_::
 1 x Space Marine Captain, with Rhino option; 6 x Space Marine unit, with 3 x Rhino option.
 

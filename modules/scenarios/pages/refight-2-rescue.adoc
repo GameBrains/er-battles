@@ -130,7 +130,7 @@ link:https://builder.epicremastered.com/print_21_unitlist.lc?listname=Ork+army+d
 === Space Marines army
 
 Space Marine detachment, _Force Hachiman_::
-1 x Space Marine Captain; 4 x Space Marine unit, with Assault option; 2 x Scout unit.
+1 x Space Marine Captain; 4 x Space Marine unit, with 4 x Assault option; 2 x Scout unit.
 +
 ****
 Historically, _Force Hachiman_ defended the assassin.

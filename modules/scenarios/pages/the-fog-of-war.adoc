@@ -62,7 +62,7 @@ Then alternate until both players have have placed all of their objective marker
 Each player must act as follows:
 .. Draw a playing card at random.
 .. Look at the face of the card, but do not reveal it to your opponent.
-.. Find the corresponding entry at <<Missions list>> and familiarise yourself with your mission -- and note how much of your army you'll get (the 'force size').
+.. Find the corresponding entry at <<missions-list>> and familiarise yourself with your mission -- and note how much of your army you'll get (the 'force size').
 .. Place your card aside, face down.
 
 == Disposition of forces
@@ -151,7 +151,7 @@ At the end of each Rally phase, roll a D6 and consult the table below; if you ge
 
 -- Psychic precognition::
 Psykers can often pick up fragments of information, impressions of the potential future and of what enemy plans may be.
-At the end of each Rally phase, roll a D6 for every {psyker} unit that you have within 45 cm of any enemy unit: If you score a 6 on any of these dice, then your Psykers perceive the enemy's plans -- your opponent must reveal their mission.
+At the end of each Rally phase, roll a D6 for every {psyker} unit that you have within 45 cm of any enemy unit: If you score a 6 on any of these dice, then your psykers perceive the enemy's plans -- your opponent must reveal their mission.
 
 == Game length and victory conditions
 

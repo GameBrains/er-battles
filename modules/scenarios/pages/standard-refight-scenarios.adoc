@@ -4,8 +4,8 @@ These scenarios outline confrontations that are 'historical' in the _Warhammer 4
 They offer pre-defined historical forces that use the contents of the original {e40k} boxed set.
 footnote:inaccurate[{e40k-diff}
 In the original {e40k} texts, some historical forces aren't a perfect match for the options and constraints that the corresponding army list defines.
-That's not really a problem; but we wanted to offer convenient links to ready-made (printable) force lists in the Detachment Builder -- and this demands exact selections that the builder offers.
-So, where necessary, our ready-made lists deviate very slightly from the original force lists.
+That's not really a problem; but we wanted to offer convenient links to ready-made (printable) army rosters in the Detachment Builder -- and this demands exact selections that the builder offers.
+So, where necessary, our ready-made army rosters deviate very slightly from the original specifications.
 Also, some Remastered units (and their points values) differ slightly from the originals, as we have updated them to match errata and/or rebalanced them.
 ]
 

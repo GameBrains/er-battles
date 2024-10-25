@@ -102,7 +102,7 @@ Ork Gargants detachment::
 {blank}[TODO: Create new data sheet for _Korps Grinda_/Great Gargant. In the meantime, we can refer to the original {e40k} content. (See https://thehobby.zone/resources/e40k-compendium/Content/Resources/Images/Illustrations/BattlesBook/Refight1GogardsLastStand_KorpsGrindaDataCard.gif[Korps Grinda data card^])]
 
 [TIP]
-.Ready-made force list in the Detachment Builder
+.Ready-made army roster in the Detachment Builder
 ====
 link:https://builder.epicremastered.com/print.lc?listname=Ork+army+detachments+for+Refight+1&listurl=https%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_Ork_Gargants%26force%3DKorps+Grinda%7E503&submitbuttonname=Submit[Ork army detachments for Refight 1^]
 ====
@@ -117,7 +117,7 @@ Space Marine detachment, _Force Lentus_::
 1 x Space Marine Captain, with Rhino option; 6 x Space Marine unit, with 3 x Rhino option.
 
 [TIP]
-.Ready-made force list in the Detachment Builder
+.Ready-made army roster in the Detachment Builder
 ====
 link:https://builder.epicremastered.com/print.lc?listname=Imperium+army+detachments+for+Refight+1&listurl=https%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_SM_Armoured%26force%3DForce%2520Citus%7E501%7E512%7E101x2%7E512%7E101x2%0D%0Ahttps%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_SM_Detachment%26force%3DForce+Adonis%7E501%7E502%7E130x1%7E511%7E116x1%7E511%7E116x1%0D%0Ahttps%3A%2F%2Fbuilder.epicremastered.com%2Fchooser.html%3Flist%3DRemastered_SM_Detachment%26force%3DIncompertus%7E501%7E502%7E130x1%7E100x1%7E511%7E114x1%7E100x1%7E511%7E114x1%7E100x1%7E511%7E114x1%7E100x1%0D%0A[Imperium army detachments for Refight 1^]
 ====

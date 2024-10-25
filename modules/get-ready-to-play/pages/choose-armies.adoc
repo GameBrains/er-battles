@@ -1,2 +1,46 @@
 = Choose armies
 
+To play a scenario, you and your opponent need to decide what armies you will use -- that is, which factions you will play, how big the armies will be, and the composition of each army.
+
+[TIP]
+====
+Some terms that we use a lot in relation to scenarios and army-building can be confusing, because we use them in multiple ways that sometimes overlap.
+For example, 'army' can mean a faction or sub-faction -- such as the Imperial army or Space Marines -- or it can mean the army that you built before a scenario, or it can mean the sum total of forces that you use in a scenario (which may or may not be exactly the same as the army you built).
+This problem stems from the original {e40k} texts (although it is not unique to {e40k}).
+
+We try to disambiguate through context, and through additional terms.
+So, for example: You choose the *army* (or *faction*) that you want to play, along with a corresponding *army list* that you wish to use to guide you as you build *your army*.
+When you build your army, you record its composition, and this record is your *army roster*.
+
+// Also consider what to do with terms like: *detachment*, *detachment list* and *detachment roster/card/sheet*; *force*;
+====
+
+== How to choose your army
+
+If you're using the pre-determined forces given in a Refight scenario, then you and your opponent just need to decide who will play each side.
+
+Otherwise, you each need to pick a faction and 'build' and document your armies.
+
+You can do this any way you like, but most players agree to use the standard army lists and to build to a particular maximum points value limit.
+The scenario you intend to play may also detail some special restrictions or requirements for the composition of one or both armies.
+
+For most scenarios, it is usual to agree these things in advance, as you need time to:
+
+* Gather your miniatures -- and perhaps finish some assembly and paint jobs.
+* Document your army build, so you have all your detachment cards and unit data sheets ready to use in your game session.
+
+You don't necessarily have to decide what scenario you will play at the same time as you decide on the points total and forces -- it's also fun to try to build a versatile army that and then adapt to the situation that you find yourselves in later.
+
+== Maximum points value limits
+
+{project-name} scales well to a wide range of maximum points value limits.
+
+* A limit of 1,500 or 2,000 per side is common for a typical game that you can easily complete within a few hours.
+* If you have enough miniatures and time then you might plan giant games with perhaps 6,000 points or more per side.
+Such games will take a whole day or more to play.
+* While you're assembling your collection or you simply want a very quick game or two, then you might play with as little as 500 points per side.
+* Of course, it can also be very interesting to play games in which one player has a much higher points limit than the other.
+This could be a simple handicap for one player who must do the best they can with what they've got -- or it could be part of the requirements of an asymmetrical scenario that grants each player different opportunities and win conditions.
+For ideas for asymmetrical scenarios, see xref:scenarios:the-fog-of-war.adoc[].
+
+Also note that if you use a high proportion of War Engine units then your games will tend to play faster for a given points total, as you don't have as many units to move and make decisions about.

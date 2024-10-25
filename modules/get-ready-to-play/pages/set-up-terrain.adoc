@@ -2,5 +2,33 @@
 
 {blank}[TODO: Write the default set-up guidance. In general we can summarise as "Set up the terrain in any mutually acceptable manner", but there are helpful guidelines and suggestions that we should also present.]
 
-.Related information
-* xref:more:random-terrain-generators.adoc[]
+How to set up terrain for the battle.
+
+Some scenarios require or suggest specific terrain elements, for which you may need to plan ahead.
+Otherwise, you should set up terrain as you and your opponent see fit.
+
+A common approach is for the player who is hosting the session to set up the terrain in advance, and then their opponent gets to choose which table edge they will use for deployment in the scenario.
+
+[TIP]
+====
+Consider what type of experience you and your opponent want -- it can have a big effect on your approach to terrain setup.
+
+There's a tendency for many players to focus on the most symmetrical scenarios and to distribute the terrain in such a way that no table edge offers a particular advantage to either opponent.
+
+That's fine if you and your opponent are hyper-competitive and inclined to a more tournament-like approach.
+But it does result in comparatively bland setups and a more repetitive feel to the game.
+
+There's a lot to be said for a narrative approach in which 'balance' takes a back seat and we focus on interesting situations instead.
+In this approach, each player must make the most of what they've got, even if they are at a clear disadvantage -- the fun is in the story that unfolds, the near misses, the feats of heroism in the face of appalling odds, not in who wins.
+
+This isn't Chess -- any semblance of 'balance' depends on a lot more than just the terrain.
+It can be a lot more fun to immerse yourselves in an interesting narrative than to obsess over 'balance' and winning.
+====
+
+However, you may want some more specific suggestions.
+
+Some general guidelines for your terrain setup:
+
+* Aim for the terrain to 'make sense'.
+
+If you'd like to use a semi-random approach to terrain setup, or you'd just like some further inspiration for terrain to represent different environments, see xref:more:random-terrain-generators.adoc[].

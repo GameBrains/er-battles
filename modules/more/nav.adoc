@@ -1,4 +1,5 @@
 * xref:more.adoc[]
+ ** xref:more-thoughts-on-points-values-limits.adoc[]
  ** xref:random-terrain-generators.adoc[]
   *** xref:agri-worlds.adoc[]
   *** xref:daemon-worlds.adoc[]

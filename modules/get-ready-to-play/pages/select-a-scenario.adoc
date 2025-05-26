@@ -6,6 +6,12 @@ Each scenario offers a unique combination of rules for setup and play, to model 
 
 We detail a range of scenarios at xref:scenarios:scenarios.adoc[].
 
+[NOTE]
+====
+You don't necessarily have to decide what scenario you will play before you choose armies -- it can also be fun to try to build a versatile army first, and then adapt to the situation that you find yourself in later.
+However, this may limit your choice of scenarios, as some scenarios specify restrictions or requirements for the composition of one or both armies.
+====
+
 == Types of scenario
 
 Scenarios can take many different forms, but {project-name} presents them broadly as follows:

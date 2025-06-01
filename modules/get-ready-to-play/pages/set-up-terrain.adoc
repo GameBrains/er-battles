@@ -1,34 +1,47 @@
 = Set up terrain
 
-{blank}[TODO: Write the default set-up guidance. In general we can summarise as "Set up the terrain in any mutually acceptable manner", but there are helpful guidelines and suggestions that we should also present.]
-
 How to set up terrain for the battle.
 
 Some scenarios require or suggest specific terrain elements, for which you may need to plan ahead.
 Otherwise, you should set up terrain as you and your opponent see fit.
 
-A common approach is for the player who is hosting the session to set up the terrain in advance, and then their opponent gets to choose which table edge they will use for deployment in the scenario.
+There are many ways to go about this, but we provide some ideas below.
+Consider what type of experience you and your opponent want, and use whatever idea or combination of ideas works best for you.
 
-[TIP]
-====
-Consider what type of experience you and your opponent want -- it can have a big effect on your approach to terrain setup.
+== General advice for terrain setup
 
-There's a tendency for many players to focus on the most symmetrical scenarios and to distribute the terrain in such a way that no table edge offers a particular advantage to either opponent.
+It's one thing to have access to lots of terrain -- it's quite another thing to place it in ways that make for exciting battlefields.
+An engaging terrain setup makes a big difference to your game experience.
+It adds a wealth of narrative and visual excitement to your miniature armies as they fight, and it can provide interesting challenges and opportunities to your gameplay.
 
-That's fine if you and your opponent are hyper-competitive and inclined to a more tournament-like approach.
-But it does result in comparatively bland setups and a more repetitive feel to the game.
+Aim for the terrain to 'make sense'.
+It only takes a little extra effort, and it's much more satisfying when the battlefield has some internal logic that makes it feel somewhat believable.
+Think about how the different pieces of terrain might relate to each other if the battlefield location were real.
+For example:
 
-There's a lot to be said for a narrative approach in which 'balance' takes a back seat and we focus on interesting situations instead.
-In this approach, each player must make the most of what they've got, even if they are at a clear disadvantage -- the fun is in the story that unfolds, the near misses, the feats of heroism in the face of appalling odds, not in who wins.
+* Don't just place buildings at intervals to break up lines of sight, but rather cluster them together in groups where they might relate to each other and to the surrounding terrain.
+* If you have an industrial facility or other buildings next to a river, it probably makes sense to place a bridge or ford nearby, to connect it to the lands beyond -- even a wrecked bridge will do, to create a more credible scene.
+* Remember that roads don't normally terminate in the middle of nowhere -- they usually head off the edges of the battlefield, out of sight, or terminate at some feature, such as a power station, a mine or a farm.
 
-This isn't Chess -- any semblance of 'balance' depends on a lot more than just the terrain.
-It can be a lot more fun to immerse yourselves in an interesting narrative than to obsess over 'balance' and winning.
-====
+== Option: Hosting player sets up terrain in advance
 
-However, you may want some more specific suggestions.
+This is a common approach, especially for games where a well-equipped player can host the game at their home:
+The hosting player sets up the terrain in advance, and then their opponent gets to choose which table edge they will use for deployment in the scenario.
 
-Some general guidelines for your terrain setup:
+This approach affords the hosting player the opportunity to choose from their terrain collection and lay out a really nice battlefield setup, without reducing the time available for the game session.
 
-* Aim for the terrain to 'make sense'.
+One slight drawback of this approach is that it incentivises the hosting player to make 'balanced' battlefields in which no deployment edge or terrain item offers a particular advantage or disadvantage to either player.
+That's fine if you want to play a tournament-style game -- but it does tend to result in comparatively bland battlefields and, over time, a more repetitive feel to the game.
 
-If you'd like to use a semi-random approach to terrain setup, or you'd just like some further inspiration for terrain to represent different environments, see xref:more:random-terrain-generators.adoc[].
+== Option: Semi-random process for terrain setup
+
+Perhaps you find the idea of just laying out the terrain a bit daunting.
+Or, maybe you've done that many times and feel the need for something outside of your usual habits.
+Either way, randomised terrain setup is here to help.
+
+Of course, randomised terrain will sometimes yield results that don't make a lot of sense for your battlefield.
+So, where a randomised terrain result doesn't seem to work well, feel free to move terrain items around a bit to make it work, or generate a different result.
+
+For some ready-to-use random terrain generators and themed terrain types, see xref:more:random-terrain-generators.adoc[].
+
+TIP: For the best experience, treat randomised terrain generators and results as suggestions, not requirements -- adjust as you and your opponent feel appropriate.

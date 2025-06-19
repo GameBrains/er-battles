@@ -1,0 +1,30 @@
+= Hive world terrain
+
+On hive worlds it is assumed that battles are fought in the wastelands surrounding the hives.
+The hives themselves are massive and even a small part of one would fill a wargames board many times over.
+
+== Random terrain generator
+
+.Hive world terrain generator
+[cols="^1h,6*^", options="header"]
+////
+8 Ash Waste
+7 Old Ruin
+6 Ash Dunes
+5 Sludge
+4 Chem Waste
+3 Mine
+3 Settlement
+////
+|===
+| D6 | 1         | 2            | 3         | 4         | 5          | 6         
+| 1  | Ash Waste | Ash Waste    | Old Ruin  | Ash Dunes | Sludge     | Mine 
+| 2  | Ash Waste | Ash Waste    | Old Ruin  | Ash Dunes | Sludge     | Mine 
+| 3  | Ash Waste | Old Ruin     | Old Ruin  | Ash Dunes | Chem Waste | Mine 
+| 4  | Ash Waste | Old Ruin     | Ash Dunes | Sludge    | Chem Waste | Settlement
+| 5  | Ash Waste | Old Ruin     | Ash Dunes | Sludge    | Chem Waste | Settlement
+| 6  | Ash Waste | Old Ruin     | Ash Dunes | Sludge    | Chem Waste | Settlement
+|===
+
+== Terrain types
+

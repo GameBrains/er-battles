@@ -1,0 +1,28 @@
+= Death world terrain
+
+== Random terrain generator
+
+.Death world terrain generator
+[cols="^1h,6*^", options="header"]
+////
+9 Wood
+7 Hill
+5 Ruins
+5 Swamp
+3 Outpost
+3 River
+2 Craters
+2 Lab
+////
+|===
+| D6 | 1    | 2       | 3     | 4       | 5         | 6      
+| 1  | Wood | Wood    | Hill  | Ruins   | Swamp     | River   
+| 2  | Wood | Wood    | Hill  | Ruins   | Swamp     | River  
+| 3  | Wood | Wood    | Hill  | Ruins   | Outpost   | Craters
+| 4  | Wood | Hill    | Hill  | Swamp   | Outpost   | Craters  
+| 5  | Wood | Hill    | Ruins | Swamp   | Outpost   | Lab   
+| 6  | Wood | Hill    | Ruins | Swamp   | River     | Lab
+|===
+
+== Terrain types
+

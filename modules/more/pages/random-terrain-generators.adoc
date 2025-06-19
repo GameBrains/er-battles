@@ -3,9 +3,9 @@
 How to use the random terrain generators that you'll find in this section, plus some notes on how to create your own generator.
 
 The generators cover a range of different themes, with terrain types that fit the theme in each case.
-Many of these terrain types have ideas for rules to make them a little different from the 'standard' terrain types that we list in the core rules.
+Many of these terrain types have ideas for rules to make them a little different from the 'standard' terrain types that we include in the core rules.
 
-== How to use random terrain generators
+== How to use the random terrain generators
 
 When you're ready to set up terrain for your game:
 
@@ -20,27 +20,42 @@ Then, for each section, repeat these steps as many times as your D3 score for th
 . Check the scores against the generator you chose, and identify the resultant terrain type.
 . Place that terrain type in that section.
 (In general, each terrain piece should occupy an area of about 15 to 20 cm square -- although hills and other contours can be quite a bit bigger.)
-. Arrange all terrain types you generate for that section in a way that makes sense -- but don't be afraid to adjust terrain again after you've generated the final section.
+
+Finally, arrange the terrain pieces so that they make sense -- not only within each section, but also as a whole.
+Don't be afraid to shift things around a bit to make an interesting and believeable battlefield.
 
 == Create your own random terrain generator
 
 Feel free to adjust any of the ready-to-use random terrain generators, or use them as inspiration for your own.
 
-Or, allocate the different types of terrain item in your collection to a letter, A through G.
-(You might decide that all hills and contours equate to slot A, woods are slot B, buildings are slot C, and so on.)
-And then use the following generator:
+Or, for a quick, generalised solution that you can use with whatever terrain you have to hand:
 
-.Create-your-own random terrain generator table
-[cols="1h,6*", options="header"]
+. Allocate the different types of terrain item in your collection to a letter, A through G.
+(You might decide that all hills and contours equate to slot A, woods are slot B, buildings are slot C, and so on.)
+. Use this generator:
++
+--
+.Generalised terrain generator
+[cols="^1h,6*^", options="header"]
+////
+9 A
+5 B
+5 C
+5 D
+4 E
+4 F
+4 G
+////
 |===
 | D6 | 1 | 2 | 3 | 4 | 5 | 6
-| 1  | A | C | B | C | C | C
-| 2  | B | C | F | E | C | A
-| 3  | C | D | A | D | A | B
-| 4  | D | A | C | D | G | C
-| 5  | E | G | E | G | E | F
-| 6  | F | E | G | F | B | F
+| 1  | A | A | B | C | E | F
+| 2  | A | A | B | D | E | F
+| 3  | A | A | C | D | E | G
+| 4  | A | B | C | D | E | G
+| 5  | A | B | C | D | F | G
+| 6  | A | B | C | D | F | G
 |===
+--
 
 .Related information
 * xref:get-ready-to-play:set-up-terrain.adoc[]

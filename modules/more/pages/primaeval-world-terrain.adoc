@@ -1,0 +1,32 @@
+= Primaeval world terrain
+
+== Random terrain generator
+
+.Primaeval world terrain generator
+[cols="^1h,6*^", options="header"]
+////
+7 Hill
+5 Rubble
+4 Primaeval Jungles
+3 Ash Clouds
+3 Craters
+3 Lava Flow Tunnels
+2 Boiling Mud
+2 Cooled Lava Flow
+2 Huge Rocks
+2 Magma River
+2 Volcano
+1 Crystal Forest
+////
+|===
+| D6 | 1    | 2         | 3                 | 4                 | 5                 | 6
+| 1  | Hill | Hill      | Primaeval Jungles | Ash Clouds        | Lava Flow Tunnels | Huge Rocks
+| 2  | Hill | Rubble    | Primaeval Jungles | Craters           | Boiling Mud       | Magma River
+| 3  | Hill | Rubble    | Primaeval Jungles | Craters           | Boiling Mud       | Magma River
+| 4  | Hill | Rubble    | Primaeval Jungles | Craters           | Cooled Lava Flow  | Volcano
+| 5  | Hill | Rubble    | Ash Clouds        | Lava Flow Tunnels | Cooled Lava Flow  | Volcano
+| 6  | Hill | Rubble    | Ash Clouds        | Lava Flow Tunnels | Huge Rocks        | Crystal Forest
+|===
+
+== Terrain types
+

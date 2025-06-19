@@ -1,0 +1,34 @@
+= Daemon world terrain
+
+A daemon world is a planet that has been corrupted and warped by the power of Chaos and the Warp.
+This is the typical fate of planets that become trapped in a prolonged Warp rift.
+
+These worlds exist as bizarre realms where the laws of physics break down and powerful daemonic entities shape the environment to suit their whims.
+
+== Random terrain generator
+
+.Daemon world terrain generator
+[cols="^1h,6*^", options="header"]
+////
+6 Hill
+6 River
+6 Road
+5 Cliff
+5 Temple
+3 Graveyard
+3 Wood
+1 Chaos Plain
+1 Fire Storm
+////
+|===
+| D6 | 1    | 2     | 3    | 4      | 5         | 6         
+| 1  | Hill | River | Road | Cliff  | Temple    | Graveyard     
+| 2  | Hill | River | Road | Cliff  | Temple    | Wood      
+| 3  | Hill | River | Road | Cliff  | Temple    | Wood     
+| 4  | Hill | River | Road | Cliff  | Temple    | Wood      
+| 5  | Hill | River | Road | Cliff  | Graveyard | Chaos Plain    
+| 6  | Hill | River | Road | Temple | Graveyard | Fire Storm
+|===
+
+== Terrain types
+

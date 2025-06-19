@@ -15,7 +15,7 @@ And in the meantime, it's best to get familiar with the rules through smaller ga
 
 This should be obvious, but it's good to remind ourselves: You don't have to use the same maximum points value limit for both players, and other conditions don't have to be 'equal' either.
 
-This isn't chess, and you and your opponent shouldn't let the notion of 'balance' limit your imaginations.
+This isn't Chess, and you and your opponent shouldn't let the notion of 'balance' limit your imaginations.
 If you specifically want to play tournament-style games where all of the conditions create a nominally even chance of winning for both sides, then go for it -- but don't let this symmetrical approach dominate your thinking as 'the only way to play'.
 There's a rich world of other ways to play tabletop wargames.
 
@@ -23,10 +23,20 @@ Real battles rarely involve evenly-matched forces, and it can be very interestin
 This is especially fun if you develop a narrative for the battle and play 'for the story' --  that is, don't just focus on the mere fact of winning or losing a game, but rather do the best you can with what you've got, and translate the successes and failures into desperate last stands and other thrilling highlights of the story.
 
 That said, it is generally best to pair a difference in maximum points value limits for each player with other differences in the scenario that you intend to play -- differences in setup or objectives, which should go some way to compensate for the difference in the points limit.
-Don't strive for 'balance' -- just aim to make the scenario and the narrative engaging enough to keep both players invested in the outcome.
+Don't focus on 'balance' -- just aim to make the scenario and the narrative engaging enough to keep both players invested in the outcome.
 
 Many of the scenarios at xref:scenarios:scenarios.adoc[] are asymmetrical in some way.
 xref:scenarios:the-fog-of-war.adoc[] is a particularly rich source of asymmetrical missions that you can play as-is or adapt into bigger, standalone scenarios.
+
+[TIP]
+====
+There's a lot to be said for a narrative approach in which 'balance' takes a back seat and we focus on interesting situations instead.
+In this approach, each player must make the most of what they've got, even if they are at a clear disadvantage.
+The fun is in the story that unfolds, the near misses, the feats of heroism in the face of appalling odds -- not just in who wins the game.
+
+Also, objectives and victory conditions can reflect a deliberate imbalance.
+For example, one side might be doomed to annihilation in a particular scenario, but could nevertheless win if it can delay the opposition long enough or inflict enough damage to serve a higher strategic goal.
+====
 
 == Proportion of War Engine units
 

@@ -1,0 +1,33 @@
+= Ice world terrain
+
+== Random terrain generator
+
+.Ice world terrain generator
+[cols="^1h,6*^", options="header"]
+////
+7 Hill
+4 Lake
+3 Glacier
+3 Ice Crevasse
+3 Research Station
+3 Thin Ice
+2 Blizzard
+2 City Entrance
+2 Iceberg
+2 Ship Wreck
+2 The Sea
+2 Thick Ice
+1 Ice Cliff
+////
+|===
+| D6 | 1    | 2         | 3                 | 4                 | 5             | 6               
+| 1  | Hill | Hill      | Glacier           | Research Station  | Blizzard      | Ship Wreck  
+| 2  | Hill | Lake      | Glacier           | Research Station  | City Entrance | The Sea            
+| 3  | Hill | Lake      | Ice Crevasse      | Thin Ice          | City Entrance | The Sea
+| 4  | Hill | Lake      | Ice Crevasse      | Thin Ice          | Iceberg       | Thick Ice       
+| 5  | Hill | Lake      | Ice Crevasse      | Thin Ice          | Iceberg       | Thick Ice       
+| 6  | Hill | Glacier   | Research Station  | Blizzard          | Ship Wreck    | Ice Cliff       
+|===
+
+== Terrain types
+

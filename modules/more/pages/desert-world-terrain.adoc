@@ -1,0 +1,30 @@
+= Desert world terrain
+
+== Random terrain generator
+
+.Desert world terrain generator
+[cols="^1h,6*^", options="header"]
+////
+7 Hill
+5 Cliff
+5 Road
+4 Complex
+4 Dune
+4 Rock Spires
+2 Oasis
+2 Oil Pit
+2 Sandstorm
+1 Quicksand
+////
+|===
+| D6 | 1    | 2     | 3         | 4         | 5           | 6        
+| 1  | Hill | Hill  | Road      | Complex   | Dune        | Oasis     
+| 2  | Hill | Cliff | Road      | Complex   | Rock Spires | Oil Pit     
+| 3  | Hill | Cliff | Road      | Complex   | Rock Spires | Oil Pit     
+| 4  | Hill | Cliff | Road      | Dune      | Rock Spires | Sandstorm
+| 5  | Hill | Cliff | Road      | Dune      | Rock Spires | Sandstorm    
+| 6  | Hill | Cliff | Complex   | Dune      | Oasis       | Quicksand
+|===
+
+== Terrain types
+

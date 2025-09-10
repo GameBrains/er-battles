@@ -1,7 +1,6 @@
 = Hive world terrain
 
-On hive worlds it is assumed that battles are fought in the wastelands surrounding the hives.
-The hives themselves are massive and even a small part of one would fill a wargames board many times over.
+
 
 == Random terrain generator
 
@@ -28,3 +27,16 @@ The hives themselves are massive and even a small part of one would fill a warga
 
 == Terrain types
 
+=== Ash Dunes
+
+=== Ash Waste
+
+=== Chem Wastes
+
+=== Mine
+
+=== Old Ruin
+
+=== Settlement
+
+=== Sludge

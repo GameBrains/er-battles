@@ -1,5 +1,69 @@
 = Death world terrain
 
+Some worlds are notorious for their prevalence of exceedingly dangerous flora and fauna, to the extent that they are actually known as 'death worlds'.
+
+== Special rules
+
+=== Extra-dangerous terrain
+
+Normally, you fail a dangerous terrain test on a D6 roll of 1.
+When you play over a death world battlefield, you fail on a *1 or 2*, as follows:
+
+When you wish to move a unit into dangerous terrain, or when you wish to move a unit that is already in dangerous terrain, roll a D6:
+
+* On a result of *1 or 2*:
+You may not move the unit any farther -- leave it at the edge of the dangerous terrain.
+Or, where the unit is already in dangerous terrain, you may not move it.
+Then roll a D6 again: If you roll a 1 then the unit takes a hit.
+* On any other result: You may move the unit as normal.
+
+=== No March orders
+
+The flora and fauna of death worlds are a serious impediment to the movement of units.
+
+* Players may not use March orders for any detachments.
+
+=== No safe ground
+
+On death worlds, even open ground is home to some serious unseen natural dangers -- such as deadly creatures that lurk in burrows and attack anything that strays into their domain.
+
+* In the start of each turn, before players roll for Reserves, check which detachments have units in open ground.
+Then select one of these detachments at random -- that detachment takes a hit from a random direction, and gains a Blast marker.
+footnote:dir[{e40k-diff}
+{e40k} makes no mention of direction -- we add the random direction as you normally need to know the direction an attack is coming from in order to allocate hits within a detachment.
+]
+
+=== Unpredictable weather
+
+Death worlds typically have turbulent atmospheres that make for unstable weather patterns.
+
+At the start of each turn roll a die:
+
+[cols="^1,5", options="header"]
+|===
+|D6
+|Weather
+
+|1 to 3
+|Clear.
+The weather is relatively calm... for now.
+No effect.
+
+|4
+|Hail like boulders.
+First, determine a random direction -- then, allocate a hit to every detachment, from this direction.
+footnote:dir[{e40k-diff}]
+
+|5
+|Extreme rain.
+Add a Blast marker to each detachment that is in the playing area.
+
+|6
+|Severe thunderstorm.
+First, determine a random direction -- then, resolve a Firepower 4 attack on every detachment, from this direction.
+footnote:dir[{e40k-diff}]
+|===
+
 == Random terrain generator
 
 .Death world terrain generator
@@ -15,14 +79,30 @@
 2 Lab
 ////
 |===
-| D6 | 1    | 2       | 3     | 4       | 5         | 6      
-| 1  | Wood | Wood    | Hill  | Ruins   | Swamp     | River   
-| 2  | Wood | Wood    | Hill  | Ruins   | Swamp     | River  
-| 3  | Wood | Wood    | Hill  | Ruins   | Outpost   | Craters
-| 4  | Wood | Hill    | Hill  | Swamp   | Outpost   | Craters  
-| 5  | Wood | Hill    | Ruins | Swamp   | Outpost   | Lab   
-| 6  | Wood | Hill    | Ruins | Swamp   | River     | Lab
+| D6 | 1        | 2       | 3     | 4       | 5         | 6
+| 1  | Woods    | Woods   | Hill  | Ruins   | Swamp     | River
+| 2  | Woods    | Woods   | Hill  | Ruins   | Swamp     | River
+| 3  | Woods    | Woods   | Hill  | Ruins   | Outpost   | Craters
+| 4  | Woods    | Hill    | Hill  | Swamp   | Outpost   | Craters
+| 5  | Woods    | Hill    | Ruins | Swamp   | Outpost   | Laboratory
+| 6  | Woods    | Hill    | Ruins | Swamp   | River     | Laboratory
 |===
 
 == Terrain types
 
+=== Hill
+
+Just a standard hill -- but it's also open ground, so remember to apply the <<No safe ground>> special rule.
+
+=== Laboratory
+
+=== Outpost
+
+=== Ruins
+
+=== Swamp
+
+=== Woods
+
+.Related information
+* xref:core:main-rules:terrain-effects-on-movement.adoc#dangerous-terrain-test[Dangerous terrain test]

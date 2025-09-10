@@ -28,3 +28,22 @@
 
 == Terrain types
 
+=== Depot
+
+=== Factory
+
+=== Furnace
+
+=== Landing Pad
+
+=== Molten River
+
+=== Power Station
+
+=== Road
+
+=== Scrap
+
+=== Smelting Works
+
+=== Temple

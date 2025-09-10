@@ -30,3 +30,18 @@
 
 == Terrain types
 
+=== Ash Clouds
+
+=== Boiling Mud
+
+=== Cooled Lava Flow
+
+=== Lava Flow Tunnels
+
+=== Magma River
+
+=== Open Ground
+
+=== Primaeval Jungles
+
+=== Volcano

@@ -44,4 +44,8 @@ So, where a randomised terrain result doesn't seem to work well, feel free to mo
 
 For some ready-to-use random terrain generators and themed terrain types, see xref:more:random-terrain-generators.adoc[].
 
-TIP: For the best experience, treat randomised terrain generators and results as suggestions, not requirements -- adjust as you and your opponent feel appropriate.
+TIP: For the best experience, treat randomised terrain generators and results as suggestions, not requirements -- adjust as you and your opponent see fit.
+
+.Related information
+* xref:more:terrain-types.adoc[]
+* xref:more:terrain-conventions.adoc[]

@@ -28,3 +28,22 @@
 
 == Terrain types
 
+=== Cliff
+
+=== Complex
+
+=== Dune
+
+=== Hill
+
+=== Oasis
+
+=== Oil Pit
+
+=== Quicksand
+
+=== Road
+
+=== Rock Spires
+
+=== Sandstorm

@@ -1,0 +1,60 @@
+= Terrain types
+
+After you've placed all of the terrain, be sure to discuss the different items and agree what terrain type they are and what rules will apply.
+It is much better to do this now than to suffer needless confusion and disagreement part-way through the game.
+
+We list some broad interpretations below, for terrain that we list in the xref:core:more:quick-reference.adoc#terrain-table[Terrain effects summary] table.
+
+.Fortifications
+[%collapsible]
+====
+Bunkers, redoubts, fortresses, citadels, towers.
+You might also treat trenches, emplacements, gun pits, fox holes and similar as fortifications, but you should not consider these to be impassable to War Engine units unless they're very large.
+====
+
+.Buildings
+[%collapsible]
+====
+Basically, anything with walls and a roof -- but see also <<ruins>>.
+====
+
+[[ruins]]
+.Ruins; Rubble
+[%collapsible]
+====
+
+====
+
+.Woods
+[%collapsible]
+====
+Closely-packed trees, forests, jungles, heavy vegetation.
+====
+
+.Marsh, Swamp
+[%collapsible]
+====
+
+====
+
+.River
+[%collapsible]
+====
+
+====
+
+.Roads
+[%collapsible]
+====
+
+====
+
+.Open Ground
+[%collapsible]
+====
+
+====
+
+If you feel that a given terrain item doesn't fit any of these interpretations, don't be afraid to simply decide that it 'counts as' something -- "This terrain item counts as ruins", or whatever.
+
+TIP: You can find ideas for many more terrain types at xref:more:random-terrain-generators.adoc[].

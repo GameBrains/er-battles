@@ -1,0 +1,113 @@
+= Agri-world terrain
+
+An agricultural world, or 'agri-world', is a planet that is dedicated entirely to the production of agricultural goods.
+
+== Random terrain generator
+
+.Agri-world terrain generator
+[cols="^1h,6*^", options="header"]
+////
+9 Fields
+5 Farmstead
+4 Herd
+4 Hill
+4 Plantation
+3 Barn
+3 Reservoir
+3 River
+1 Settlement
+////
+|===
+| D6 | 1        | 2             | 3             | 4             | 5             | 6         
+| 1  | Fields   | Fields        | Farmstead     | Hill          | Plantation    | Reservoir    
+| 2  | Fields   | Fields        | Farmstead     | Hill          | Plantation    | Reservoir      
+| 3  | Fields   | Fields        | Herd          | Hill          | Barn          | River
+| 4  | Fields   | Farmstead     | Herd          | Hill          | Barn          | River    
+| 5  | Fields   | Farmstead     | Herd          | Plantation    | Barn          | River      
+| 6  | Fields   | Farmstead     | Herd          | Plantation    | Reservoir     | Settlement      
+|===
+
+== Terrain types
+
+=== Barn
+
+A single large agricultural storage building.
+
+.Game effects
+Treat as usual for a building.
+
+=== Farmstead
+
+A small collection of agricultural buildings, outhouses and equipment.
+Often surrounded or integrated with an enclosing wall or fence, and usually serviced by a road, or at least a dirt track.
+
+.Game effects
+Treat as usual for buildings and such, but with this optional rule if you and your opponent agree:
+
+* *Optional -- the "Get off my land" special rule*:
+Farmers in this region are particularly cranky.
+Any Infantry unit that approaches within 10 cm of a farmstead during the Movement phase is subject to the Snap Fire rule.
+
+=== Fields
+
+Depending on the season and the effects of war, fields might contain crops, be recently ploughed, razed, or simply fallow.
+Fields can vary enormously in scale -- from small fields associated with a private landholding, to very large fields that might be occupied by massive harvesting machines.
+
+.Tips for representation
+* Use a suitable area terrain item -- perhaps a realistic-looking miniature field of crops, or simply a sheet of felt or other flexible in a suitable colour or pattern.
+* Or, use linear features such as hedgerows, walls and fences to define the perimiter of the field.
+* Or, use both of the above options together for a nice combined effect.
+
+.Game effects
+Treat as open ground, with this difference:
+
+* Infantry units in a field count as 'in cover' on the Firepower table (but do not receive an Infantry Armour bonus).
+
+=== Herd
+
+A large herd of animals that are grazing on the land.
+
+.Game effects
+Add these effects to those of the underlying terrain (usually open ground or a field):
+
+* For herds of regular-sized creatures:
+Infantry units that move through a herd count it as dangerous terrain; Vehicle and War Engine units are unaffected (the creatures move out of the way).
+* For herds of megafauna:
+Infantry and Vehicle units that move through a herd count it as dangerous terrain; War Engine units are unaffected (the creatures move out of the way).
+
+For simplicity, there is no need to move the boundaries of the herd itself during the course of the game.
+
+=== Plantation
+
+Plantations are similar to woods, but the trees (or similar flora) are of a uniform type, planted in straight lines.
+
+.Game effects
+Treat as woods, with this difference:
+
+* Plantations are not dangerous terrain for Vehicle units.
+
+=== Reservoir
+
+A body of water, to store water to supply nearby habitation and industry.
+Reservoirs contain deep water and have steep sides, and usually have attendant attendant pumping stations, connected canals, and perhaps a dam at one end (depending on the local topography, of course).
+
+.Game effects
+Treat as impassable for all ground units.
+
+=== River
+
+A natural river, or a series of canals for irrigation, drainage or transport.
+
+.Game effects
+Treat as usual for a river.
+
+=== Settlement
+
+A cluster of buildings, mainly residential -- perhaps a village outskirts of a town or city.
+Usually serviced by roads.
+
+.Game effects
+Treat as usual for buildings and roads.
+
+.Related information
+* xref:core:main-rules:snap-fire.adoc[]

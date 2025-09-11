@@ -1,0 +1,59 @@
+= More thoughts on points value limits
+
+Some further points that you might like to consider on the subject of maximum points value limits and the 'size' of your games.
+
+== As little as you like, or as much as you can manage
+
+While you're assembling your collection -- or when you simply want a very quick game or two -- then you might play to a limit as low as, say, 500 points.
+Just use a handful of small detachments rather than a single giant one, so you're still playing an interesting game of manoeuvre.
+
+You might aspire to play a giant game with a limit of perhaps 8,000 points -- but that demands a large number of miniatures and other game accessories, which you might not have access to yet.
+It's a fun goal to work towards though.
+And in the meantime, it's best to get familiar with the rules through smaller games, so that you become fluent -- otherwise, you'll find your grand battle much less satisfying than you'd hoped.
+
+== Asymmetrical games
+
+This should be obvious, but it's good to remind ourselves: You don't have to use the same maximum points value limit for both players, and other conditions don't have to be 'equal' either.
+
+This isn't Chess, and you and your opponent shouldn't let the notion of 'balance' limit your imaginations.
+If you specifically want to play tournament-style games where all of the conditions create a nominally even chance of winning for both sides, then go for it -- but don't let this symmetrical approach dominate your thinking as 'the only way to play'.
+There's a rich world of other ways to play tabletop wargames.
+
+Real battles rarely involve evenly-matched forces, and it can be very interesting to play games in which one player has a much higher points value limit than the other.
+This is especially fun if you develop a narrative for the battle and play 'for the story' --  that is, don't just focus on the mere fact of winning or losing a game, but rather do the best you can with what you've got, and translate the successes and failures into desperate last stands and other thrilling highlights of the story.
+
+That said, it is generally best to pair a difference in maximum points value limits for each player with other differences in the scenario that you intend to play -- differences in setup or objectives, which should go some way to compensate for the difference in the points limit.
+Don't focus on 'balance' -- just aim to make the scenario and the narrative engaging enough to keep both players invested in the outcome.
+
+Many of the scenarios at xref:scenarios:scenarios.adoc[] are asymmetrical in some way.
+xref:scenarios:the-fog-of-war.adoc[] is a particularly rich source of asymmetrical missions that you can play as-is or adapt into bigger, standalone scenarios.
+
+[TIP]
+====
+There's a lot to be said for a narrative approach in which 'balance' takes a back seat and we focus on interesting situations instead.
+In this approach, each player must make the most of what they've got, even if they are at a clear disadvantage.
+The fun is in the story that unfolds, the near misses, the feats of heroism in the face of appalling odds -- not just in who wins the game.
+
+Also, objectives and victory conditions can reflect a deliberate imbalance.
+For example, one side might be doomed to annihilation in a particular scenario, but could nevertheless win if it can delay the opposition long enough or inflict enough damage to serve a higher strategic goal.
+====
+
+== Proportion of War Engine units
+
+If you use a high proportion of War Engine units then your games will tend to play faster for a given points total, as you don't have as many units to move and make decisions about.
+
+== Size of your playing area
+
+A traditional wargames table affords an area in the range of 4 to 6 foot (~120 to 180 cm) deep by 6 to 8 foot (~180 to 240 cm) wide, or even bigger (for those lucky enough to have the space).
+As a general rule of thumb, your maximum points value limit should be in the range of 10 to 20 points per centimetre of table width.
+
+.Maximum points value limit as a function of the width of the playing area
+====
+On a playing area that is 180 cm wide, the optimum maximum points value limit is likely to be in the range of 1,800 to 3,600 points.
+====
+
+This is only a guide: In practice, the main factor will be the degree to which overcrowding is a problem -- and this depends on the nature of the scenario and the particular forces that are involved.
+At the extremes, 'horde' armies (typical of Orks and Tyranids) always need more room than 'elite' armies (typical of armies comprised primarily of Space Marines or Eldar).
+
+.Related information
+* xref:get-ready-to-play:choose-armies.adoc#max-points-limit[Maximum points value limit]

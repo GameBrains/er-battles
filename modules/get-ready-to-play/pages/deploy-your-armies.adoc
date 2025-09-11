@@ -1,2 +1,22 @@
 = Deploy your armies
 
+How to deploy your armies in the playing area.
+
+Each scenario includes specific instructions on deployment, but here we'll explain some general points.
+
+== Position of your units
+
+Within the restrictions that the scenario specifies, you may position units anywhere that that is not impassable to them.
+However, any time you want to place a unit in terrain that is Dangerous to it, you must make an immediate Dangerous Terrain test: if you fail the test then you may not deploy the unit in that terrain -- and as usual you must roll again to see if the unit takes a hit.
+
+== Table edge
+
+In many scenarios it is important to know which edge of the playing area -- or 'table edge' -- is 'yours'.
+Some scenarios specify this, while others let you choose.
+When you  have the choice, you can opt for any one of the following (and your opponent will get the opposite edge):
+
+* A long edge.
+* A short edge.
+* A corner edge -- up to half-way along both a long and a short edge that meet each other.
+
+{blank}[TODO: Example diagram to show each choice, and the half-way lines. Consider how best to use distinct terms for distinct meanings, to disambiguate throughout the scenarios; such as 'table edge' and 'deployment edge' (and potentially even 'Reserves arrival edge' or similar, as there is a difference from the deployment edge in some scenarios).]

@@ -1,0 +1,46 @@
+= Terrain conventions
+
+Guidelines for how you should interpret rules for different types of terrain.
+
+The nature of this type of game and the infinite variety of physical terrain pieces makes it impossible to write specific rules about terrain that are unambiguous for all situations.
+You and your opponent will often encounter 'edge cases' where you need to exercise some judgement and agree how you will proceed.
+
+With that in mind, we offer some general guidance that you should adapt as necessary.
+
+== General terrain conventions
+
+You can think of your terrain items in two broad classes: area terrain, and free-standing terrain.
+
+=== Area terrain
+
+Items that represent features like: ruins and rubble; groups of craters; rough ground; woods; marshes and swamps; and so on.
+
+Typically, these features are modelled on bases that we can use to define the perimeter of the terrain effects for gameplay.
+Or, you use a number of items together and then mark the perimeter in some other way to identify the boundaries of the terrain effects.
+Either way, the terrain items should form discrete zones in the the playing area, otherwise it is difficult for you and your opponent to determine where the terrain feature begins and ends for gameplay purposes.
+
+For gameplay, we generally assume that if a unit's miniature is within the perimeter of a terrain item then the unit is 'in' that terrain and subject to its effects.
+So, for example, if a miniature is outside the walls of a ruined building but within the perimeters of the ruin's base, then that unit is 'in' the ruins.
+However this may not be appropriate where your terrain item has a number of features on an especially large base -- in such cases, it is usually best to treat each feature as 'free-standing terrain'.
+
+=== Free-standing terrain
+
+Items that represent discrete features, such as: hedges, walls and perhaps crater walls (as an alternative to craters as area terrain); rock stacks and spires; individual buildings; and so on.
+
+With such terrain items we assume that a unit is only In Cover if its miniature is actually in contact with the free-standing terrain item, and the item lies between the unit and the enemy that is targeting it.
+{blank}[TODO: Clarify further -- for example, if a rock spire shields half of a War Engine unit from view, I believe that most players would treat that as In Cover even if the War Engine unit isn't in contact with the rock spire.]
+A unit counts as moving over the terrain only if the player measures its movement such that its miniature will travel over the terrain item (usually this only poses problems for War Engine units).
+
+== Specific terrain conventions
+
+You an your opponent should play as you prefer, but you may find these guidelines helpful as a default for some common situations.
+
+Line of fire in woods and buildings::
+For line of fire purposes, units can see up to 10 cm *into*, *out of* and *within* woods and buildings -- but cannot see *through* them.
+footnote:[{e40k-diff}
+{e40k} states that "The line of fire rules assume that woods and buildings are no more than about 15 cm long and 15 cm wide" and then goes on to suggest that players divide larger woods and buildings into several areas for line of fire purposes.
+We've borrowed a convention from _Epic Armageddon_, which we think is a lot more straightforward.
+]
+
+.Related information
+* xref:core:main-rules:add-up-shooting-firepower.adoc#_line_of_fire[Line of fire]

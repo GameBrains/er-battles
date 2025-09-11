@@ -2,8 +2,6 @@
  ** xref:select-a-scenario.adoc[]
  ** xref:choose-armies.adoc[]
  ** xref:set-up-terrain.adoc[]
-  *** xref:terrain-types.adoc[]
-  *** xref:terrain-conventions.adoc[]
  ** xref:draw-fate-cards.adoc[]
  ** xref:deploy-your-armies.adoc[]
  ** xref:play-the-scenario.adoc[]

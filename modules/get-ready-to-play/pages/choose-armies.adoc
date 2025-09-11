@@ -1,2 +1,54 @@
 = Choose armies
 
+To play a scenario, you and your opponent need to decide what armies you will use -- that is, which factions you will play, how big the armies will be, and the composition of each army.
+
+[TIP]
+====
+Some terms that we use a lot in relation to scenarios and army-building can be confusing, because we use them in multiple ways that sometimes overlap.
+For example, 'army' can mean a faction or sub-faction -- such as the Imperial army or Space Marines -- or it can mean the army that you built before a scenario, or it can mean the sum total of forces that you use in a scenario (which may or may not be exactly the same as the army you built).
+This problem stems from the original {e40k} texts (although this type of issue is not unique to {e40k} of course).
+
+We try to disambiguate through context, and through additional terms.
+So, for example: You choose the *army* (or *faction*) that you want to play, along with a corresponding *army list* that you wish to use to guide you as you build *your army*.
+When you build your army, you record its composition, and this record is your *army roster*.
+
+// Also consider what to do with terms like: *detachment*, *detachment list* and *detachment roster/card/sheet*; *force*;
+====
+
+== How to choose your army
+
+If you've decided to play a Refight scenario with the pre-determined 'historical forces', then you and your opponent need only decide who will control each army.
+
+Otherwise, you each need to choose your army.
+You can do this any way you like, but most of the time players agree to use the xref:armies::index.adoc[standard army lists] and a <<max-points-limit>>.
+
+For most scenarios, it is usual to agree these things in advance, as you need time to:
+
+* Gather your miniatures -- and perhaps finish some assembly and paint jobs.
+* Document your army build, so you have all your roster sheets and unit data sheets ready to use in your game session.
+
+Be sure to read the details of the scenario that you intend to play before you choose your army -- they might specify restrictions or requirements for the composition of your army, or they might imply a need for tactics that make some choices particularly weak or unsuitable.
+
+[#max-points-limit]
+== Maximum points value limit
+
+Points values are a rough measure of the overall power of units in your army, in comparison to other units. 
+Each army list defines points values for the units that you can choose for an army that you build with that list.
+This helps us to balance games -- two armies of similar total points value should be roughly equivalent in overall power, if all else is equal.
+
+The maximum points value limit that you agree with your opponent sets the upper limit to the total points value of all the elements in each of your respective armies.
+
+{project-name} scales well to a wide range of maximum points value limits.
+
+As a rough guide, once you are familiar with the rules:
+
+* A limit in the range of *1,500 to 2,000* points is common for a typical game that you can easily complete within *a few hours*.
+This is ideal for the 120x180 cm playing area that we consider to be standard for {project-name}.
+* A limit in the range of *3,000 to 5,000* points will likely take *most of a day* to play.
+You might like to have two or more players on each side, to handle the forces more quickly.
+(That said, bickering over tactics might offset the gains -- but that's part of the fun too!)
+Such a limit will also require a bigger playing area -- perhaps 120x240 cm.
+* A limit *in excess of 5,000* points will likely take *a whole day or more* to play, and you'll need a correspondingly bigger playing area.
+
+.Related information
+* xref:more:more-thoughts-on-points-values-limits.adoc[]

@@ -1,5 +1,5 @@
 .Reserves Detachment Arrival table
-[%header, cols="2,^1,^1,^1,^1,^1,^1"]
+[options="autowidth", cols="<,6*^"]
 |===
 |Detachment's Reserve Speed |Turn #1 |#2 |#3 |#4 |#5 |#6
 

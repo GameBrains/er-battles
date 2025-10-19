@@ -8,17 +8,17 @@ These worlds exist as bizarre realms where the laws of physics break down and po
 == Random terrain generator
 
 .Daemon world terrain generator
-[cols="^1h,6*^", options="header"]
+[options="header", cols="^1h,6*^"]
 ////
-6 Hill
-6 River
-6 Road
-5 Cliff
-5 Temple
-3 Graveyard
-3 Wood
-1 Chaos Plain
-1 Fire Storm
+6x Hill
+6x River
+6x Road
+5x Cliff
+5x Temple
+3x Graveyard
+3x Wood
+1x Chaos Plain
+1x Fire Storm
 ////
 |===
 | D6 | 1    | 2     | 3    | 4      | 5         | 6         

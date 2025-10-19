@@ -8,17 +8,17 @@ These worlds exist as bizarre realms where the laws of physics break down and po
 == Random terrain generator
 
 .Daemon world terrain generator
-[cols="^1h,6*^", options="header"]
+[options="header", cols="^1h,6*^"]
 ////
-6 Hill
-6 River
-6 Road
-5 Cliff
-5 Temple
-3 Graveyard
-3 Wood
-1 Chaos Plain
-1 Fire Storm
+6x Hill
+6x River
+6x Road
+5x Cliff
+5x Temple
+3x Graveyard
+3x Wood
+1x Chaos Plain
+1x Fire Storm
 ////
 |===
 | D6 | 1    | 2     | 3    | 4      | 5         | 6         
@@ -70,7 +70,7 @@ A dismal graveyard or cemetery, or part of some ancient necropolis.
 It is studded with a dense array of gravestones, monoliths, tombs, sepulchral chambers and twisted trees.
 
 .Game effects
-Treat as ordinary woods.
+Treat as woods.
 footnote:[
 Of course, woods are much taller than cemeteries, so keep that in mind for line of sight purposes -- unless your scenic item represents some towering necropolis built into a hill or rising as a huge, many-tiered construct, of course!
 ]
@@ -80,8 +80,10 @@ Of course, woods are much taller than cemeteries, so keep that in mind for line 
 A river on a daemon world is rarely just a river of water -- it is much more likely to be a river of acid, bubbling tar, venomous ooze, daemonic blood, or some other horrifying substance that wends its way across the nightmare landscape.
 
 .Game effects
-Treat as an ordinary river.
-Or, you might decide that this is a more potent variety that is impassable for Infantry and/or Vehicle units and dangerous terrain for War Engine units.
+Treat as usual for a river.
+
+* *Optional*: This river is one of the more troublesome varieties.
+Treat it as impassable for Infantry and/or Vehicle units, and as dangerous terrain for War Engine units.
 
 === Road
 
@@ -89,7 +91,7 @@ The highways and byways of a daemon world tend to be much more exotic than mere 
 Examples of typically weird surfaces include polished obsidian, living flesh, or cobbles made of bone.
 
 .Game effects
-Treat as ordinary roads.
+Treat as usual for roads.
 
 === Temple
 
@@ -109,7 +111,7 @@ However, here are some ideas that you might use or build upon:
 [%collapsible]
 ====
 An opulent palace, which offers release from mortal misery, but little protection against incoming attacks.
-Treat as an ordinary building, except as follows:
+Treat as usual for a building, except as follows:
 
 * Infantry units within do not receive an Infantry Armour bonus (though they do count as 'in cover' on the Firepower table, as usual).
 ====
@@ -127,7 +129,7 @@ Treat as a fortification, with these extra effects:
 [%collapsible]
 ====
 A conduit for the power of the Warp, characterised by surreal architecture and a nightmare of ever-shifting geometries, colours and pulsating energies.
-Treat as an ordinary building, with these extra effects:
+Treat as usual for a building, with these extra effects:
 
 * During the Shooting phase, each {psyker} unit within can make a single {macro-weapon} shot with a range of 30 cm.
 (For simplicity, and to represent the overwhelming force of this attack, treat it just like a regular {macro-weapon} shot as part of the detachment's shooting -- not as a psychic attack that could be cancelled by an appropriate Fate card.)
@@ -137,7 +139,7 @@ Treat as an ordinary building, with these extra effects:
 [%collapsible]
 ====
 A seething, festering structure, ripe with corruption and filled with the stench of decay -- will likely corrupt, corrode and rot any unit that lingers too long.
-Treat as an ordinary building, with these extra effects:
+Treat as usual for a building, with these extra effects:
 
 * At the start of each turn, for each detachment that has any units within, roll a D6 -- on a 1, a random one of those units takes a hit.
 ====
@@ -146,7 +148,7 @@ Treat as an ordinary building, with these extra effects:
 [%collapsible]
 ====
 An edifice that reflects the worship of all the Chaos Gods as a single pantheon, as emanations of the same universal force.
-Treat as an ordinary building, with these extra effects:
+Treat as usual for a building, with these extra effects:
 
 * In the Rally phase, for any detachment that has units within, players may re-roll their roll to remove Blast markers.
 ====
@@ -158,7 +160,7 @@ Trees with bark that twists into hideous, screaming faces, and with branches tha
 There is an infinite array of weird things that the daemonic rulers of a given daemon world might favour: stands of monstrous arm-like fronds, clusters of giant tentacles, or towering, interconnected fungal growths that are actually one giant organism that roams across the battlefield, on the hunt for prey.
 
 .Game effects
-Treat as ordinary woods.
+Treat as usual for woods.
 You might like to add extra effects, such as:
 
 * Treat the woods as dangerous terrain.

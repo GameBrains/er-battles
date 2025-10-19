@@ -5,15 +5,15 @@
 == Random terrain generator
 
 .Hive world terrain generator
-[cols="^1h,6*^", options="header"]
+[options="header", cols="^1h,6*^"]
 ////
-8 Ash Waste
-7 Old Ruin
-6 Ash Dunes
-5 Sludge
-4 Chem Waste
-3 Mine
-3 Settlement
+8x Ash Waste
+7x Old Ruin
+6x Ash Dunes
+5x Sludge
+4x Chem Waste
+3x Mine
+3x Settlement
 ////
 |===
 | D6 | 1         | 2            | 3         | 4         | 5          | 6         

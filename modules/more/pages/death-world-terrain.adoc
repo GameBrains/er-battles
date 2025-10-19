@@ -39,27 +39,27 @@ Death worlds typically have turbulent atmospheres that make for unstable weather
 
 At the start of each turn roll a die:
 
-[cols="^1,5", options="header"]
+[options="autowidth, header", cols="^1h,5"]
 |===
 |D6
 |Weather
 
-|1 to 3
-|Clear.
+|1{nbsp}to{nbsp}3
+|*Clear*.
 The weather is relatively calm... for now.
 No effect.
 
 |4
-|Hail like boulders.
+|*Hail like boulders*.
 First, determine a random direction -- then, allocate a hit to every detachment, from this direction.
 footnote:dir[{e40k-diff}]
 
 |5
-|Extreme rain.
+|*Extreme rain*.
 Add a Blast marker to each detachment that is in the playing area.
 
 |6
-|Severe thunderstorm.
+|*Severe thunderstorm*.
 First, determine a random direction -- then, resolve a Firepower 4 attack on every detachment, from this direction.
 footnote:dir[{e40k-diff}]
 |===
@@ -67,16 +67,16 @@ footnote:dir[{e40k-diff}]
 == Random terrain generator
 
 .Death world terrain generator
-[cols="^1h,6*^", options="header"]
+[options="header", cols="^1h,6*^"]
 ////
-9 Wood
-7 Hill
-5 Ruins
-5 Swamp
-3 Outpost
-3 River
-2 Craters
-2 Lab
+9x Wood
+7x Hill
+5x Ruins
+5x Swamp
+3x Outpost
+3x River
+2x Craters
+2x Lab
 ////
 |===
 | D6 | 1        | 2       | 3     | 4       | 5         | 6

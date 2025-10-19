@@ -3,20 +3,20 @@
 == Random terrain generator
 
 .Primaeval world terrain generator
-[cols="^1h,6*^", options="header"]
+[options="header", cols="^1h,6*^"]
 ////
-7 Hill
-5 Rubble
-4 Primaeval Jungles
-3 Ash Clouds
-3 Craters
-3 Lava Flow Tunnels
-2 Boiling Mud
-2 Cooled Lava Flow
-2 Huge Rocks
-2 Magma River
-2 Volcano
-1 Crystal Forest
+7x Hill
+5x Rubble
+4x Primaeval Jungles
+3x Ash Clouds
+3x Craters
+3x Lava Flow Tunnels
+2x Boiling Mud
+2x Cooled Lava Flow
+2x Huge Rocks
+2x Magma River
+2x Volcano
+1x Crystal Forest
 ////
 |===
 | D6 | 1    | 2         | 3                 | 4                 | 5                 | 6

@@ -36,15 +36,15 @@ Or, for a quick, generalised solution that you can use with whatever terrain you
 +
 --
 .Generalised terrain generator
-[cols="^1h,6*^", options="header"]
+[options="header", cols="^1h,6*^"]
 ////
-9 A
-5 B
-5 C
-5 D
-4 E
-4 F
-4 G
+9x A
+5x B
+5x C
+5x D
+4x E
+4x F
+4x G
 ////
 |===
 | D6 | 1 | 2 | 3 | 4 | 5 | 6

@@ -3,18 +3,18 @@
 == Random terrain generator
 
 .Forge world terrain generator
-[cols="^1h,6*^", options="header"]
+[options="header", cols="^1h,6*^"]
 ////
-11 Road
-8 Scrap
-3 Depot
-3 Molten River
-3 Temple
-2 Furnace
-2 Power Station
-2 Smelting Works
-1 Factory
-1 Landing Pad
+11x Road
+8x Scrap
+3x Depot
+3x Molten River
+3x Temple
+2x Furnace
+2x Power Station
+2x Smelting Works
+1x Factory
+1x Landing Pad
 ////
 |===
 | D6 | 1    | 2     | 3     | 4             | 5             | 6            

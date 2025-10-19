@@ -3,21 +3,21 @@
 == Random terrain generator
 
 .Ice world terrain generator
-[cols="^1h,6*^", options="header"]
+[options="header", cols="^1h,6*^"]
 ////
-7 Hill
-4 Lake
-3 Glacier
-3 Ice Crevasse
-3 Research Station
-3 Thin Ice
-2 Blizzard
-2 City Entrance
-2 Iceberg
-2 Ship Wreck
-2 The Sea
-2 Thick Ice
-1 Ice Cliff
+7x Hill
+4x Lake
+3x Glacier
+3x Ice Crevasse
+3x Research Station
+3x Thin Ice
+2x Blizzard
+2x City Entrance
+2x Iceberg
+2x Ship Wreck
+2x The Sea
+2x Thick Ice
+1x Ice Cliff
 ////
 |===
 | D6 | 1    | 2         | 3                 | 4                 | 5             | 6

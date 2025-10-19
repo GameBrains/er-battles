@@ -1,6 +1,6 @@
 [.scrollable]
 --
-[cols="2,6*^,3"]
+[options="autowidth", cols="<,6*^,<"]
 .Bunker data sheet
 |===
 |Unit |Type |Speed |Range |Firepower |Assault |Armour |Notes

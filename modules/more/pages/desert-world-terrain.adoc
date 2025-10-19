@@ -3,18 +3,18 @@
 == Random terrain generator
 
 .Desert world terrain generator
-[cols="^1h,6*^", options="header"]
+[options="header", cols="^1h,6*^"]
 ////
-7 Hill
-5 Cliff
-5 Road
-4 Complex
-4 Dune
-4 Rock Spires
-2 Oasis
-2 Oil Pit
-2 Sandstorm
-1 Quicksand
+7x Hill
+5x Cliff
+5x Road
+4x Complex
+4x Dune
+4x Rock Spires
+2x Oasis
+2x Oil Pit
+2x Sandstorm
+1x Quicksand
 ////
 |===
 | D6 | 1    | 2     | 3         | 4         | 5           | 6        

@@ -5,17 +5,17 @@ An agricultural world, or 'agri-world', is a planet that is dedicated entirely t
 == Random terrain generator
 
 .Agri-world terrain generator
-[cols="^1h,6*^", options="header"]
+[options="header", cols="^1h,6*^"]
 ////
-9 Fields
-5 Farmstead
-4 Herd
-4 Hill
-4 Plantation
-3 Barn
-3 Reservoir
-3 River
-1 Settlement
+9x Fields
+5x Farmstead
+4x Herd
+4x Hill
+4x Plantation
+3x Barn
+3x Reservoir
+3x River
+1x Settlement
 ////
 |===
 | D6 | 1        | 2             | 3             | 4             | 5             | 6         
@@ -34,7 +34,7 @@ An agricultural world, or 'agri-world', is a planet that is dedicated entirely t
 A single large agricultural storage building.
 
 .Game effects
-Treat as standard for a building.
+Treat as usual for a building.
 
 === Farmstead
 
@@ -99,7 +99,7 @@ Treat as impassable for all ground units.
 A natural river, or a series of canals for irrigation, drainage or transport.
 
 .Game effects
-Treat as standard for a river.
+Treat as usual for a river.
 
 === Settlement
 
@@ -107,7 +107,7 @@ A cluster of buildings, mainly residential -- perhaps a village outskirts of a t
 Usually serviced by roads.
 
 .Game effects
-Treat as standard for buildings and roads.
+Treat as usual for buildings and roads.
 
 .Related information
 * xref:core:main-rules:snap-fire.adoc[]

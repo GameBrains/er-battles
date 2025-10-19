@@ -104,7 +104,7 @@ So, for this scenario, use these arrival rules instead:
 . The number of Reserve detachments that you may then bring into play depends on the number of them that you decided to use in your force before the start of the game:
 +
 .Fog of War Reserves Arrival table
-[cols="^1,^1"]
+[options="autowidth", cols="2*^"]
 |===
 |Number of Reserves detachments at the outset |Number that you may bring into play each turn
 
@@ -135,18 +135,18 @@ The longer the engagement goes on, the easier it becomes to work out just what t
 At the end of each Rally phase, roll a D6 and consult the table below; if you get the required score then your opponent must reveal their mission.
 +
 .Fog of War Tactical Analysis table
-[%footer,cols="2s,1,1,1,1,1"]
+[options="autowidth, footer", cols="<h,5*^"]
 |===
-|Turn |1 |2 |3 |4 |5
+|Turn |#1 |#2 |#3 |#4 |#5
 
-|Score required on D6
+|Score required on{nbsp}D6*
 |6+
 |5+
 |4+
 |3+
 |2+
 
-6+e|If your Supreme Commander unit is in the playing area, then you may re-roll the die.
+6+e|*If your {supreme-commander} unit is in the playing area, then you may re-roll the die.
 |===
 
 -- Psychic precognition::

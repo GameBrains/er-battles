@@ -4,6 +4,8 @@ An agricultural world, or 'agri-world', is a planet that is dedicated entirely t
 
 == Random terrain generator
 
+[.scrollable]
+--
 .Agri-world terrain generator
 [options="header", cols="^1h,6*^"]
 ////
@@ -26,6 +28,7 @@ An agricultural world, or 'agri-world', is a planet that is dedicated entirely t
 | 5  | Fields   | Farmstead     | Herd          | Plantation    | Barn          | River      
 | 6  | Fields   | Farmstead     | Herd          | Plantation    | Reservoir     | Settlement      
 |===
+--
 
 == Terrain types
 
@@ -42,7 +45,7 @@ A small collection of agricultural buildings, outhouses and equipment.
 Often surrounded or integrated with an enclosing wall or fence, and usually serviced by a road, or at least a dirt track.
 
 .Game effects
-Treat as usual for buildings and such, but with this optional rule if you and your opponent agree:
+Treat as usual for buildings and such.
 
 * *Optional -- the "Get off my land" special rule*:
 Farmers in this region are particularly cranky.
@@ -50,16 +53,16 @@ Any Infantry unit that approaches within 10 cm of a farmstead during the Movemen
 
 === Fields
 
-Depending on the season and the effects of war, fields might contain crops, be recently ploughed, razed, or simply fallow.
+Depending on the season and the effects of war, fields might contain crops, or be recently ploughed, razed, or simply fallow.
 Fields can vary enormously in scale -- from small fields associated with a private landholding, to very large fields that might be occupied by massive harvesting machines.
 
 .Tips for representation
 * Use a suitable area terrain item -- perhaps a realistic-looking miniature field of crops, or simply a sheet of felt or other flexible in a suitable colour or pattern.
-* Or, use linear features such as hedgerows, walls and fences to define the perimiter of the field.
+* Or, use linear features such as hedgerows, walls and fences to define the perimeter of the field.
 * Or, use both of the above options together for a nice combined effect.
 
 .Game effects
-Treat as open ground, with this difference:
+Treat as open ground, but with this difference:
 
 * Infantry units in a field count as 'in cover' on the Firepower table (but do not receive an Infantry Armour bonus).
 
@@ -82,7 +85,7 @@ For simplicity, there is no need to move the boundaries of the herd itself durin
 Plantations are similar to woods, but the trees (or similar flora) are of a uniform type, planted in straight lines.
 
 .Game effects
-Treat as woods, with this difference:
+Treat as woods, but with this difference:
 
 * Plantations are not dangerous terrain for Vehicle units.
 
@@ -92,7 +95,7 @@ A body of water, to store water to supply nearby habitation and industry.
 Reservoirs contain deep water and have steep sides, and usually have attendant attendant pumping stations, connected canals, and perhaps a dam at one end (depending on the local topography, of course).
 
 .Game effects
-Treat as impassable for all ground units.
+Treat as impassable terrain.
 
 === River
 

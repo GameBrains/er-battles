@@ -2,6 +2,8 @@
 
 == Random terrain generator
 
+[.scrollable]
+--
 .Primaeval world terrain generator
 [options="header", cols="^1h,6*^"]
 ////
@@ -27,6 +29,7 @@
 | 5  | Hill | Rubble    | Ash Clouds        | Lava Flow Tunnels | Cooled Lava Flow  | Volcano
 | 6  | Hill | Rubble    | Ash Clouds        | Lava Flow Tunnels | Huge Rocks        | Crystal Forest
 |===
+--
 
 == Terrain types
 

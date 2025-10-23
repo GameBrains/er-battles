@@ -34,6 +34,7 @@ Or, for a quick, generalised solution that you can use with whatever terrain you
 (You might decide that all hills and contours equate to slot A, woods are slot B, buildings are slot C, and so on.)
 . Use this generator:
 +
+[.scrollable]
 --
 .Generalised terrain generator
 [options="header", cols="^1h,6*^"]

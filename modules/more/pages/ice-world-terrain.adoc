@@ -2,6 +2,8 @@
 
 == Random terrain generator
 
+[.scrollable]
+--
 .Ice world terrain generator
 [options="header", cols="^1h,6*^"]
 ////
@@ -28,6 +30,7 @@
 | 5  | Hill | Lake      | Ice Crevasse      | Thin Ice          | Iceberg       | Thick Ice
 | 6  | Hill | Glacier   | Research Station  | Blizzard          | Ship Wreck    | Ice Cliff
 |===
+--
 
 == Terrain types
 

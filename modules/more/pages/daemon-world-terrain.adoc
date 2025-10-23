@@ -7,6 +7,8 @@ These worlds exist as bizarre realms where the laws of physics break down and po
 
 == Random terrain generator
 
+[.scrollable]
+--
 .Daemon world terrain generator
 [options="header", cols="^1h,6*^"]
 ////
@@ -29,6 +31,7 @@ These worlds exist as bizarre realms where the laws of physics break down and po
 | 5  | Hill | River | Road | Cliff  | Graveyard | Chaos Plain
 | 6  | Hill | River | Road | Temple | Graveyard | Fire Storm
 |===
+--
 
 == Terrain types
 
@@ -50,7 +53,7 @@ It might bear a twisted face that moans or screeches at random, or it might be s
 Even a cliff that seems ordinary at first might shake and develop landslides that may smother and crush life forms and machinery that approach it.
 
 .Game effects
-Treat as impassable for all units -- and perhaps treat as dangerous terrain for all units that pass within 5 cm.
+Treat as impassable terrain for all units -- and perhaps treat as dangerous terrain for all units that pass within 5 cm.
 
 === Fire Storm
 
@@ -71,9 +74,6 @@ It is studded with a dense array of gravestones, monoliths, tombs, sepulchral ch
 
 .Game effects
 Treat as woods.
-footnote:[
-Of course, woods are much taller than cemeteries, so keep that in mind for line of sight purposes -- unless your scenic item represents some towering necropolis built into a hill or rising as a huge, many-tiered construct, of course!
-]
 
 === River
 
@@ -83,7 +83,7 @@ A river on a daemon world is rarely just a river of water -- it is much more lik
 Treat as usual for a river.
 
 * *Optional*: This river is one of the more troublesome varieties.
-Treat it as impassable for Infantry and/or Vehicle units, and as dangerous terrain for War Engine units.
+Treat it as impassable terrain for Infantry and/or Vehicle units, and as dangerous terrain for War Engine units.
 
 === Road
 

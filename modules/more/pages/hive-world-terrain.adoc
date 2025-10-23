@@ -4,6 +4,8 @@
 
 == Random terrain generator
 
+[.scrollable]
+--
 .Hive world terrain generator
 [options="header", cols="^1h,6*^"]
 ////
@@ -24,6 +26,7 @@
 | 5  | Ash Waste | Old Ruin     | Ash Dunes | Sludge    | Chem Waste | Settlement
 | 6  | Ash Waste | Old Ruin     | Ash Dunes | Sludge    | Chem Waste | Settlement
 |===
+--
 
 == Terrain types
 

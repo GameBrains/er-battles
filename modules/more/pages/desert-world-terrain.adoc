@@ -2,6 +2,8 @@
 
 == Random terrain generator
 
+[.scrollable]
+--
 .Desert world terrain generator
 [options="header", cols="^1h,6*^"]
 ////
@@ -25,6 +27,7 @@
 | 5  | Hill | Cliff | Road      | Dune      | Rock Spires | Sandstorm    
 | 6  | Hill | Cliff | Complex   | Dune      | Oasis       | Quicksand
 |===
+--
 
 == Terrain types
 

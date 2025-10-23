@@ -66,6 +66,8 @@ footnote:dir[{e40k-diff}]
 
 == Random terrain generator
 
+[.scrollable]
+--
 .Death world terrain generator
 [options="header", cols="^1h,6*^"]
 ////
@@ -87,6 +89,7 @@ footnote:dir[{e40k-diff}]
 | 5  | Woods    | Hill    | Ruins | Swamp   | Outpost   | Laboratory
 | 6  | Woods    | Hill    | Ruins | Swamp   | River     | Laboratory
 |===
+--
 
 == Terrain types
 

@@ -2,6 +2,8 @@
 
 == Random terrain generator
 
+[.scrollable]
+--
 .Forge world terrain generator
 [options="header", cols="^1h,6*^"]
 ////
@@ -25,6 +27,7 @@
 | 5  | Road | Road  | Scrap | Molten River  | Furnace       | Factory
 | 6  | Road | Scrap | Scrap | Molten River  | Furnace       | Landing Pad        
 |===
+--
 
 == Terrain types
 

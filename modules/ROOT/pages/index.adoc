@@ -1,5 +1,24 @@
 = Battles
 
+// Exclude from PDF output (show only in HTML output).
+ifndef::loader-assembler[]
+_Version: {revnumber} | Date of this build: {docdate}_
+endif::[]
+
+// Frontmatter to show only in PDF output.
+ifdef::loader-assembler[]
+// Colophon: Show only in PDF output.
+[preface]
+include::home::partial$colophon.adoc[]
+endif::[]
+
+// Table of contents: Not relevant for HTML output. Make sure that this code is *after* all content that we want to treat as frontmatter in the PDF output.
+ifdef::loader-assembler[]
+include::home::partial$toc.adoc[]
+endif::[]
+
+== {project-name}: Battles -- the scenarios and setup for play
+
 Here you'll find guidance and ideas on how to set up a game of {project-name}.
 You'll also find scenario special rules; these are particular to some scenarios, so we detail them here rather than in the _Core_ component.
 

@@ -5,7 +5,7 @@ Drop pods are single-use planetary landing craft which afford commanders the mea
 NOTE: We also use the Drop Pods rules to represent some other technologies that perform a similar function.
 
 [NOTE.option]
-.Drop pods miniatures
+.Option: Drop pods miniatures
 ====
 You do not need to have any miniatures to represent drop pods.
 But, if you have some and you enjoy the spectacle, it can be fun to use them -- and if your opponent agrees, you could allow infantry to use them as cover.

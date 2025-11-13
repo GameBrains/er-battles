@@ -93,6 +93,6 @@ Place the appropriate Order marker, if you haven't already.
 .Related information
 * xref:core:special-rules:deep-strike.adoc[]
 * xref:scenario-special-rules:reserves.adoc[]
-* xref:core:ROOT:what-you-will-need-to-play.adoc#drop-pods-tokens[Drop Pods tokens]
-* xref:core:ROOT:what-you-will-need-to-play.adoc#barrage-templates[Barrage templates]
+* xref:core:basics:what-you-will-need-to-play.adoc#drop-pods-tokens[Drop Pods tokens]
+* xref:core:basics:what-you-will-need-to-play.adoc#barrage-templates[Barrage templates]
 * xref:core:main-rules:terrain-effects-on-movement.adoc[]

@@ -17,7 +17,8 @@ ifdef::loader-assembler[]
 include::home::partial$toc.adoc[]
 endif::[]
 
-== {project-name}: Battles -- the scenarios and setup for play
+[discrete]
+== The rules for setup and scenarios
 
 Here you'll find guidance and ideas on how to set up a game of {project-name}.
 You'll also find scenario special rules; these are particular to some scenarios, so we detail them here rather than in the _Core_ component.

@@ -5,7 +5,7 @@ Drop pods are single-use planetary landing craft which afford commanders the mea
 NOTE: We also use the Drop Pods rules to represent some other technologies that perform a similar function.
 
 [NOTE.option]
-.Drop pods miniatures
+.Option: Drop pods miniatures
 ====
 You do not need to have any miniatures to represent drop pods.
 But, if you have some and you enjoy the spectacle, it can be fun to use them -- and if your opponent agrees, you could allow infantry to use them as cover.
@@ -93,6 +93,6 @@ Place the appropriate Order marker, if you haven't already.
 .Related information
 * xref:core:special-rules:deep-strike.adoc[]
 * xref:scenario-special-rules:reserves.adoc[]
-* xref:core:ROOT:what-you-will-need-to-play.adoc#drop-pods-tokens[Drop Pods tokens]
-* xref:core:ROOT:what-you-will-need-to-play.adoc#barrage-templates[Barrage templates]
+* xref:core:basics:what-you-will-need-to-play.adoc#drop-pods-tokens[Drop Pods tokens]
+* xref:core:basics:what-you-will-need-to-play.adoc#barrage-templates[Barrage templates]
 * xref:core:main-rules:terrain-effects-on-movement.adoc[]

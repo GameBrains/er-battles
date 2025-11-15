@@ -92,4 +92,4 @@ So, we phrased the text in a way that makes this clear.
 ]
 
 .Related information
-* xref:core:ROOT:what-you-will-need-to-play.adoc#hidden-setup-markers[Hidden Setup markers]
+* xref:core:basics:what-you-will-need-to-play.adoc#hidden-setup-markers[Hidden Setup markers]

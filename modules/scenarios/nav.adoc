@@ -13,4 +13,4 @@
   *** xref:battle-5-ambush.adoc[]
   *** xref:battle-6-planetary-assault.adoc[]
  ** xref:the-fog-of-war.adoc[]
-** xref:more-scenarios.adoc[]
+//** xref:more-scenarios.adoc[]

@@ -86,7 +86,7 @@ When the game ends, determine the result as follows:
 * If the opposing players each control one bridge, or dispute both bridges, then the result is a draw.
 
 [NOTE.option]
-.Victory or Death!
+.Option: Victory or Death!
 ====
 For a real bloodbath, if both players agree, ignore the limit of D3+3 turns.
 Instead, play this scenario for as many turns as it takes until one player can claim victory by virtue of the fact that their opponent has no units left!

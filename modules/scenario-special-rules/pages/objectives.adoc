@@ -127,5 +127,5 @@ Then remove the objective marker from the playing area.
 ---
 
 .Related information
-* xref:core:ROOT:what-you-will-need-to-play.adoc#objective-markers[Objective markers]
+* xref:core:basics:what-you-will-need-to-play.adoc#objective-markers[Objective markers]
 * xref:core:main-rules:terrain-effects-on-shooting.adoc#infantry-armour-bonus[Armour bonus for infantry that are in cover]
